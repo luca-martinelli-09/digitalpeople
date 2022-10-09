@@ -8,4 +8,5 @@ categories:
   - News:
     - Tech News
 type: serial
+visible: true
 ---

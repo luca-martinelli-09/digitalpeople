@@ -3,13 +3,9 @@ import { author, baseURI } from '$lib/info'
 
 export const GET = async ({ params }) => {
   const podcast = params.slug;
+  
   const podcastInfo = await fetchPodcasts(podcast);
-
-  let allEpisodes = await fetchEpisodes(podcast);
-
-  allEpisodes = allEpisodes.sort((a, b) => {
-    return new Date(b.date) - new Date(a.date);
-  }).filter((e) => { return new Date() >= new Date(e.date) })
+  const allEpisodes = await fetchEpisodes(podcast);
 
   const headers = {
     'Content-Type': 'application/xml',
@@ -23,7 +19,7 @@ const xml =
     `<?xml version="1.0" encoding="UTF-8"?>
   <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-      <link>${baseURI}/${podcast.id}</link>
+      <link>${baseURI}/podcasts/${podcast.id}</link>
       <title>${podcast.title}</title>
       <itunes:title>${podcast.title}</itunes:title>
       <description>
@@ -40,7 +36,6 @@ const xml =
       
       <itunes:type>${podcast.type || "episodic"}</itunes:type>
       
-      
       <author>${author.name}</author>
       <itunes:author>${author.name}</itunes:author>
       <itunes:owner>
@@ -53,7 +48,7 @@ const xml =
       <image>
         <url>${podcast.image.startsWith("http") ? podcast.image : baseURI + podcast.image}</url>
         <title>${podcast.title}</title>
-        <link>${baseURI}/${podcast.id}</link>
+        <link>${baseURI}/podcasts/${podcast.id}</link>
       </image>
       
       <itunes:explicit>${podcast.explicit || "no"}</itunes:explicit>
@@ -105,8 +100,8 @@ const xml =
         <itunes:explicit>${episode.explicit || "no"}</itunes:explicit>
         <itunes:block>${episode.block || "no"}</itunes:block>
         
-        <guid>${baseURI}/${podcast.id}/${episode.id}</guid>
-        <link>${baseURI}/${podcast.id}/${episode.id}</link>
+        <guid>${baseURI}/podcasts/${podcast.id}/${episode.id}</guid>
+        <link>${baseURI}/podcasts/${podcast.id}/${episode.id}</link>
       </item>`).join("")}
     </channel>
   </rss>`

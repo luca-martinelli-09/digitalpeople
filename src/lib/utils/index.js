@@ -16,10 +16,10 @@ export const fetchPodcasts = async (podcast = null) => {
   )
 
   if (podcast) {
-    return allPodcasts.filter((p) => p.id == podcast)[0] || null;
+    return allPodcasts.filter(p => p.id == podcast).pop() || null;
   }
 
-  return allPodcasts
+  return allPodcasts.filter(p => p.visible !== false)
 }
 
 export const fetchEpisodes = async (podcast) => {
@@ -45,5 +45,7 @@ export const fetchEpisodes = async (podcast) => {
     })
   )
 
-  return allEpisodes
+  return allEpisodes.sort((a, b) => {
+    return new Date(b.date) - new Date(a.date);
+  }).filter((e) => { return new Date() >= new Date(e.date) })
 }
