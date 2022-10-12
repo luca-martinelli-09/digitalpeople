@@ -4,13 +4,14 @@ export const fetchPodcasts = async (podcast = null) => {
 
   const allPodcasts = await Promise.all(
     iterablePodcastsFiles.map(async ([path, resolver]) => {
-      const { metadata } = await resolver()
+      const resolve = await resolver()
       const tokens = path.split("/")
       const podcast = tokens[tokens.length - 2];
 
       return {
         id: podcast,
-        ...metadata
+        ...resolve.metadata,
+        description: resolve.default.render().html
       }
     })
   )
@@ -28,7 +29,8 @@ export const fetchEpisodes = async (podcast) => {
 
   const allEpisodes = await Promise.all(
     iterableEpisodesFiles.map(async ([path, resolver]) => {
-      const { metadata } = await resolver()
+      const resolve = await resolver()
+
       const tokens = path.split("/")
       const folder = tokens[tokens.length - 2];
 
@@ -37,7 +39,8 @@ export const fetchEpisodes = async (podcast) => {
 
         return {
           id: episode,
-          ...metadata
+          ...resolve.metadata,
+          description: resolve.default.render().html
         }
       }
 
