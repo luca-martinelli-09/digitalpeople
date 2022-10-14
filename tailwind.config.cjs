@@ -3,10 +3,13 @@ module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   darkMode: 'class',
   theme: {
-    fontFamily: {},
+    fontFamily: {
+      body: ['"Roboto Slab"', 'serif'],
+      display: ['"Voltaire"', 'sans-serif'],
+    },
     extend: {
       colors: {
-        background: "#fff",
+        background: "#FFF8F3",
         "background-dark": "#251B37"
       }
     },

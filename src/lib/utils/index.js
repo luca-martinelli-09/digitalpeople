@@ -2,7 +2,7 @@ export const fetchPodcasts = async (podcast = null) => {
   const allPodcastsFiles = import.meta.glob('../../routes/podcasts/*/index.md')
   const iterablePodcastsFiles = Object.entries(allPodcastsFiles)
 
-  const allPodcasts = await Promise.all(
+  let allPodcasts = await Promise.all(
     iterablePodcastsFiles.map(async ([path, resolver]) => {
       const resolve = await resolver()
       const tokens = path.split("/")
@@ -15,6 +15,8 @@ export const fetchPodcasts = async (podcast = null) => {
       }
     })
   )
+  
+  allPodcasts = allPodcasts.sort((a, b) => (b.fixed * 1 || 0) - (a.fixed * 1 || 0))
 
   if (podcast) {
     return allPodcasts.filter(p => p.id == podcast).pop() || null;

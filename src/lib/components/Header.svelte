@@ -1,3 +1,5 @@
-<header class="flex py-5 px-3 lg:px-5 items-center gap-5">
-  <img class="h-10" src="/logo.svg" alt="Digital People" />
-</header>
+<div class="px-3">
+  <header class="flex py-5 items-center gap-5 max-w-screen-lg mx-auto">
+    <a href="/"><img class="h-10" src="/logo.svg" alt="Digital People" /></a>
+  </header>
+</div>
