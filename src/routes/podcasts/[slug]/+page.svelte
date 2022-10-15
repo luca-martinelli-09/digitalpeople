@@ -22,11 +22,23 @@
 
 <article class="flex gap-10 rounded-xl">
   <img class="w-80 aspect-square rounded-xl" src={podcast.image} alt={podcast.title} />
-  <div>
+  <div class="flex flex-col gap-5">
     <h1 class="font-display uppercase font-bold text-4xl mt-3">{podcast.title}</h1>
-    <div class="mt-5 text-justify">
+    <div class="text-justify">
       <svelte:component this={podcast.description} />
     </div>
+    {#if podcast.platforms}
+      <div class="text-3xl flex flex-col gap-3">
+        <h3 class="font-display font-bold text-xl">Ascoltalo su</h3>
+        <div class="flex">
+          {#if podcast.platforms.spotify}
+            <a href={podcast.platforms.spotify} target="_blank" rel="noopener noreferrer">
+              <Icon icon="logos:spotify-icon" />
+            </a>
+          {/if}
+        </div>
+      </div>
+    {/if}
   </div>
 </article>
 

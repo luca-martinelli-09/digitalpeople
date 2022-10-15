@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     fontFamily: {
       body: ['"Roboto Slab"', 'serif'],
-      display: ['"Voltaire"', 'sans-serif'],
+      display: ['"Advent Pro"', 'sans-serif'],
     },
     extend: {
       colors: {
