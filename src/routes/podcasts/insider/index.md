@@ -1,4 +1,5 @@
 ---
+id: insider
 title: INSiDER - Dentro la Tecnologia
 summary: La nostra prospettiva sul mondo della tecnologia del ventunesimo secolo. Il focus è quello dell'esperienza utente, cioè il rapporto Uomo-Macchina.
 image: https://www.dentrolatecnologia.it/immagini/s0e0.jpg

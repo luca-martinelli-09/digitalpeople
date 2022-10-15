@@ -5,9 +5,17 @@
 @tailwind utilities;
 
 body {
-  @apply bg-background dark:bg-background-dark dark:text-white font-body transition-colors ease-in-out duration-500;
+  @apply bg-background dark:bg-background-dark dark:text-white font-body transition-colors duration-500;
 }
 
 article a {
   @apply underline;
+}
+
+.player-hover {
+  @apply opacity-0 transition-opacity duration-300 absolute rounded-lg inset-0 flex items-center justify-center bg-black bg-opacity-30 backdrop-blur-sm;
+}
+
+.episode:hover .player-hover {
+  @apply opacity-100;
 }
