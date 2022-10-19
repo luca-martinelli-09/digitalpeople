@@ -1,3 +1,8 @@
-import { writable } from 'svelte/store';
+import { writable } from "svelte/store";
 
-export const playing = writable(null);
+export let playingStatus = writable({
+  isPlaying: false,
+  currentTime: 0,
+  currentPodcast: null,
+  currentEpisode: null,
+});

@@ -13,7 +13,7 @@
 <Header />
 
 <main class="mt-10 mb-16 px-3">
-  <div class="max-w-screen-lg mx-auto">
+  <div class="max-w-screen-xl mx-auto">
     <slot />
   </div>
 </main>

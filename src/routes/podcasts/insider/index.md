@@ -5,7 +5,7 @@ summary: La nostra prospettiva sul mondo della tecnologia del ventunesimo secolo
 image: https://www.dentrolatecnologia.it/immagini/s0e0.jpg
 external: https://www.dentrolatecnologia.it/
 visible: true
-color: "#FFF8BC"
+scheme: ["#FFF5E4"]
 fixed: true
 ---
 

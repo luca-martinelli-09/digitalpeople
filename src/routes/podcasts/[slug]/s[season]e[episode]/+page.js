@@ -1,11 +1,19 @@
-import { json } from '@sveltejs/kit';
+export const load = async ({ params, fetch }) => {
+  const podcast = await import(`../../${params.slug}/index.md`)
+  const episode = await import(`../../${params.slug}/s${params.season}e${params.episode}.md`)
 
-export const GET = async ({ params }) => {
-  const season = params.season;
-  const episode = params.episode;
+  const response = await fetch(`/api/podcasts/${params.slug}`)
+  const episodes = await response.json()
 
-  return json({
-    season: season,
-    episode: episode
-  })
+  return {
+    podcast: {
+      ...podcast.metadata,
+      description: podcast.default
+    },
+    episode: {
+      ...episode.metadata,
+      description: episode.default
+    },
+    episodes
+  }
 }

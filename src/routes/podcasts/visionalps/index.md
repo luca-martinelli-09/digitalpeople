@@ -8,10 +8,10 @@ categories:
   - Technology
 type: episodic
 visible: true
-color: "#C8FFD4"
-colorDark: "#1C6758"
+scheme: ["#d6e2db", "#eaf5d6", "#d2ee9f", "#316b83"]
 platforms:
   spotify: https://open.spotify.com/show/05dvqOp98hTDX3WZWIDBLD
+  google: https://podcasts.google.com/feed/aHR0cHM6Ly93M2lkLm9yZy9kaWdpdGFscGVvcGxlL3BvZGNhc3RzL3Zpc2lvbmFscHMvcnNz
 ---
 
 [VisionAlps](https://www.visionalps.com/) è il podcast dell'omonima serie di incontri, che analizza il punto di vista di istituzioni e professionisti sugli scenari di sviluppo delle Alpi, in particolare sul ruolo del digitale nella trasformazione del territorio e dell'ecosistema alpino.
