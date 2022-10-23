@@ -88,36 +88,18 @@
         artist: playingStatus.currentPodcast.title,
         artwork: [{ src: playingStatus.currentEpisode.image }],
       });
-      navigator.mediaSession.setActionHandler("play", () =>
-        pS.set({
-          ...playingStatus,
-          isPlaying: true,
-        })
-      );
-      navigator.mediaSession.setActionHandler("pause", () =>
-        pS.set({
-          ...playingStatus,
-          isPlaying: false,
-        })
-      );
-      navigator.mediaSession.setActionHandler("seekbackward", (seekOffset) =>
-        pS.set({
-          ...playingStatus,
-          currentTime: playingStatus.currentTime - seekOffset,
-        })
-      );
-      navigator.mediaSession.setActionHandler("seekforward", (seekOffset) =>
-        pS.set({
-          ...playingStatus,
-          currentTime: playingStatus.currentTime + seekOffset,
-        })
-      );
-      navigator.mediaSession.setActionHandler("seekto", (seekTime) =>
-        pS.set({
-          ...playingStatus,
-          currentTime: seekTime,
-        })
-      );
+      navigator.mediaSession.setActionHandler("play", () => player.play());
+      navigator.mediaSession.setActionHandler("pause", () => player.pause());
+      navigator.mediaSession.setActionHandler("seekbackward", (e) => (player.currentTime = Math.max(player.currentTime - (e.seekOffset || 10), 0)));
+      navigator.mediaSession.setActionHandler("seekforward", (e) => (player.currentTime = Math.min(player.currentTime + (e.seekOffset || 10), player.duration)));
+      navigator.mediaSession.setActionHandler("seekto", (e) => {
+        if (e.fastSeek && "fastSeek" in player) {
+          player.fastSeek(e.seekTime);
+          return;
+        }
+
+        player.currentTime = e.seekTime;
+      });
     }
   });
 </script>
