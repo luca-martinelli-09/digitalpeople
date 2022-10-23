@@ -4,12 +4,18 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --track-bg: #fefefe;
+  --progress-bg: rgb(51 65 85);
+  --thumb-bg: transparent;
+}
+
 body {
   @apply bg-white dark:bg-background-dark dark:text-white font-body transition-colors duration-500;
 }
 
 .description a {
-  @apply border-b-2 border-dashed border-blue-600;
+  @apply text-blue-700;
 }
 
 .button {

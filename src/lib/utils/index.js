@@ -15,7 +15,7 @@ export const fetchPodcasts = async (podcast = null) => {
       }
     })
   )
-  
+
   allPodcasts = allPodcasts.sort((a, b) => (b.fixed * 1 || 0) - (a.fixed * 1 || 0))
 
   if (podcast) {
@@ -53,4 +53,25 @@ export const fetchEpisodes = async (podcast) => {
   return allEpisodes.sort((a, b) => {
     return new Date(b.date) - new Date(a.date);
   }).filter((e) => { return new Date() >= new Date(e.date) })
+}
+
+export const secondsToText = (time, extended = false) => {
+  if (isNaN(time)) {
+    return "00:00"
+  }
+
+  time = parseInt(time, 10);
+  let minutes = Math.floor(time / 60);
+  let seconds = time - (minutes * 60);
+
+  if (extended) {
+    let mS = minutes == 1 ? 'o' : 'i';
+    let sS = seconds == 1 ? 'o' : 'i';
+    return `${minutes} minut${mS}, ${seconds} second${sS}`
+  }
+
+  if (minutes < 10) { minutes = "0" + minutes; }
+  if (seconds < 10) { seconds = "0" + seconds; }
+
+  return minutes + ':' + seconds;
 }

@@ -10,6 +10,7 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
+		"@bulatdashiev/svelte-slider": "^1.0.3",
 		"@iconify/svelte": "^2.2.1",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/adapter-node": "^1.0.0-next.88",
