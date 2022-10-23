@@ -1,5 +1,5 @@
 <script>
-  import { afterUpdate, onMount } from "svelte";
+  import { onMount } from "svelte";
   import { playingStatus as pS } from "$lib/stores.js";
   import Icon from "@iconify/svelte";
   import { secondsToText } from "$lib/utils";
@@ -88,6 +88,12 @@
       duration: player.duration,
     });
     currentTime = [(player.currentTime / player.duration) * 100, 100];
+
+    mediaSession.setPositionState({
+      duration: player.duration,
+      playbackRate: player.playbackRate,
+      position: player.currentTime,
+    });
   }
 
   function setTimeSlider(e) {
