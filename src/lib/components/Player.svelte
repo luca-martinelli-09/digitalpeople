@@ -1,4 +1,5 @@
 <script>
+  import { onMount, afterUpdate } from "svelte";
   import { playingStatus as pS } from "$lib/stores.js";
   import Icon from "@iconify/svelte";
   import { secondsToText } from "$lib/utils";
@@ -79,6 +80,46 @@
       player.currentTime = (val / 100) * (player.duration || 0);
     } catch (error) {}
   }
+
+  afterUpdate(() => {
+    if ("mediaSession" in navigator) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: playingStatus.currentEpisode.title,
+        artist: playingStatus.currentPodcast.title,
+        artwork: [{ src: playingStatus.currentEpisode.image }],
+      });
+      navigator.mediaSession.setActionHandler("play", () =>
+        pS.set({
+          ...playingStatus,
+          isPlaying: true,
+        })
+      );
+      navigator.mediaSession.setActionHandler("pause", () =>
+        pS.set({
+          ...playingStatus,
+          isPlaying: false,
+        })
+      );
+      navigator.mediaSession.setActionHandler("seekbackward", (seekOffset) =>
+        pS.set({
+          ...playingStatus,
+          currentTime: playingStatus.currentTime - seekOffset,
+        })
+      );
+      navigator.mediaSession.setActionHandler("seekforward", (seekOffset) =>
+        pS.set({
+          ...playingStatus,
+          currentTime: playingStatus.currentTime + seekOffset,
+        })
+      );
+      navigator.mediaSession.setActionHandler("seekto", (seekTime) =>
+        pS.set({
+          ...playingStatus,
+          currentTime: seekTime,
+        })
+      );
+    }
+  });
 </script>
 
 {#if episode}

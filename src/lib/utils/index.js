@@ -51,7 +51,9 @@ export const fetchEpisodes = async (podcast) => {
   )
 
   return allEpisodes.sort((a, b) => {
-    return new Date(b.date) - new Date(a.date);
+    return a.season - b.season;
+  }).sort((a, b) => {
+    return a.episode - b.episode;
   }).filter((e) => { return new Date() >= new Date(e.date) })
 }
 
