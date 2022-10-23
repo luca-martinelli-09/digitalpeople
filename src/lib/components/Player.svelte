@@ -89,11 +89,13 @@
     });
     currentTime = [(player.currentTime / player.duration) * 100, 100];
 
-    mediaSession.setPositionState({
-      duration: player.duration,
-      playbackRate: player.playbackRate,
-      position: player.currentTime,
-    });
+    if (mediaSession) {
+      mediaSession.setPositionState({
+        duration: player.duration,
+        playbackRate: player.playbackRate,
+        position: player.currentTime,
+      });
+    }
   }
 
   function setTimeSlider(e) {

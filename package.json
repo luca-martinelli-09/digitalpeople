@@ -1,5 +1,5 @@
 {
-	"name": "datareports",
+	"name": "digitalpeople",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -22,8 +22,6 @@
 		"dotenv": "^16.0.2",
 		"echarts": "^5.3.3",
 		"html-minifier": "^4.0.0",
-		"leaflet": "^1.8.0",
-		"leaflet.markercluster": "^1.5.3",
 		"mdsvex": "^0.10.6",
 		"postcss": "^8.4.16",
 		"rehype-accessible-emojis": "^0.3.2",
