@@ -1,5 +1,5 @@
 <script>
-  import { afterUpdate } from "svelte";
+  import { afterUpdate, onMount } from "svelte";
   import { playingStatus as pS } from "$lib/stores.js";
   import Icon from "@iconify/svelte";
   import { secondsToText } from "$lib/utils";
@@ -61,6 +61,12 @@
 
     if (mediaSession) {
       mediaSession.playbackState = "playing";
+
+      mediaSession.metadata = new MediaMetadata({
+        title: playingStatus.currentEpisode.title,
+        artist: playingStatus.currentPodcast.title,
+        artwork: [{ src: playingStatus.currentEpisode.image }],
+      });
     }
   }
 
@@ -91,15 +97,10 @@
     } catch (error) {}
   }
 
-  afterUpdate(() => {
+  onMount(() => {
     if ("mediaSession" in navigator) {
       mediaSession = navigator.mediaSession;
 
-      navigator.mediaSession.metadata = new MediaMetadata({
-        title: playingStatus.currentEpisode.title,
-        artist: playingStatus.currentPodcast.title,
-        artwork: [{ src: playingStatus.currentEpisode.image }],
-      });
       navigator.mediaSession.setActionHandler("play", () => player.play());
       navigator.mediaSession.setActionHandler("pause", () => player.pause());
       navigator.mediaSession.setActionHandler("seekbackward", (e) => (player.currentTime = Math.max(player.currentTime - (e.seekOffset || 10), 0)));
