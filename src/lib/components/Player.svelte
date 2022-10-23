@@ -1,5 +1,5 @@
 <script>
-  import { onMount, afterUpdate } from "svelte";
+  import { afterUpdate } from "svelte";
   import { playingStatus as pS } from "$lib/stores.js";
   import Icon from "@iconify/svelte";
   import { secondsToText } from "$lib/utils";
@@ -13,6 +13,8 @@
   let currentTime;
 
   let playingStatus;
+
+  let mediaSession;
 
   pS.subscribe((val) => {
     episode = val?.currentEpisode;
@@ -56,6 +58,10 @@
       ...playingStatus,
       isPlaying: true,
     });
+
+    if (mediaSession) {
+      mediaSession.playbackState = "playing";
+    }
   }
 
   function setPause() {
@@ -63,6 +69,10 @@
       ...playingStatus,
       isPlaying: false,
     });
+
+    if (mediaSession) {
+      mediaSession.playbackState = "paused";
+    }
   }
 
   function setTime() {
@@ -83,6 +93,8 @@
 
   afterUpdate(() => {
     if ("mediaSession" in navigator) {
+      mediaSession = navigator.mediaSession;
+
       navigator.mediaSession.metadata = new MediaMetadata({
         title: playingStatus.currentEpisode.title,
         artist: playingStatus.currentPodcast.title,
@@ -101,6 +113,8 @@
         player.currentTime = e.seekTime;
       });
     }
+
+    return;
   });
 </script>
 
