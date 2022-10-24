@@ -1,7 +1,7 @@
 ---
 id: visionalps
 title: VisionAlps
-summary: VisionAlps è il podcast dell'omonima serie di incontri, che analizza il punto di vista vista di istituzioni e professionisti sugli scenari di sviluppo delle Alpi, in particolare sul ruolo del digitale nella trasformazione del territorio e dell'ecosistema alpino.
+summary: VisionAlps è il podcast dell'omonima serie di incontri, che analizza il punto di vista di istituzioni e professionisti sugli scenari di sviluppo delle Alpi, in particolare sul ruolo del digitale nella trasformazione del territorio e dell'ecosistema alpino.
 image: /podcasts/visionalps/cover.jpg
 language: it
 categories:
