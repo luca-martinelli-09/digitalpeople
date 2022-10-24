@@ -19,7 +19,7 @@
       <PlayButton {podcast} {episodes} {episode} />
     </div>
   </div>
-  <div class="flex sm:hidden lg:flex items-center">
+  <div class="flex sm:hidden lg:flex items-start">
     <img class="w-full sm:w-80 sm:h-80 max-w-none rounded-2xl" src={episode.image} alt={episode.title} />
   </div>
 </article>
