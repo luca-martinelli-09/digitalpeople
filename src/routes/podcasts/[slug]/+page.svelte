@@ -75,7 +75,7 @@
     {/if}
   </div>
   <div class="flex sm:hidden lg:flex items-center">
-    <img class="w-full sm:w-80 sm:h-80 max-w-none rounded-2xl" src={podcast.image} alt={podcast.title} />
+    <img class="w-full sm:w-80 sm:h-80 max-w-none rounded-2xl" src={podcast.imageset?.[0] || podcast.image} alt={podcast.title} />
   </div>
 </article>
 
