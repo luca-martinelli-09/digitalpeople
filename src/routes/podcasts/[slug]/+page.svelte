@@ -8,7 +8,7 @@
   const episodes = data.episodes;
 </script>
 
-<article class="flex flex-col-reverse md:flex-row gap-10 rounded-3xl p-10" style="background-color: {podcast.scheme[0]};">
+<article class="flex flex-col-reverse md:flex-row gap-10 rounded-3xl p-10" style="background-color: {podcast.scheme?.[0]};">
   <div class="flex flex-col gap-5">
     <h1 class="font-bold text-4xl sm:text-5xl">{podcast.title}</h1>
     <div class="text-justify description">

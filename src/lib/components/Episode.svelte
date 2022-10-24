@@ -23,12 +23,12 @@
   }
 </script>
 
-<a href="{podcast.id}/s{episode.season}e{episode.episode}" class="flex gap-5 p-7 rounded-3xl overflow-hidden" style="background-color: {podcast.scheme[1]}">
+<a href="{podcast.id}/s{episode.season}e{episode.episode}" class="flex gap-5 p-7 rounded-3xl overflow-hidden" style="background-color: {podcast.scheme?.[1]}">
   <div class="hidden md:flex items-center">
-    <img class="h-52 w-52 max-w-none rounded-xl" src={episode.image} alt={episode.title} />
+    <img class="h-52 w-52 max-w-none rounded-xl" src={(episode.imageset?.[0] || episode.image)} alt={episode.title} />
   </div>
   <div class="flex flex-col gap-3">
-    <span class="text-sm font-bold mt-3" style="color: {podcast.scheme[3]}">Stagione {episode.season}, Episodio {episode.episode}</span>
+    <span class="text-sm font-bold mt-3" style="color: {podcast.scheme?.[3]}">Stagione {episode.season}, Episodio {episode.episode}</span>
     <h3 class="font-bold text-xl sm:text-2xl">{episode.title}</h3>
     <div class="text-justify text-sm">{@html episode.summary}</div>
     <div class="flex mt-2">

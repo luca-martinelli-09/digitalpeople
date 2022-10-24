@@ -99,7 +99,7 @@
   }
 
   function setTimeSlider(e) {
-    const val = e.detail[0];
+    const val = e.detail?.[0];
     try {
       player.currentTime = (val / 100) * (player.duration || 0);
     } catch (error) {}
@@ -128,9 +128,9 @@
 </script>
 
 {#if episode}
-  <div class="episode md:rounded-2xl md:rounded-bl-none p-3 flex gap-5 md:gap-3 shadow-y-2 md:shadow-md items-center" style="background-color: {podcast.scheme[0]}">
+  <div class="episode md:rounded-2xl md:rounded-bl-none p-3 flex gap-5 md:gap-3 shadow-y-2 md:shadow-md items-center" style="background-color: {podcast.scheme?.[0]}">
     <div class="relative">
-      <img class="h-20 w-20 md:h-16 md:w-16 max-w-none aspect-square rounded-xl" src={episode.image} alt={episode.title} />
+      <img class="h-20 w-20 md:h-16 md:w-16 max-w-none aspect-square rounded-xl" src={(episode.imageset?.[0] || episode.image)} alt={episode.title} />
     </div>
     <div class="flex flex-1 flex-col gap-3">
       <h4 class="text-base md:text-sm font-semibold">{episode.title}</h4>
