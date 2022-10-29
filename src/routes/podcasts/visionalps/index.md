@@ -17,7 +17,7 @@ scheme:
 - '#d2ee9f'
 - '#316b83'
 platforms:
-  spotify: https://open.spotify.com/show/05dvqOp98hTDX3WZWIDBLD
+  spotify: https://open.spotify.com/show/3LEMmQFIHDPbQGCnsvYMnT
   google: https://podcasts.google.com/feed/aHR0cHM6Ly93M2lkLm9yZy9kaWdpdGFscGVvcGxlL3BvZGNhc3RzL3Zpc2lvbmFscHMvcnNz
 imageset:
 - /podcasts/visionalps/cover.1000x1000.webp
