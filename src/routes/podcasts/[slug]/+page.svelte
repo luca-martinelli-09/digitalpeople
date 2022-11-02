@@ -24,6 +24,11 @@
                 <Icon icon="logos:spotify-icon" />
               </a>
             {/if}
+            {#if podcast.platforms.apple}
+              <a href={podcast.platforms.apple} target="_blank" rel="noopener noreferrer">
+                <Icon icon="fa6-solid:podcast" style="color: #B150E2" />
+              </a>
+            {/if}
             {#if podcast.platforms.google}
               <a href={podcast.platforms.google} target="_blank" rel="noopener noreferrer">
                 <svg

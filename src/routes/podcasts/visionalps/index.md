@@ -19,6 +19,7 @@ scheme:
 platforms:
   spotify: https://open.spotify.com/show/3LEMmQFIHDPbQGCnsvYMnT
   google: https://podcasts.google.com/feed/aHR0cHM6Ly93M2lkLm9yZy9kaWdpdGFscGVvcGxlL3BvZGNhc3RzL3Zpc2lvbmFscHMvcnNz
+  apple: https://podcasts.apple.com/us/podcast/visionalps/id1651093247
 imageset:
 - /podcasts/visionalps/cover.1000x1000.webp
 ---
