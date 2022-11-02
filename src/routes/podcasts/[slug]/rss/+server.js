@@ -1,9 +1,10 @@
 import { fetchPodcasts, fetchEpisodes } from '$lib/utils'
-import { author, baseURI } from '$lib/info'
+import { author, baseURI, realBaseURI } from '$lib/info'
 
-export const GET = async ({ params }) => {
+export const GET = async ({ url, params }) => {
   const podcast = params.slug;
-  
+  const real = url.searchParams.get("direct");
+
   const podcastInfo = await fetchPodcasts(podcast);
   const allEpisodes = await fetchEpisodes(podcast);
 
@@ -11,15 +12,15 @@ export const GET = async ({ params }) => {
     'Content-Type': 'application/xml',
   }
 
-  return new Response(xml(podcastInfo, allEpisodes), { headers })
+  return new Response(xml(podcastInfo, allEpisodes, real ? realBaseURI : baseURI), { headers })
 }
 
 const xml =
-  (podcast, episodes) =>
+  (podcast, episodes, uri) =>
     `<?xml version="1.0" encoding="UTF-8"?>
   <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-      <link>${baseURI}/podcasts/${podcast.id}</link>
+      <link>${uri}/podcasts/${podcast.id}</link>
       <title>${podcast.title}</title>
       <itunes:title>${podcast.title}</itunes:title>
       <description>
@@ -44,11 +45,11 @@ const xml =
       </itunes:owner>
       <copyright>${podcast.copyright || "Creative Commons Attribuzione - Non opere derivate 4.0 Internazionale"}</copyright>
       
-      <itunes:image href="${podcast.image.startsWith("http") ? podcast.image : baseURI + podcast.image}" />
+      <itunes:image href="${podcast.image.startsWith("http") ? podcast.image : uri + podcast.image}" />
       <image>
-        <url>${podcast.image.startsWith("http") ? podcast.image : baseURI + podcast.image}</url>
+        <url>${podcast.image.startsWith("http") ? podcast.image : uri + podcast.image}</url>
         <title>${podcast.title}</title>
-        <link>${baseURI}/podcasts/${podcast.id}</link>
+        <link>${uri}/podcasts/${podcast.id}</link>
       </image>
       
       <itunes:explicit>${podcast.explicit || "no"}</itunes:explicit>
@@ -89,19 +90,19 @@ const xml =
         </itunes:summary>
 
         <enclosure
-          url="${episode.audio?.file.startsWith("http") ? episode.audio?.file : baseURI + episode.audio?.file}"
+          url="${episode.audio?.file.startsWith("http") ? episode.audio?.file : uri + episode.audio?.file}"
           type="${episode.audio?.type || "audio/mpeg"}"
           length="${episode.audio?.size || 0}"
         />
         <itunes:duration>${episode.audio?.duration || 0}</itunes:duration>
 
-        <itunes:image href="${episode.image.startsWith("http") ? episode.image : baseURI + episode.image}" />
+        <itunes:image href="${episode.image.startsWith("http") ? episode.image : uri + episode.image}" />
 
         <itunes:explicit>${episode.explicit || "no"}</itunes:explicit>
         <itunes:block>${episode.block || "no"}</itunes:block>
         
         <guid>${baseURI}/podcasts/${podcast.id}/${episode.id}</guid>
-        <link>${baseURI}/podcasts/${podcast.id}/${episode.id}</link>
+        <link>${uri}/podcasts/${podcast.id}/${episode.id}</link>
       </item>`).join("")}
     </channel>
   </rss>`
