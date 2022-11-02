@@ -1,5 +1,6 @@
 import { fetchPodcasts, fetchEpisodes } from '$lib/utils'
 import { author, baseURI, realBaseURI } from '$lib/info'
+import { dayjs } from "svelte-time";
 
 export const GET = async ({ url, params }) => {
   const podcast = params.slug;
@@ -66,11 +67,15 @@ const xml =
           </itunes:category>`;
     }).join("")}
       
-      ${episodes.map(episode =>
-      `<item>
+      ${episodes.map(episode => {
+      const d = dayjs(new Date(episode.date))
+
+      const formattedDate = d.format("ddd, DD MMM YYYY HH:mm:ss ZZ");
+
+      return `<item>
         <title>${episode.title}</title>
         <itunes:title>${episode.title}</itunes:title>
-        <pubDate>${new Date(episode.date)}</pubDate>
+        <pubDate>${formattedDate}</pubDate>
 
         ${episode.season ? `<itunes:season>${episode.season}</itunes:season>` : ""}
         ${episode.episode ? `<itunes:episode>${episode.episode}</itunes:episode>` : ""}
@@ -103,6 +108,6 @@ const xml =
         
         <guid>${baseURI}/podcasts/${podcast.id}/${episode.id}</guid>
         <link>${uri}/podcasts/${podcast.id}/${episode.id}</link>
-      </item>`).join("")}
+      </item>`}).join("")}
     </channel>
   </rss>`
