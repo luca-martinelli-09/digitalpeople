@@ -36,7 +36,7 @@ const xml =
       </itunes:summary>
       <language>${podcast.language || "it"}</language>
       
-      <itunes:type>${podcast.type || "episodic"}</itunes:type>
+      ${podcast.type ? `<itunes:type>${podcast.type || "episodic"}</itunes:type>` : ""}
       
       <author>${author.name}</author>
       <itunes:author>${author.name}</itunes:author>
@@ -81,7 +81,7 @@ const xml =
         ${episode.episode ? `<itunes:episode>${episode.episode}</itunes:episode>` : ""}
         ${episode.keywords ? `<itunes:keywords>${episode.keywords.join(",")}</itunes:keywords>` : ""}
 
-        <itunes:episodeType>${episode.type || "full"}</itunes:episodeType>
+        ${episode.type ? `<itunes:episodeType>${episode.type || "full"}</itunes:episodeType>` : ""}
 
         <description>
           <![CDATA[
