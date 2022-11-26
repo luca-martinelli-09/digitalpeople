@@ -1,7 +1,7 @@
 ---
 title: Michele Diasio - Connettività, hub di innovazione e smart cities per accelerare
   lo sviluppo di Sondrio @Sondrio
-date: 2022-10-20 18:00:00
+date: '2022-10-20 19:40:00'
 image: /podcasts/visionalps/michele-diasio/cover.jpg
 summary: In questa puntata Michele Diasio, ci ha parlato del ruolo dell’infrastruttura
   digitale a supporto del lavoro da remoto, degli spazi di coworking realizzati e

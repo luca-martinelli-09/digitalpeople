@@ -1,7 +1,7 @@
 ---
 title: Stefano Carbone - Scie di Passione, dove la disabilità è normalità, in inverno
   ed in estate @Aosta
-date: 2022-11-10 18:00:00
+date: '2022-11-10 20:00:00'
 image: /podcasts/visionalps/stefano-carbone/cover.jpg
 summary: In questa puntata Stefano Carbone ci ha parlato della sua scuola di sci,
   che ha l’obiettivo di essere una scuola accessibile e inclusiva a quante più persone

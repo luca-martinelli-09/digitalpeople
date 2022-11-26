@@ -1,6 +1,6 @@
 ---
 title: Edoardo Colombo - Il rapporto tra turismo e smart working @Sondrio
-date: 2022-10-20 18:00:00
+date: '2022-10-20 18:40:00'
 image: /podcasts/visionalps/edoardo-colombo/cover.jpg
 summary: In questa puntata Edoardo Colombo ci ha parlato del rapporto che intercorre
   tra turismo e smart working, sottolineando l’importanza che ricoprono le infrastrutture

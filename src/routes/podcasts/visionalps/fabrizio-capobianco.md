@@ -1,7 +1,7 @@
 ---
 title: Fabrizio Capobianco - Smart working e lavoro tradizionale, qual è la soluzione
   migliore? @Sondrio
-date: 2022-10-20 18:00:00
+date: '2022-10-20 18:10:00'
 image: /podcasts/visionalps/fabrizio-capobianco/cover.jpg
 summary: In questa puntata Fabrizio Capobianco ci ha illustrato, secondo il suo punto
   di vista, quali sono i vantaggi e le criticità del lavoro a distanza nel territorio

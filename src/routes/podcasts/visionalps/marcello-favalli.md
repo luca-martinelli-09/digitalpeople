@@ -1,7 +1,7 @@
 ---
 title: Marcello Favalli - Un modo innovativo per spedire i nostri pacchi con SiWeGo
   @Bolzano
-date: 2022-11-03 18:00:00
+date: '2022-11-03 18:50:00'
 image: /podcasts/visionalps/marcello-favalli/cover.jpg
 summary: In questa puntata Marcello Favalli ci ha spiegato come la loro applicazione
   riesce a migliorare e ridurre la viabilità, anche da un punto di vista sostenibile,

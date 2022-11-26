@@ -1,6 +1,6 @@
 ---
 title: Alfonso Mantero - Problemi e soluzioni nel mondo dell’innovazione @Aosta
-date: 2022-11-10 18:00:00
+date: '2022-11-10 18:20:00'
 image: /podcasts/visionalps/alfonso-mantero/cover.jpg
 summary: In questa puntata Alfonso Mantero ci ha portato il suo punto di vista sui
   problemi nel mondo dell’innovazione e delle possibili soluzioni per risolverli.

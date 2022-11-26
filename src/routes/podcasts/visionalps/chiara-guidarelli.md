@@ -1,6 +1,6 @@
 ---
 title: Chiara Guidarelli - Lavorare nella natura con NATworking @Sondrio
-date: 2022-10-20 18:00:00
+date: '2022-10-20 18:30:00'
 image: /podcasts/visionalps/chiara-guidarelli/cover.jpg
 summary: In questa puntata Chiara Guidarelli ci ha raccontato come la sua associazione
   promuove il lavoro da remoto in territori immersi nella natura attraverso la realizzazione

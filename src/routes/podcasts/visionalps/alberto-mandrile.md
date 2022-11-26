@@ -1,6 +1,6 @@
 ---
 title: Alberto Mandrile - La smart city nel palmo della mano con iGate @Bolzano
-date: 2022-11-03 18:00:00
+date: '2022-11-03 18:10:00'
 image: /podcasts/visionalps/alberto-mandrile/cover.jpg
 summary: In questa puntata Alberto Mandrile ci ha raccontato cos’è e qual è stato
   il suo approccio al concetto di Smart Mountain attraverso il percorso di sviluppo

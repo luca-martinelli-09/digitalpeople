@@ -1,7 +1,7 @@
 ---
 title: 'Alessio Conte - SERSIS: sfide e benefici per videomonitorare il territorio
   alpino @Cortina'
-date: 2022-10-26 18:00:00
+date: '2022-10-26 18:40:00'
 image: /podcasts/visionalps/alessio-conte/cover.jpg
 summary: In questa puntata Alessio Conte ci ha parlato della loro esperienza nella
   progettazione e installazione di un sistema di videosorveglianza nel Comune di Fonzaso,

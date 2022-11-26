@@ -1,6 +1,6 @@
 ---
 title: Ana Davis - La "Oyster" Card per tutti i tuoi servizi in montagna @Cortina
-date: 2023-10-26 18:00:00
+date: '2022-10-26 19:00:00'
 image: /podcasts/visionalps/ana-davis/cover.jpg
 summary: In questa puntata Ana Davis ha parlato dei principali vantaggi che fornisce
   la loro realtà come la semplificazione dell’accesso ai servizi dei comprensori sciistici

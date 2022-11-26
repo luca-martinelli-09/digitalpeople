@@ -1,6 +1,6 @@
 ---
 title: Roberto Rubini - Lo smart working secondo Everywhere TEW @Sondrio
-date: 2022-10-20 18:00:00
+date: '2022-10-20 19:00:00'
 image: /podcasts/visionalps/roberto-rubini/cover.jpg
 summary: In questa puntata Roberto Rubini ci ha parlato del ruolo di Everywhere nel
   rendere l’Italia e i suoi territori naturali il miglior posto in cui lavorare da

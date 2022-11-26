@@ -1,6 +1,6 @@
 ---
 title: Federico Bianchi - Il nuovo approccio delle aziende allo smart working @Sondrio
-date: 2022-10-20 18:00:00
+date: '2022-10-20 19:10:00'
 image: /podcasts/visionalps/federico-bianchi/cover.jpg
 summary: In questa puntata Federico Bianchi ci spiegherà come la sua società ha supportato
   l’integrazione dello smart working a livello aziendale nel periodo precedente alla

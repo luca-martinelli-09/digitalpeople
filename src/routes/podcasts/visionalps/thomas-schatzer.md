@@ -1,7 +1,7 @@
 ---
 title: Thomas Schatzer - Pianificare e realizzare un programma di trasformazione digitale
   trasversale @Bolzano
-date: 2022-11-03 18:00:00
+date: '2022-11-03 19:30:00'
 image: /podcasts/visionalps/thomas-schatzer/cover.jpg
 summary: In questa puntata Thomas Schatzer ci ha spiegato qual é il rapporto costo-opportunità
   negli investimenti aziendali e qual é il ruolo della Digital Transformation nel

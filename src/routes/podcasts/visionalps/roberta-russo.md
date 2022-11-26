@@ -1,6 +1,6 @@
 ---
 title: Roberta Russo - Chi è una City Quitter? @Sondrio
-date: 2022-10-20 18:00:00
+date: '2022-10-20 18:20:00'
 image: /podcasts/visionalps/roberta-russo/cover.jpg
 summary: In questa puntata Roberta Russo ci spiegherà chi è un City Quitter attraverso
   un racconto delle sue esperienze personali e quali sono, dal suo punto di vista,

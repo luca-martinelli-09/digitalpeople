@@ -1,6 +1,6 @@
 ---
 title: Nicola Mezzetti - Quando l'innovazione valorizza la tradizione @Bolzano
-date: 2022-11-03 18:00:00
+date: '2022-11-03 19:20:00'
 image: /podcasts/visionalps/nicola-mezzetti/cover.jpg
 summary: In questa puntata Nicola Mazzetti ci ha spiegato come l’innovazione digitale
   può essere integrata negli aspetti legati alla cultura e alla tradizione, e qual

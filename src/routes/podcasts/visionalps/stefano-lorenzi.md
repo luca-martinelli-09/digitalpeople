@@ -1,6 +1,6 @@
 ---
 title: Stefano Lorenzi - La transizione digitale degli impianti a fune @Bolzano
-date: 2022-11-03 18:00:00
+date: '2022-11-03 18:40:00'
 image: /podcasts/visionalps/stefano-lorenzi/cover.jpg
 summary: In questa puntata Stefano Lorenzi ci ha parlato di cosa si occupa la sua
   azienda e del ruolo che ha ricoperto la digitalizzazione nel rendere più efficienti

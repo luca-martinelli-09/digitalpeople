@@ -1,7 +1,7 @@
 ---
 title: Alessandro Sosi - Le soluzioni software di Openmove per ottimizzare i servizi
   di mobilità @Bolzano
-date: 2022-11-03 18:00:00
+date: '2022-11-03 18:20:00'
 image: /podcasts/visionalps/alessandro-sosi/cover.jpg
 summary: In questa puntata Alessandro Sosi ci ha parlato delle soluzioni software
   che sviluppa la sua azienda per i servizi di mobilità, come il sistema di prenotazione

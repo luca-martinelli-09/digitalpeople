@@ -5,7 +5,7 @@ import os
 from io import BytesIO
 
 import frontmatter
-import librosa
+from datetime import datetime, timedelta
 
 FOLDER = './src/routes/podcasts'
 
@@ -48,6 +48,8 @@ for podcast in PODCAST_ORDERS.keys():
     for season, episodes in enumerate(PODCAST_ORDERS[podcast]):
         season += 1
         episode = 1
+        lastDate = None
+
         for name in episodes:
             file = os.path.join(os.path.join(FOLDER, podcast), f"{name}.md")
 
@@ -57,6 +59,15 @@ for podcast in PODCAST_ORDERS.keys():
 
                 episodeInfo["season"] = season
                 episodeInfo["episode"] = episode
+
+                episodeDate = episodeInfo["date"]
+
+                if lastDate is None or (episodeDate - lastDate).days >= 1:
+                    lastDate = episodeDate
+                else:
+                    lastDate = lastDate + timedelta(minutes=10)
+                    episodeInfo["date"] = lastDate.strftime(
+                        "%Y-%m-%d %H:%M:%S")
 
                 # Save
                 f = BytesIO()

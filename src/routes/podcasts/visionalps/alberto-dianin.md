@@ -1,7 +1,7 @@
 ---
 title: Alberto Dianin - Efficientare il trasporto collettivo con i veicoli a guida
   autonoma @Bolzano
-date: 2022-11-03 18:00:00
+date: '2022-11-03 18:30:00'
 image: /podcasts/visionalps/alberto-dianin/cover.jpg
 summary: In questa puntata Alberto Dianin ci ha raccontato degli ambiti di ricerca
   di cui si occupa all’interno dell’Istituto, come la mobilità sostenibile, e in particolare

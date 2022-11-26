@@ -1,7 +1,7 @@
 ---
 title: Claudio Canova - Un modello innovativo per lo sviluppo sostenibile del territorio
   @Cortina
-date: 2022-10-26 18:00:00
+date: '2022-10-26 18:50:00'
 image: /podcasts/visionalps/claudio-canova/cover.jpg
 summary: In questa puntata Claudio Canova ci ha raccontato il loro progetto per usare
   tecnologie come la blockchain per rendere il territorio sostenibile coinvolgendo

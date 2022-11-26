@@ -1,6 +1,6 @@
 ---
 title: Victor Miherea - Droni Stratosferici per la Montagna @Aosta
-date: 2022-11-10 18:00:00
+date: '2022-11-10 19:40:00'
 image: /podcasts/visionalps/victor-miherera/cover.jpg
 summary: In questa puntata Victor Miherera ci ha parlato della loro start-up innovativa
   e in particolare dei CubeHAPS, ovvero dispositivi a metà strada tra un drone e un
