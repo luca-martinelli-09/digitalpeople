@@ -2,7 +2,6 @@
 # pip install librosa
 
 import os
-import re
 from io import BytesIO
 
 import frontmatter
@@ -14,14 +13,14 @@ STATIC_FOLDER = './static'
 filesToProcess = []
 for path, _, files in os.walk(FOLDER):
     for name in files:
-        if re.search("s[0-9]+e[0-9]+.md", name):
+        if not name.startswith("_") and name.endswith(".md"):
             filesToProcess.append(os.path.join(path, name))
 
 for file in filesToProcess:
     episode = frontmatter.load(file)
-    audioSrc = STATIC_FOLDER + episode['audio']['file']
-
     print(f"[🎵 EPISODIO] {episode['title']}")
+
+    audioSrc = STATIC_FOLDER + episode['audio']['file']
     if os.path.exists(audioSrc):
         # Get audio information
         audioDuration = librosa.get_duration(filename=audioSrc)

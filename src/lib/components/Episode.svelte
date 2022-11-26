@@ -23,7 +23,7 @@
   }
 </script>
 
-<a href="{podcast.id}/s{episode.season}e{episode.episode}" class="flex gap-5 p-7 rounded-3xl overflow-hidden" style="background-color: {podcast.scheme?.[1]}">
+<a href="{podcast.id}/{episode.id}" class="flex gap-5 p-7 rounded-3xl overflow-hidden" style="background-color: {podcast.scheme?.[1]}">
   <div class="hidden md:flex items-center">
     <img class="h-52 w-52 max-w-none rounded-xl" src={(episode.imageset?.[0] || episode.image)} alt={episode.title} />
   </div>

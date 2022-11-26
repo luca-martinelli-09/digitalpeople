@@ -1,5 +1,5 @@
 export const fetchPodcasts = async (podcast = null) => {
-  const allPodcastsFiles = import.meta.glob('../../routes/podcasts/*/index.md')
+  const allPodcastsFiles = import.meta.glob('../../routes/podcasts/*/_index.md')
   const iterablePodcastsFiles = Object.entries(allPodcastsFiles)
 
   let allPodcasts = await Promise.all(
@@ -26,7 +26,7 @@ export const fetchPodcasts = async (podcast = null) => {
 }
 
 export const fetchEpisodes = async (podcast) => {
-  const allEpisodesFiles = import.meta.glob('../../routes/podcasts/*/s*.md')
+  const allEpisodesFiles = import.meta.glob('../../routes/podcasts/*/[a-z-]+.md')
   const iterableEpisodesFiles = Object.entries(allEpisodesFiles)
 
   const allEpisodes = await Promise.all(
