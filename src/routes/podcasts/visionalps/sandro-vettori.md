@@ -7,7 +7,7 @@ summary: In questa puntata Sandro Vettori ci ha parlato di quanto è importante 
   la mobilità, la logistica e la connessione delle località turistiche alpine con
   i centri cittadini.
 season: 1
-episode: 43
+episode: 44
 audio:
   file: /podcasts/visionalps/sandro-vettori/audio.mp3
   size: 8627013
