@@ -1,6 +1,6 @@
 ---
 title: Antonio Longo - Parco senza frontiere @Aosta
-date: '2022-11-10 18:40:00'
+date: 2022-11-10 18:40:00
 image: /podcasts/visionalps/antonio-longo/cover.jpg
 summary: In questa puntata Antonio Longo ci ha parlato del progetto “Parco senza frontiere”,
   che utilizza la tecnologia come strumento per rendere il Parco Adamello Brenda più

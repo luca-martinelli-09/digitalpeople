@@ -1,6 +1,6 @@
 ---
 title: Thomas Ferrero - Dare vita a comunità energetiche industriali @Aosta
-date: '2022-11-10 19:20:00'
+date: 2022-11-10 19:20:00
 image: /podcasts/visionalps/thomas-ferrero/cover.jpg
 summary: In questa puntata Thomas Ferrero ci ha parlato di cosa sta facendo la sua
   società per gestire meglio l’utilizzo dell’energia e del ruolo delle comunità energetiche.

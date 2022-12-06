@@ -1,6 +1,6 @@
 ---
 title: 'Daniele Fortin - ELMAT: Vedere in digitale, oltre la sicurezza @Cortina'
-date: '2022-10-26 18:20:00'
+date: 2022-10-26 18:20:00
 image: /podcasts/visionalps/daniele-fortin/cover.jpg
 summary: In questa puntata Daniele Fortin ci ha spiegato chi è ELMAT e del loro approccio
   per utilizzare le informazioni che, grazie all’intelligenza artificiale, si possono

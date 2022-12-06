@@ -1,6 +1,6 @@
 ---
 title: Franscesco Gabbi - Rigenerare le aree alpine attraverso la leva turistica @Bolzano
-date: '2022-11-03 19:40:00'
+date: 2022-11-03 19:40:00
 image: /podcasts/visionalps/francesco-gabbi/cover.jpg
 summary: In questa puntata Francesco Gabbi ci ha spiegato cos’è il progetto Ospitar
   e di come si possano rigenerare le aree alpine marginali attraverso la leva turistica

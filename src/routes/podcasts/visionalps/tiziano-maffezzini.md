@@ -1,7 +1,7 @@
 ---
 title: Tiziano Maffezzini - Migliorare la qualità di vita attraverso la digitalizzazione
   @Sondrio
-date: '2022-10-20 18:50:00'
+date: 2022-10-20 18:50:00
 image: /podcasts/visionalps/tiziano-maffezzini/cover.jpg
 summary: In questa puntata Tiziano Maffezzini ci spiegherà quali sono le lacune dal
   punto di vista tecnologico nei territori montani e quali sono invece le sfide che

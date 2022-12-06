@@ -1,13 +1,13 @@
 ---
 title: Sergio Bonora - Monitorare i flussi di persone per sviluppare il turismo alpino
   @Aosta
-date: '2022-11-10 19:50:00'
+date: 2022-11-10 19:40:00
 image: /podcasts/visionalps/sergio-bonora/cover.jpg
 summary: In questa puntata Sergio Bonora ci ha parlato di come è possibile, utilizzando
   un’infrastruttura WiFi, monitorare il flusso di persone e di come analizzare questi
   dati per lo sviluppo del turismo alpino, migliorando l’esperienza dei turisti.
 season: 1
-episode: 41
+episode: 40
 audio:
   file: /podcasts/visionalps/sergio-bonora/audio.mp3
   size: 9795209

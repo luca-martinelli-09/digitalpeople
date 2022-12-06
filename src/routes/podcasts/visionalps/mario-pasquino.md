@@ -1,7 +1,7 @@
 ---
 title: 'Mario Pasquino - Security Trust: sicurezza ed esperienza utente sulle funivie
   innovative @Aosta'
-date: '2022-11-10 19:10:00'
+date: 2022-11-10 19:10:00
 image: /podcasts/visionalps/mario-pasquino/cover.jpg
 summary: In questa puntata Mario Pasquino ci ha parlato di come hanno implementato
   le più moderne tecnologie per realizzare delle funivie innovative.

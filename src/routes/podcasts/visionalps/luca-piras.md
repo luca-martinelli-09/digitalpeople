@@ -1,7 +1,7 @@
 ---
 title: Luca Piras - Una piattaforma per pianificare la propria esperienza da smart
   worker @Bolzano
-date: '2022-11-03 19:10:00'
+date: 2022-11-03 19:10:00
 image: /podcasts/visionalps/luca-piras/cover.jpg
 summary: In questa puntata Luca Piras ci ha raccontato del servizio che offre la sua
   realtà imprenditoriale nel supporto alla scelta delle destinazioni per gli smart

@@ -1,6 +1,6 @@
 ---
 title: Francesco Piazza - A DRIN siamo una famiglia @Bolzano
-date: '2022-11-03 19:00:00'
+date: 2022-11-03 19:00:00
 image: /podcasts/visionalps/francesco-piazza/cover.jpg
 summary: In questa puntata Francesco Piazza ci ha raccontato dello spazio di cooworking
   DRIN, come si differenzia dalle altre realtà omonime e, soprattutto, come viene

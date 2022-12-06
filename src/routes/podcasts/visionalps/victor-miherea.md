@@ -1,6 +1,6 @@
 ---
 title: Victor Miherea - Droni Stratosferici per la Montagna @Aosta
-date: "2022-11-10 19:40:00"
+date: 2022-11-10 19:40:00
 image: /podcasts/visionalps/victor-miherea/cover.jpg
 summary: In questa puntata Victor Miherea ci ha parlato della loro start-up innovativa
   e in particolare dei CubeHAPS, ovvero dispositivi a metà strada tra un drone e un
@@ -13,9 +13,9 @@ audio:
   size: 9319153
   duration: 582
 keywords:
-  - Alpi
+- Alpi
 imageset:
-  - /podcasts/visionalps/victor-miherea/cover.1000x1000.webp
+- /podcasts/visionalps/victor-miherea/cover.1000x1000.webp
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Victor Miherea](https://www.linkedin.com/in/victor-miherea/), CEO di STRATOBOTIC, ci ha parlato della loro start-up innovativa e in particolare dei CubeHAPS, ovvero dispositivi a metà strada tra un drone e un satellite ideati per fornire servizi di telecomunicazioni e osservazione della Terra a 20 km di quota

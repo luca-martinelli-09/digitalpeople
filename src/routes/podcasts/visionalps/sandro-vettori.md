@@ -1,13 +1,13 @@
 ---
 title: Sandro Vettori - L’importanza di una mobilità efficiente per il territorio
   alpino @Aosta
-date: '2022-11-10 20:10:00'
+date: 2022-11-10 20:30:00
 image: /podcasts/visionalps/sandro-vettori/cover.jpg
 summary: In questa puntata Sandro Vettori ci ha parlato di quanto è importante migliorare
   la mobilità, la logistica e la connessione delle località turistiche alpine con
   i centri cittadini.
 season: 1
-episode: 44
+episode: 45
 audio:
   file: /podcasts/visionalps/sandro-vettori/audio.mp3
   size: 8627013

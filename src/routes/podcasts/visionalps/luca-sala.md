@@ -1,7 +1,7 @@
 ---
 title: 'Luca Sala - ASSINTEL e il progetto #aMiCo26 per rilanciare il turismo grazie
   agli ecosistemi digitali @Cortina'
-date: '2022-10-26 18:10:00'
+date: 2022-10-26 18:10:00
 image: /podcasts/visionalps/luca-sala/cover.jpg
 summary: 'In questa puntata Luca Sala ci ha parlato del progetto #aMiCo26 e dell’importanza
   di sviluppare degli ecosistemi digitali in grado di aggregare i dati per poter sviluppare

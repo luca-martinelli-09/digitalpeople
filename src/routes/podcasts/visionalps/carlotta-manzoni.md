@@ -1,6 +1,6 @@
 ---
 title: Carlotta Manzoni - L’innovazione al servizio del contesto alpino @Aosta
-date: '2022-11-10 18:30:00'
+date: 2022-11-10 18:30:00
 image: /podcasts/visionalps/carlotta-manzoni/cover.jpg
 summary: In questa puntata Carlotta Manzoni ci ha parlato della sua esperienza professionale
   e di come le tecnologie già esistenti possono essere utilizzate per innovare e soddisfare

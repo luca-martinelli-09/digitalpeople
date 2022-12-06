@@ -16,7 +16,6 @@ PODCAST_ORDERS = {
             "chiara-guidarelli", "edoardo-colombo", "tiziano-maffezzini",
             "roberto-rubini", "federico-bianchi", "andrea-riva",
             "stefano-angelinis", "michele-diasio", "--loretta-credaro",
-            "--francesco-comotti",
 
             "pasquale-scopelliti", "luca-sala", "daniele-fortin",
             "marco-massarotto", "alessio-conte", "claudio-canova",
@@ -32,8 +31,8 @@ PODCAST_ORDERS = {
             "antonio-longo", "andrea-lazzaro", "giuseppe-ciniero",
             "mario-pasquino", "thomas-ferrero", "alberto-giolitti",
             "victor-miherera", "sergio-bonora", "stefano-carbone",
-            "sandro-vettori", "--vittorio-cossarini", "--armando-portoraro",
-            "--carlo-marzi", "--luca-fazzi"
+            "vittorio-cossarini", "francesco-comotti", "armando-portoraro",
+            "sandro-vettori", "--carlo-marzi", "--luca-fazzi"
         ]
     ]
 }

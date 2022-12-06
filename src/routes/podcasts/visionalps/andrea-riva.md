@@ -1,6 +1,6 @@
 ---
 title: Andrea Riva - “Le Village” come poli di attrattività per i talenti @Sondrio
-date: '2022-10-20 19:20:00'
+date: 2022-10-20 19:20:00
 image: /podcasts/visionalps/andrea-riva/cover.jpg
 summary: In questa puntata Andrea Riva ci parlerà del tema legato all’accelerazione
   dei processi di innovazione attraverso il progetto “Le Village” di Crédit Agricole;

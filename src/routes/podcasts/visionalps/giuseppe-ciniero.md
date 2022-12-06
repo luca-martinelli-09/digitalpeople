@@ -1,7 +1,7 @@
 ---
 title: Giuseppe Ciniero - A caccia del valore nascosto con l’Intelligenza Artificiale
   @Aosta
-date: '2022-11-10 19:00:00'
+date: 2022-11-10 19:00:00
 image: /podcasts/visionalps/giuseppe-ciniero/cover.jpg
 summary: In questa puntata Giuseppe Ciniero ci ha spiegato, attraverso due esempi
   concreti, come i dati e l’intelligenza artificiale possono aiutare ad efficientare

@@ -1,6 +1,6 @@
 ---
 title: Stefano Angelinis - Fare rete per rilanciare il territorio @Sondrio
-date: '2022-10-20 19:30:00'
+date: 2022-10-20 19:30:00
 image: /podcasts/visionalps/stefano-angelinis/cover.jpg
 summary: In questa puntata Stefano Angelinis ci ha parlato delle iniziative culturali
   della sua associazione, tra cui promuovere l’economia di Sondrio e la Valtellina

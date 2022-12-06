@@ -1,7 +1,7 @@
 ---
 title: 'Andrea Lazzaro - ONESporter: migliorare le performance degli atleti grazie
   ai dati @Aosta'
-date: '2022-11-10 18:50:00'
+date: 2022-11-10 18:50:00
 image: /podcasts/visionalps/andrea-lazzaro/cover.jpg
 summary: In questa puntata Andrea Lazzaro ci ha parlato dell’esigenza e dell’importanza
   di raccogliere i dati riguardanti gli allenamenti degli atleti degli sport invernali,

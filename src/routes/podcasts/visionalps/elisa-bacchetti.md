@@ -1,6 +1,6 @@
 ---
 title: Elisa Bacchetti - La montagna come ecosistema di opportunità @Aosta
-date: '2022-11-10 18:10:00'
+date: 2022-11-10 18:10:00
 image: /podcasts/visionalps/elisa-bacchetti/cover.jpg
 summary: In questa puntata Elisa Bacchetti ci ha parlato appunto di cos’è SocialFare,
   la sua mission e di come accompagnano le persone nell’integrazione nell’ecosistema

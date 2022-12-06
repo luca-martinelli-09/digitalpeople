@@ -1,6 +1,6 @@
 ---
 title: Alberto Giolitti - Il Web come promozione per l’ambiente alpino @Aosta
-date: '2022-11-10 19:30:00'
+date: 2022-11-10 19:30:00
 image: /podcasts/visionalps/alberto-giolitti/cover.jpg
 summary: In questa puntata Alberto Giolitti ci ha spiegato che cos’è il progetto Gulliver
   e della sua esperienza nell’utilizzo delle tecnologie Web per promuovere l’ambiente

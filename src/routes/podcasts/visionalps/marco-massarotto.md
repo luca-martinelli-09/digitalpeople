@@ -1,7 +1,7 @@
 ---
 title: 'Marco Massarotto - Cortina Academy: la formazione esperienziale sulle Dolomiti
   @Cortina'
-date: '2022-10-26 18:30:00'
+date: 2022-10-26 18:30:00
 image: /podcasts/visionalps/marco-massarotto/cover.jpg
 summary: In questa puntata Marco Massarotto ci ha parlato di Cortina Academy, della
   sua mission e del suo modo di fare formazione valorizzando il territorio di Cortina.
