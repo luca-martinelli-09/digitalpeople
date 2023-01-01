@@ -15,6 +15,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/pasquale-scopelliti/cover.1000x1000.webp
+- /podcasts/visionalps/pasquale-scopelliti/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Pasquale Scopelliti](https://www.linkedin.com/in/pasqualescopelliti/), CEO di Snowit, ci ha parlato di cos’è Snowit e di come questa soluzione può migliorare l’esperienza turistica nel territorio alpino.

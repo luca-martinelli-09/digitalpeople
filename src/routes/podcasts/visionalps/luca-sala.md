@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/luca-sala/cover.1000x1000.webp
+- /podcasts/visionalps/luca-sala/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Luca Sala](https://www.linkedin.com/in/luckehall/), Vicepresidente di ASSINTEL e coordinatore del progetto #aMiCo26, ci ha parlato del progetto #aMiCo26 e dell’importanza di sviluppare degli ecosistemi digitali in grado di aggregare i dati per poter sviluppare sistemi in grado di rilanciare il turismo e guidare la digitalizzazione del Paese.

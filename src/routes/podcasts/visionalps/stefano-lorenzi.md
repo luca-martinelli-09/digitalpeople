@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/stefano-lorenzi/cover.1000x1000.webp
+- /podcasts/visionalps/stefano-lorenzi/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, Stefano Lorenzi, Project Manager di LEITNER, ci ha parlato di cosa si occupa la sua azienda e del ruolo che ha ricoperto la digitalizzazione nel rendere più efficienti e sicuri gli impianti a fune sciistici attraverso l’installazione di sensori connessi e l’utilizzo di software per il monitoraggio.

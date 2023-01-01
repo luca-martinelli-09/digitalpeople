@@ -14,6 +14,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/alfonso-mantero/cover.1000x1000.webp
+- /podcasts/visionalps/alfonso-mantero/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Alfonso Mantero](https://www.linkedin.com/in/alfonso-mantero/), CEO di SwHaRD, ci ha portato il suo punto di vista sui problemi nel mondo dell’innovazione e delle possibili soluzioni per risolverli.

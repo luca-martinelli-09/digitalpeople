@@ -17,6 +17,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/francesco-comotti/cover.1000x1000.webp
+- /podcasts/visionalps/francesco-comotti/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Francesco Comotti](https://www.linkedin.com/in/francesco-comotti-b6927120/), esperto di “Progetto settore e cultura e turismo”, ci ha parlato della crisi sistemica della montagna italiana legata alla frammentazione del territorio, e delle soluzioni digitali da implementare nel prossimo futuro per potenziare l’organizzazione e l’attrattività delle aree montane.

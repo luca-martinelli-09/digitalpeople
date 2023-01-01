@@ -15,6 +15,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/carlotta-manzoni/cover.1000x1000.webp
+- /podcasts/visionalps/carlotta-manzoni/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Carlotta Manzoni](https://www.linkedin.com/in/carlottamnz/) ci ha parlato della sua esperienza professionale e di come le tecnologie già esistenti possono essere utilizzate per innovare e soddisfare le necessità degli ambienti alpini.

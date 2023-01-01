@@ -15,6 +15,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/marco-massarotto/cover.1000x1000.webp
+- /podcasts/visionalps/marco-massarotto/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Marco Massarotto](https://www.linkedin.com/in/marcomassarotto/), Founder & Chief Experience Officer di Cortina Academy, ci ha parlato di Cortina Academy, della sua mission e del suo modo di fare formazione valorizzando il territorio di Cortina.

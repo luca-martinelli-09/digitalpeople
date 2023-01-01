@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/sergio-bonora/cover.1000x1000.webp
+- /podcasts/visionalps/sergio-bonora/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Sergio Bonora](https://www.linkedin.com/in/sergio-bonora-87939a1/), Amministratore Delegato di Laboratori Guglielmo Marconi s.p.a., ci ha parlato di come è possibile, utilizzando un’infrastruttura WiFi, monitorare il flusso di persone e di come analizzare questi dati per lo sviluppo del turismo alpino, migliorando l’esperienza dei turisti.

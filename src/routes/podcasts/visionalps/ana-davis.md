@@ -17,6 +17,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/ana-davis/cover.1000x1000.webp
+- /podcasts/visionalps/ana-davis/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Ana Davis](https://www.linkedin.com/in/ana-davis/), Founder & CEO di ALTO.SKI, ha parlato dei principali vantaggi che fornisce la loro realtà come la semplificazione dell’accesso ai servizi dei comprensori sciistici affiliati attraverso una card fisica che consente di pagare solamente per le effettive ore di utilizzo delle attrezzature o degli impianti, risparmiando in questo modo sia tempo che denaro.

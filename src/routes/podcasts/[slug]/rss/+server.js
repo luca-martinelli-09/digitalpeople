@@ -22,8 +22,16 @@ const xml =
   <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
       <link>${uri}/podcasts/${podcast.id}</link>
-      <title>${podcast.title}</title>
-      <itunes:title>${podcast.title}</itunes:title>
+      <title>
+        <![CDATA[
+          ${podcast.title}
+        ]]>
+      </title>
+      <itunes:title>
+        <![CDATA[
+          ${podcast.title}
+        ]]>
+      </itunes:title>
       <description>
         <![CDATA[
           ${podcast.description}
@@ -46,10 +54,14 @@ const xml =
       </itunes:owner>
       <copyright>${podcast.copyright || "Creative Commons Attribuzione - Non opere derivate 4.0 Internazionale"}</copyright>
       
-      <itunes:image href="${podcast.image.startsWith("http") ? podcast.image : uri + podcast.image}" />
+      <itunes:image href="${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[1]}" />
       <image>
-        <url>${podcast.image.startsWith("http") ? podcast.image : uri + podcast.image}</url>
-        <title>${podcast.title}</title>
+        <url>${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[1]}</url>
+        <title>
+          <![CDATA[
+            ${podcast.title}
+          ]]>
+        </title>
         <link>${uri}/podcasts/${podcast.id}</link>
       </image>
       
@@ -73,8 +85,16 @@ const xml =
       const formattedDate = d.format("ddd, DD MMM YYYY HH:mm:ss ZZ");
 
       return `<item>
-        <title>${episode.title}</title>
-        <itunes:title>${episode.title}</itunes:title>
+        <title>
+          <![CDATA[
+            ${episode.title}
+          ]]>
+        </title>
+        <itunes:title>
+          <![CDATA[
+            ${episode.title}
+          ]]>
+        </itunes:title>
         <pubDate>${formattedDate}</pubDate>
 
         ${episode.season ? `<itunes:season>${episode.season}</itunes:season>` : ""}
@@ -101,7 +121,7 @@ const xml =
         />
         <itunes:duration>${episode.audio?.duration || 0}</itunes:duration>
 
-        <itunes:image href="${episode.image.startsWith("http") ? episode.image : uri + episode.image}" />
+        <itunes:image href="${episode.image.startsWith("http") ? episode.image : uri + episode.imageset[1]}" />
 
         <itunes:explicit>${episode.explicit || "no"}</itunes:explicit>
         <itunes:block>${episode.block || "no"}</itunes:block>

@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/gianluigi-ferri/cover.1000x1000.webp
+- /podcasts/visionalps/gianluigi-ferri/cover.2400x2400.jpeg
 ---
 
 In questa prima puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Gianluigi Ferri](https://www.linkedin.com/in/gianluigiferri/), Founder di [Innovability](https://www.innovability.eu/), ha presentato l’iniziativa di VisionAlps, spiegando a chi si rivolge e come intende promuovere e raccontare i diversi processi per la digitalizzazione dell’ecosistema alpino nel prossimo futuro.

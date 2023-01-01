@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/thomas-schatzer/cover.1000x1000.webp
+- /podcasts/visionalps/thomas-schatzer/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Thomas Schatzer](https://www.linkedin.com/in/thomasschatzer/), Digital Innovation & Transformation Manager di DIGITRAILX CONSULTING, ci ha spiegato qual é il rapporto costo-opportunità negli investimenti aziendali e qual é il ruolo della Digital Transformation nel renderli un successo a tutti i livelli.

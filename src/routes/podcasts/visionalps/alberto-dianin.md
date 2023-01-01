@@ -18,6 +18,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/alberto-dianin/cover.1000x1000.webp
+- /podcasts/visionalps/alberto-dianin/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, Alberto Dianin, Ricercatore presso l’Istituto per lo Sviluppo Regionale dell’Eurac Research, ci ha raccontato degli ambiti di ricerca di cui si occupa all’interno dell’Istituto, come la mobilità sostenibile, e in particolare dei principali vantaggi dei veicoli a guida autonoma, tra cui la riduzione dei costi di gestione e la possibilità di integrare forme di trasporto collettivo all’interno di aree difficilmente accessibili come quelle rurali.

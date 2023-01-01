@@ -17,6 +17,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/alessandro-sosi/cover.1000x1000.webp
+- /podcasts/visionalps/alessandro-sosi/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Alessandro Sosi](https://www.linkedin.com/in/alessandrososi/), Chief Operating Officer di Openmove, ci ha parlato delle soluzioni software che sviluppa la sua azienda per i servizi di mobilità, come il sistema di prenotazione del transito in Passo Sella, e di come la digitalizzazione può rendere ancora più efficiente lo spostamento nelle località turistiche alpine.

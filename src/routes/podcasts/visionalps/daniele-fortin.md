@@ -15,6 +15,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/daniele-fortin/cover.1000x1000.webp
+- /podcasts/visionalps/daniele-fortin/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Daniele Fortin](https://www.linkedin.com/in/daniele-fortin-ingforteam/), Technical Solution Consultant per ELMAT, ci ha spiegato chi è ELMAT e del loro approccio per utilizzare le informazioni che, grazie all’intelligenza artificiale, si possono recuperare delle immagini di videosorveglianza.

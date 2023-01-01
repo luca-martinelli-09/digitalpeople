@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/chiara-guidarelli/cover.1000x1000.webp
+- /podcasts/visionalps/chiara-guidarelli/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Chiara Guidarelli](https://www.linkedin.com/in/chiara-guidarelli-36406a149), Co-Founder di NATworking, ci ha raccontato come la sua associazione promuove il lavoro da remoto in territori immersi nella natura attraverso la realizzazione di spazi di cooworking connessi e perfettamente integrati e degli ulteriori progetti di NATworking per migliorare gli aspetti più sociali della sfera lavorativa.

@@ -17,6 +17,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/marcello-favalli/cover.1000x1000.webp
+- /podcasts/visionalps/marcello-favalli/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Marcello Favalli](https://www.linkedin.com/in/marcellofavalli/), CEO e Co-Founder di SiWeGo, ci ha spiegato come la loro applicazione riesce a migliorare e ridurre la viabilità, anche da un punto di vista sostenibile, mettendo in contatto chi deve spedire un pacco e chi può consegnarlo percorrendo tratte senza deviazioni, come quella casa-lavoro.

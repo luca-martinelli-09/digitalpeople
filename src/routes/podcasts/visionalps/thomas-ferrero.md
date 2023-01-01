@@ -14,6 +14,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/thomas-ferrero/cover.1000x1000.webp
+- /podcasts/visionalps/thomas-ferrero/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Thomas Ferrero](https://www.linkedin.com/in/thomas-ferrero-8b7b92254/), CEO di Myna Projects, ci ha parlato di cosa sta facendo la sua società per gestire meglio l’utilizzo dell’energia e del ruolo delle comunità energetiche.

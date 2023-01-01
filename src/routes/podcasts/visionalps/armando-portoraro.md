@@ -17,6 +17,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/armando-portoraro/cover.1000x1000.webp
+- /podcasts/visionalps/armando-portoraro/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Armando Portoraro](https://www.linkedin.com/in/armandoportoraro/), Managing Partner di TRIGENIA, ci ha parlato delle contromisure adottate dalle industrie per contrastare gli elevati costi energetici, e in particolare del software di TRIGENIA che consente di effettuare analisi sui dati ed elaborare modelli previsionali grazie ad algoritmi di intelligenza artificiale.

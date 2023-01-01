@@ -17,6 +17,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/andrea-riva/cover.1000x1000.webp
+- /podcasts/visionalps/andrea-riva/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Andrea Riva](https://www.linkedin.com/in/andrea-riva-9212365/), Responsabile Area Capital Market & Open Innovation di Crédit Agricole, ci parlerà del tema legato all’accelerazione dei processi di innovazione attraverso il progetto “Le Village” di Crédit Agricole; una serie di hub progettati e realizzati per accogliere figure professionali di start up e imprese corporate con l’obiettivo di promuovere l’interazione e lo scambio di idee su tutto il territorio europeo.

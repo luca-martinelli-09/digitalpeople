@@ -15,6 +15,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/elisa-bacchetti/cover.1000x1000.webp
+- /podcasts/visionalps/elisa-bacchetti/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Elisa Bacchetti](https://www.linkedin.com/in/elisa-bacchetti-phd/), Deputy Operation Officer & Systemic-Service Designer di SOCIALFARE, ci ha parlato appunto di cos’è SocialFare, la sua mission e di come accompagnano le persone nell’integrazione nell’ecosistema alpino o per trasformare delle idee in veri e propri modelli di business.

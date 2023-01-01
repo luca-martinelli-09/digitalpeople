@@ -18,6 +18,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/tiziano-maffezzini/cover.1000x1000.webp
+- /podcasts/visionalps/tiziano-maffezzini/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, Tiziano Maffezzini, Presidente UNCEM Lombardia (Unione Nazionale Comuni Comunità Enti Montani), ci spiegherà quali sono le lacune dal punto di vista tecnologico nei territori montani e quali sono invece le sfide che dovranno essere affrontate nel prossimo futuro per garantire al territorio alpino un corretto sviluppo dei servizi essenziali, con l’obiettivo di migliorare la qualità della vita e attirare nuove figure professionali.

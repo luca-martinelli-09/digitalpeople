@@ -17,6 +17,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/federico-bianchi/cover.1000x1000.webp
+- /podcasts/visionalps/federico-bianchi/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Federico Bianchi](https://www.linkedin.com/in/federicobianchi-smartworking/), Founder di Smartworking.srl, ci spiegherà come la sua società ha supportato l’integrazione dello smart working a livello aziendale nel periodo precedente alla pandemia attraverso la sperimentazione delle prime soluzioni operative, e di come attualmente punti a soddisfare le nuove esigenze delle imprese, risolvendo non solo problematiche infrastrutturali ma anche organizzative.

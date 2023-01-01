@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/nicola-mezzetti/cover.1000x1000.webp
+- /podcasts/visionalps/nicola-mezzetti/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Nicola Mazzetti](https://www.linkedin.com/in/nicolamezzetti/), CEO & Founder di TECHNEOS, ci ha spiegato come l’innovazione digitale può essere integrata negli aspetti legati alla cultura e alla tradizione, e qual è, secondo lui, il ruolo del megatrend nomadismo digitale nell’attrarre visitatori in luoghi meno legati al turismo.

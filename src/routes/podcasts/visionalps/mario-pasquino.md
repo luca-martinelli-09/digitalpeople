@@ -15,6 +15,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/mario-pasquino/cover.1000x1000.webp
+- /podcasts/visionalps/mario-pasquino/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Mario Pasquino](https://www.linkedin.com/in/mario-pasquino-bbb26312/), Chief Information Officer di Security Trust, ci ha parlato di come hanno implementato le più moderne tecnologie per realizzare delle funivie innovative.

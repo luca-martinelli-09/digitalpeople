@@ -22,6 +22,7 @@ platforms:
   apple: https://podcasts.apple.com/us/podcast/visionalps/id1651093247
 imageset:
 - /podcasts/visionalps/cover.1000x1000.webp
+- /podcasts/visionalps/cover.2400x2400.jpeg
 ---
 
 [VisionAlps](https://www.visionalps.com/) è il podcast dell'omonima serie di incontri, che analizza il punto di vista di istituzioni e professionisti sugli scenari di sviluppo delle Alpi, in particolare sul ruolo del digitale nella trasformazione del territorio e dell'ecosistema alpino.

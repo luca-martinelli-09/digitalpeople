@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/giuseppe-ciniero/cover.1000x1000.webp
+- /podcasts/visionalps/giuseppe-ciniero/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Giuseppe Ciniero](https://www.linkedin.com/in/giuseppeciniero/), Product Owner di MIPU, ci ha spiegato, attraverso due esempi concreti, come i dati e l’intelligenza artificiale possono aiutare ad efficientare l’utilizzo delle risorse idriche.

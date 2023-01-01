@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/antonio-longo/cover.1000x1000.webp
+- /podcasts/visionalps/antonio-longo/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Antonio Longo](https://www.linkedin.com/in/antonio-longo-510503b/), presidente di MEDIALAB, ci ha parlato del progetto “Parco senza frontiere”, che utilizza la tecnologia come strumento per rendere il Parco Adamello Brenda più accessibile e inclusivo verso persone con disabilità, e sensibilizzare proprio su questo tema.

@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/victor-miherea/cover.1000x1000.webp
+- /podcasts/visionalps/victor-miherea/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Victor Miherea](https://www.linkedin.com/in/victor-miherea/), CEO di STRATOBOTIC, ci ha parlato della loro start-up innovativa e in particolare dei CubeHAPS, ovvero dispositivi a metà strada tra un drone e un satellite ideati per fornire servizi di telecomunicazioni e osservazione della Terra a 20 km di quota

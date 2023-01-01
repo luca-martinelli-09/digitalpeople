@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/stefano-carbone/cover.1000x1000.webp
+- /podcasts/visionalps/stefano-carbone/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, Stefano Carbone, Amministratore Delegato di Scie di Passione, ci ha parlato della sua scuola di sci, che ha l’obiettivo di essere una scuola accessibile e inclusiva a quante più persone possibili, con una particolare attenzione alle persone con disabilità.

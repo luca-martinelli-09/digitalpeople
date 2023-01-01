@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/sandro-vettori/cover.1000x1000.webp
+- /podcasts/visionalps/sandro-vettori/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Sandro Vettori](https://www.linkedin.com/in/sandro-vettori/), Expert presso European Innovation Technology Urban Mobility, ci ha parlato di quanto è importante migliorare la mobilità, la logistica e la connessione delle località turistiche alpine con i centri cittadini.

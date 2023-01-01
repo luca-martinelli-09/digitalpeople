@@ -15,6 +15,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/daniele-cattaneo/cover.1000x1000.webp
+- /podcasts/visionalps/daniele-cattaneo/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Daniele Cattaneo](https://www.linkedin.com/in/daniele-cattaneo-957098139/), Hub Manager di Les Pépiniere d'Entreprises ci ha spiegato che cos’è e di cosa si occupa la Fondazione Giacomo Brodolini.

@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/roberto-rubini/cover.1000x1000.webp
+- /podcasts/visionalps/roberto-rubini/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Roberto Rubini](https://www.linkedin.com/in/architettorobertorubini/), Responsabile del Circuito e Sviluppo Prodotto presso Everywhere, ci ha parlato del ruolo di Everywhere nel rendere l’Italia e i suoi territori naturali il miglior posto in cui lavorare da remoto, sottolineando l’importanza della cooperazione e dell’integrazione tra diverse figure professionali attraverso alcuni esempi pratici.

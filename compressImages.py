@@ -16,7 +16,14 @@ OPTIONS = [
     {
         'suffix': '1000x1000',
         'size': [1000, 1000],
+        'quality': 80,
         'format': 'webp'
+    },
+    {
+        'suffix': '2400x2400',
+        'size': [2400, 2400],
+        'quality': 80,
+        'format': 'jpeg'
     }
 ]
 
@@ -40,7 +47,7 @@ for file in filesToProcess:
 
             image = Image.open(imageSrc)
             image = image.resize(option['size'], resample=Resampling.BICUBIC)
-            image.save(saveName, format='webp', optimize=True)
+            image.save(saveName, format=option['format'], optimize=True, quality=option['quality'])
 
             episode['imageset'].append(
                 saveName.as_posix().removeprefix('static'))

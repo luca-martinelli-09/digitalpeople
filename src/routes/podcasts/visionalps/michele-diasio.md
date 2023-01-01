@@ -18,6 +18,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/michele-diasio/cover.1000x1000.webp
+- /podcasts/visionalps/michele-diasio/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Michele Diasio](https://www.linkedin.com/in/michele-diasio-02365384/), Avvocato e Assessore allo Sport, Turismo e Politiche per lo sviluppo territoriale del Comune di Sondrio, ci ha parlato del ruolo dell’infrastruttura digitale a supporto del lavoro da remoto, degli spazi di coworking realizzati e da realizzare e infine dei progetti futuri per rendere il Comune di Sondrio una smart city tecnologica ed efficiente in previsione dei Giochi Olimpici Invernali del 2026.

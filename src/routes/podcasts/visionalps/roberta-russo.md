@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/roberta-russo/cover.1000x1000.webp
+- /podcasts/visionalps/roberta-russo/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Roberta Russo](https://www.linkedin.com/in/roberta-russo/), Full Stack Marketer & Consulente HubSpot, ci spiegherà chi è un City Quitter attraverso un racconto delle sue esperienze personali e quali sono, dal suo punto di vista, i vantaggi professionali e sociali che si ottengono preferendo soluzioni più flessibili e a contatto con la natura e altre culture.

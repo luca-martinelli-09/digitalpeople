@@ -18,6 +18,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/fabrizio-capobianco/cover.1000x1000.webp
+- /podcasts/visionalps/fabrizio-capobianco/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Fabrizio Capobianco](https://www.linkedin.com/in/fabricapo/), Chief Innovation Officer di Minerva Networks, ci ha illustrato, secondo il suo punto di vista, quali sono i vantaggi e le criticità del lavoro a distanza nel territorio alpino attraverso un racconto delle sue esperienze di lavoro, come quella tradizionale in Silicon Valley, in California, e quella telematica di oggi che gli consente di mettere in cima alle sue priorità la qualità della vita.

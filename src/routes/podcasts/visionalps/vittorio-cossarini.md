@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/vittorio-cossarini/cover.1000x1000.webp
+- /podcasts/visionalps/vittorio-cossarini/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Vittorio Cossarini](https://www.linkedin.com/in/vittoriocossarini/), presidente di ASSOESCO, ci ha parlato degli interventi di efficienza energetica al fine di ridurre l’impatto ambientale ed economico dei consumi e del nuovo approccio alla produzione e distribuzione dell’energia elettrica.

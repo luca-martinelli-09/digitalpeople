@@ -17,6 +17,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/alessio-conte/cover.1000x1000.webp
+- /podcasts/visionalps/alessio-conte/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Alessio Conte](https://www.linkedin.com/in/alessio-conte-10874220/), Consulente commerciale di SERSIS, ci ha parlato della loro esperienza nella progettazione e installazione di un sistema di videosorveglianza nel Comune di Fonzaso, in provincia di Belluno, delle difficoltà che hanno riscontrato e dei benefici che questo servizio ha portato al territorio.

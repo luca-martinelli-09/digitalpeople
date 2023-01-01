@@ -15,6 +15,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/alberto-giolitti/cover.1000x1000.webp
+- /podcasts/visionalps/alberto-giolitti/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Alberto Giolitti](https://www.linkedin.com/in/albertogiolitti/), fondatore del progetto Gulliver, ci ha spiegato che cos’è il progetto Gulliver e della sua esperienza nell’utilizzo delle tecnologie Web per promuovere l’ambiente alpino.

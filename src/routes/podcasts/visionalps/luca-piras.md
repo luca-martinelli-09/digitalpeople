@@ -17,6 +17,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/luca-piras/cover.1000x1000.webp
+- /podcasts/visionalps/luca-piras/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, Luca Piras, CEO & Founder di HQ VILLAGE SB, ci ha raccontato del servizio che offre la sua realtà imprenditoriale nel supporto alla scelta delle destinazioni per gli smart workers e degli algoritmi di selezione in grado di valutare la soluzione migliore in base alle proprie esigenze.

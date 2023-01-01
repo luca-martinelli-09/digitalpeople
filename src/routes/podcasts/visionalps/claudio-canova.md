@@ -16,6 +16,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/claudio-canova/cover.1000x1000.webp
+- /podcasts/visionalps/claudio-canova/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Claudio Canova](https://www.linkedin.com/in/claudio-canova-943b9710a/), Presidente di Fondazione Fantastiche Dolomiti, ci ha raccontato il loro progetto per usare tecnologie come la blockchain per rendere il territorio sostenibile coinvolgendo le persone e premiandone i comportamenti virtuosi, e riponendo così l’uomo al centro.

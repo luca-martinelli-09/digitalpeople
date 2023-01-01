@@ -15,6 +15,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/francesco-piazza/cover.1000x1000.webp
+- /podcasts/visionalps/francesco-piazza/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, Francesco Piazza, Presidente di Fondazione Fantastiche Dolomiti, ci ha raccontato dello spazio di cooworking DRIN, come si differenzia dalle altre realtà omonime e, soprattutto, come viene valorizzata la sfera sociale all’interno di questo spazio di lavoro.

@@ -18,6 +18,7 @@ keywords:
 - Alpi
 imageset:
 - /podcasts/visionalps/edoardo-colombo/cover.1000x1000.webp
+- /podcasts/visionalps/edoardo-colombo/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [VisionAlps](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [Edoardo Colombo](https://www.linkedin.com/in/edocolombo/), autore del libro "Turismo Megatrend" e Board Of Advisor Trentino Holidays, ci ha parlato del rapporto che intercorre tra turismo e smart working, sottolineando l’importanza che ricoprono le infrastrutture fisiche e digitali nell’attirare figure professionali in cerca di svago e socializzazione nelle aree alpine; nella seconda parte della puntata invece un breve approfondimento sul libro “Turismo Megatrend” che analizza l’importanza e il ruolo della tecnologia nell’ambito del turismo.
