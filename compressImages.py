@@ -24,6 +24,13 @@ OPTIONS = [
         'size': [2400, 2400],
         'quality': 80,
         'format': 'jpeg'
+    },
+    {
+        'suffix': '3000x3000',
+        'size': [3000, 3000],
+        'quality': 80,
+        'format': 'jpeg',
+        'only': ['VisionAlps']
     }
 ]
 
@@ -42,15 +49,17 @@ for file in filesToProcess:
         # Compress image
         episode['imageset'] = []
         for option in OPTIONS:
-            saveName = imageSrc.with_suffix(
-                f".{option['suffix']}.{option['format']}")
+            if 'only' not in option.keys() or episode['title'] in option['only']:
+                saveName = imageSrc.with_suffix(
+                    f".{option['suffix']}.{option['format']}")
 
-            image = Image.open(imageSrc)
-            image = image.resize(option['size'], resample=Resampling.BICUBIC)
-            image.save(saveName, format=option['format'], optimize=True, quality=option['quality'])
+                image = Image.open(imageSrc)
+                image = image.resize(option['size'], resample=Resampling.BICUBIC)
+                image.save(
+                    saveName, format=option['format'], optimize=True, quality=option['quality'])
 
-            episode['imageset'].append(
-                saveName.as_posix().removeprefix('static'))
+                episode['imageset'].append(
+                    saveName.as_posix().removeprefix('static'))
 
         # Save
         f = BytesIO()
