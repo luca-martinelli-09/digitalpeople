@@ -23,6 +23,7 @@ platforms:
 imageset:
 - /podcasts/visionalps/cover.1000x1000.webp
 - /podcasts/visionalps/cover.2400x2400.jpeg
+- /podcasts/visionalps/cover.1400x1400.jpeg
 - /podcasts/visionalps/cover.3000x3000.jpeg
 ---
 
