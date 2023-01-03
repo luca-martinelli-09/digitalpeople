@@ -26,16 +26,16 @@ OPTIONS = [
         'format': 'jpeg'
     },
     {
-        'suffix': '1400x1400',
-        'size': [1400, 1400],
-        'quality': 80,
+        'suffix': '3000x3000',
+        'size': [3000, 3000],
+        'quality': 18,
         'format': 'jpeg',
         'only': ['VisionAlps']
     },
     {
-        'suffix': '3000x3000',
-        'size': [3000, 3000],
-        'quality': 50,
+        'suffix': '1400x1400',
+        'size': [1400, 1400],
+        'quality': 80,
         'format': 'jpeg',
         'only': ['VisionAlps']
     }
