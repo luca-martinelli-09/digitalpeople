@@ -1,5 +1,5 @@
 export const baseURI = 'https://w3id.org/digitalpeople'
-export const realBaseURI = 'https://digitalpeople.tech'
+export const realBaseURI = 'https://www.digitalpeople.tech'
 
 export const author = {
   name: "Digital People",
