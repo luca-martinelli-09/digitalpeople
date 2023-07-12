@@ -84,6 +84,12 @@ const xml =
 
       const formattedDate = d.format("ddd, DD MMM YYYY HH:mm:ss ZZ");
 
+      let episodeImageUri = null;
+
+      if (episode.image.startsWith("http")) episodeImageUri = episode.image
+      else
+        if (episode.imageset && episode.imageset.length >= 1) episodeImageUri = episode.imageset[1]
+
       return `<item>
         <title>
           <![CDATA[
@@ -120,8 +126,8 @@ const xml =
           length="${episode.audio?.size || 0}"
         />
         <itunes:duration>${episode.audio?.duration || 0}</itunes:duration>
-
-        <itunes:image href="${episode.image.startsWith("http") ? episode.image : uri + episode.imageset[1]}" />
+        
+        ${episodeImageUri ? '<itunes:image href="' + episodeImageUri + '" />' : ''}
 
         <itunes:explicit>${episode.explicit || "no"}</itunes:explicit>
         <itunes:block>${episode.block || "no"}</itunes:block>

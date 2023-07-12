@@ -18,7 +18,7 @@
       <div class="flex flex-col gap-3">
         <h3 class="font-bold text-xl">Disponibile su</h3>
         <div>
-          <div class="inline-flex gap-4 rounded-full bg-white p-2 text-3xl">
+          <div class="inline-flex gap-4 rounded-full bg-white p-2 px-3 text-3xl">
             {#if podcast.platforms.spotify}
               <a href={podcast.platforms.spotify} target="_blank" rel="noopener noreferrer">
                 <Icon icon="logos:spotify-icon" />
@@ -73,7 +73,10 @@
                   />
                 </svg>
               </a>
-            {/if}
+              {/if}
+              <a href={"/podcasts/" + podcast.id + "/rss"} target="_blank" rel="noopener noreferrer">
+                <Icon icon="fa6-solid:square-rss" style="color: #ea6221" />
+              </a>
           </div>
         </div>
       </div>
