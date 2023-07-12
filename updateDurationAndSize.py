@@ -5,7 +5,7 @@ import os
 from io import BytesIO
 
 import frontmatter
-import librosa
+from mutagen.mp3 import MP3
 
 FOLDER = './src/routes/podcasts'
 STATIC_FOLDER = './static'
@@ -23,7 +23,7 @@ for file in filesToProcess:
     audioSrc = STATIC_FOLDER + episode['audio']['file']
     if os.path.exists(audioSrc):
         # Get audio information
-        audioDuration = librosa.get_duration(filename=audioSrc)
+        audioDuration = MP3(audioSrc).info.length
         fileSize = os.path.getsize(audioSrc)
 
         episode['audio']['size'] = fileSize

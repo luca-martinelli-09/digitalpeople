@@ -1,14 +1,14 @@
 ---
 title: Francesco Comotti - Soluzioni digitali per una buona governance del territorio
   montano @Aosta
-date: 2022-11-10 20:10:00
+date: 2022-11-10 20:20:00
 image: /podcasts/visionalps/francesco-comotti/cover.jpg
 summary: In questa puntata Francesco Comotti ci ha parlato della crisi sistemica della
   montagna italiana legata alla frammentazione del territorio, e delle soluzioni digitali
   da implementare nel prossimo futuro per potenziare l’organizzazione e l’attrattività
   delle aree montane.
 season: 1
-episode: 43
+episode: 44
 audio:
   file: /podcasts/visionalps/francesco-comotti/audio.mp3
   size: 11234660

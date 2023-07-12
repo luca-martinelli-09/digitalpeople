@@ -12,7 +12,7 @@ episode: 16
 audio:
   file: /podcasts/visionalps/alessio-conte/audio.mp3
   size: 10873961
-  duration: 680
+  duration: 679
 keywords:
 - Alpi
 imageset:

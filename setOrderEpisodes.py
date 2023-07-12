@@ -30,9 +30,19 @@ PODCAST_ORDERS = {
             "elisa-bacchetti", "alfonso-mantero", "carlotta-manzoni",
             "antonio-longo", "andrea-lazzaro", "giuseppe-ciniero",
             "mario-pasquino", "thomas-ferrero", "alberto-giolitti",
-            "victor-miherera", "sergio-bonora", "stefano-carbone",
+            "victor-miherea", "sergio-bonora", "stefano-carbone",
             "vittorio-cossarini", "francesco-comotti", "armando-portoraro",
             "sandro-vettori", "--carlo-marzi", "--luca-fazzi"
+        ]
+    ],
+    "smartcitynow": [
+        [
+            "gianluigi-ferri", "fabio-germagnoli", "francesco-trimarchi",
+            "alex-buzzetti", "andrea-sorri", "andrea-marella",
+            "filippo-troiani", "paolo-odorizzi", "--marisa-martano",
+            "luca-maistrelli", "lorenzo-ferrante", "antonio-puliafito",
+            "mauro-manente", "michele-ieradi", "francesco-mastrapasqua",
+            "--luigi-pagnozzi", "stefano-lorenzi"
         ]
     ]
 }

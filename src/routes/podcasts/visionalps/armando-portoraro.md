@@ -1,18 +1,18 @@
 ---
 title: Armando Portoraro - Metodologie strategiche per migliorare l’efficienza delle
   imprese @Aosta
-date: 2022-11-10 20:20:00
+date: 2022-11-10 20:30:00
 image: /podcasts/visionalps/armando-portoraro/cover.jpg
 summary: In questa puntata Armando Portoraro ci ha parlato delle contromisure adottate
   dalle industrie per contrastare gli elevati costi energetici, e in particolare del
   software di TRIGENIA che consente di effettuare analisi sui dati ed elaborare modelli
   previsionali grazie ad algoritmi di intelligenza artificiale.
 season: 1
-episode: 44
+episode: 45
 audio:
   file: /podcasts/visionalps/armando-portoraro/audio.mp3
   size: 8443111
-  duration: 528
+  duration: 527
 keywords:
 - Alpi
 imageset:

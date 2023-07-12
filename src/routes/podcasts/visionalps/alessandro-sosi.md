@@ -12,7 +12,7 @@ episode: 21
 audio:
   file: /podcasts/visionalps/alessandro-sosi/audio.mp3
   size: 12027947
-  duration: 752
+  duration: 751
 keywords:
 - Alpi
 imageset:

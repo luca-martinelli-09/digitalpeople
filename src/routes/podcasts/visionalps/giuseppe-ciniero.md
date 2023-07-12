@@ -11,7 +11,7 @@ episode: 36
 audio:
   file: /podcasts/visionalps/giuseppe-ciniero/audio.mp3
   size: 9113935
-  duration: 570
+  duration: 569
 keywords:
 - Alpi
 imageset:

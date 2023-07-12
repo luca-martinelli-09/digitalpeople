@@ -10,7 +10,7 @@ episode: 31
 audio:
   file: /podcasts/visionalps/elisa-bacchetti/audio.mp3
   size: 7642301
-  duration: 478
+  duration: 477
 keywords:
 - Alpi
 imageset:

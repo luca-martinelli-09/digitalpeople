@@ -10,7 +10,7 @@ episode: 29
 audio:
   file: /podcasts/visionalps/francesco-gabbi/audio.mp3
   size: 9819032
-  duration: 614
+  duration: 613
 keywords:
 - Alpi
 imageset:

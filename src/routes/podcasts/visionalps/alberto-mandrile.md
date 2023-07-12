@@ -11,7 +11,7 @@ episode: 20
 audio:
   file: /podcasts/visionalps/alberto-mandrile/audio.mp3
   size: 12265347
-  duration: 767
+  duration: 766
 keywords:
 - Alpi
 imageset:

@@ -1,17 +1,17 @@
 ---
 title: Vittorio Cossarini - Le nuove soluzioni per produrre e distribuire energia
   @Aosta
-date: 2022-11-10 20:00:00
+date: 2022-11-10 20:10:00
 image: /podcasts/visionalps/vittorio-cossarini/cover.jpg
 summary: In questa puntata Vittorio Cossarini ci ha parlato degli interventi di efficienza
   energetica al fine di ridurre l’impatto ambientale ed economico dei consumi e del
   nuovo approccio alla produzione e distribuzione dell’energia elettrica.
 season: 1
-episode: 42
+episode: 43
 audio:
   file: /podcasts/visionalps/vittorio-cossarini/audio.mp3
   size: 11963163
-  duration: 748
+  duration: 747
 keywords:
 - Alpi
 imageset:

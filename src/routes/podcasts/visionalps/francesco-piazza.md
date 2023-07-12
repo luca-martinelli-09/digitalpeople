@@ -10,7 +10,7 @@ episode: 25
 audio:
   file: /podcasts/visionalps/francesco-piazza/audio.mp3
   size: 5723450
-  duration: 358
+  duration: 357
 keywords:
 - Alpi
 imageset:

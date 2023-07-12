@@ -1,6 +1,6 @@
 ---
 title: VisionAlps - Trailer
-date: 2023-10-20 18:00:00
+date: 3023-10-20 18:00:00
 image: /podcasts/visionalps/loretta-credaro/cover.jpg
 summary: In questa puntata
 season: 1
