@@ -1,5 +1,5 @@
 # pip install python-frontmatter
-# pip install librosa
+# pip install mutagen
 
 import os
 from io import BytesIO
