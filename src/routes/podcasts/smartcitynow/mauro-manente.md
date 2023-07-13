@@ -1,5 +1,5 @@
 ---
-title: Mauro Manente - L’algoritmo di Latitude 40 per valutare il cambiamento climatico
+title: Mauro Manente - L’algoritmo di Latitudo 40 per valutare il cambiamento climatico
   urbano
 date: 2023-06-20 19:50:00
 image: /podcasts/smartcitynow/mauro-manente/cover.jpg
