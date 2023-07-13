@@ -1,5 +1,5 @@
 ---
-title: Francesco Trimarchi - La Smart City per ogni esigenza secondo EnelX
+title: Francesco Trimarchi - La Smart City per ogni esigenza secondo Enel X
 date: 2023-06-20 18:20:00
 image: /podcasts/smartcitynow/francesco-trimarchi/cover.jpg
 summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni

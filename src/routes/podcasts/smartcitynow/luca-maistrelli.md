@@ -18,6 +18,9 @@ audio:
   duration: 582
 keywords:
 - Smart City
+imageset:
+- /podcasts/smartcitynow/luca-maistrelli/cover.1000x1000.webp
+- /podcasts/smartcitynow/luca-maistrelli/cover.2400x2400.jpeg
 ---
 
 In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Luca Maistrelli](https://www.linkedin.com/in/lmaistrelli/), CEO di [Newtron Technologies](https://www.linkedin.com/company/newtron-technologies-srl/), ci ha parlato del loro sistema innovativo che si basa sull’installazione di dispositivi Android modificati, come gli smartphone, all’interno dei mezzi urbani con l’obiettivo di raccogliere informazioni sullo stato e la qualità dell’illuminazione all’interno delle città.
