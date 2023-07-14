@@ -88,7 +88,7 @@ const xml =
 
       if (episode.image.startsWith("http")) episodeImageUri = episode.image
       else
-        if (episode.imageset && episode.imageset.length >= 1) episodeImageUri = episode.imageset[1]
+        if (episode.imageset && episode.imageset.length >= 1) episodeImageUri = uri + episode.imageset[1]
 
       return `<item>
         <title>

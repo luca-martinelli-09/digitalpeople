@@ -17,7 +17,7 @@ scheme:
 - '#BD1616'
 - '#420516'
 platforms:
-  spotify: null
+  spotify: https://open.spotify.com/show/6CYhQhRx3NeNWL9wtejJ9y
   google: null
   apple: null
 imageset:
