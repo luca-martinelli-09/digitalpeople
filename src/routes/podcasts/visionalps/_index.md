@@ -9,7 +9,7 @@ image: /podcasts/visionalps/cover.jpg
 language: it
 categories:
 - Technology
-type: null
+type: serial
 visible: true
 scheme:
 - '#d6e2db'
