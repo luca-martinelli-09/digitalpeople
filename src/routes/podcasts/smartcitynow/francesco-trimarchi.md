@@ -21,7 +21,7 @@ imageset:
 - /podcasts/smartcitynow/francesco-trimarchi/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Francesco Trimarchi](https://www.linkedin.com/in/francesco-trimarchi-08139142/), Head of Smart Lighting & Smart City Sales di [Enel X](https://www.enelx.com/it/it), ci ha spiegato di che cosa si occupa la sua divisione e qual è la loro idea di Smart City, ovvero una città costituita da servizi circolari, decarbonizzati ed in grado di soddisfare le diverse esigenze dei cittadini.
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Francesco Trimarchi](https://www.linkedin.com/in/francesco-trimarchi-08139142/), Head of Smart Lighting & Smart City Sales di [Enel X](https://www.enelx.com/it/it/istituzioni?ecid=Display-Smartcitynow-IT_eCity_072023_IT-podcast-B2G), ci ha spiegato di che cosa si occupa la sua divisione e qual è la loro idea di Smart City, ovvero una città costituita da servizi circolari, decarbonizzati ed in grado di soddisfare le diverse esigenze dei cittadini.
 
 <br>
 
