@@ -1,6 +1,6 @@
 ---
 title: Lorenzo Ferrante - Pianificare la manutenzione urbana con Rekeep
-date: 2023-06-20 19:30:00
+date: 2023-06-20 19:40:00
 image: /podcasts/smartcitynow/lorenzo-ferrante/cover.jpg
 summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
@@ -9,7 +9,7 @@ summary: In questa puntata di Smart City Now, il podcast che analizza le soluzio
   Land e del ruolo della piattaforma Rekeep nel supportare le Pubbliche Amministrazioni
   nella pianificazione di interventi in ambito urbano.
 season: 1
-episode: 10
+episode: 11
 audio:
   file: /podcasts/smartcitynow/lorenzo-ferrante/audio.mp3
   size: 8395881

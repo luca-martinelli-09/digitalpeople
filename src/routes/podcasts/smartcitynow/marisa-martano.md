@@ -1,12 +1,18 @@
 ---
-title: Titolo
-date: 3023-06-20 18:00:00
+title: Marisa Martano - Promuovere la rigenerazione urbana con Edison Next
+date: 2023-06-20 19:20:00
 image: /podcasts/smartcitynow/marisa-martano/cover.jpg
-summary: Descrizione
+summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
+  tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
+  territoriale lombardo, Marisa Martano, Project Director Rigenerazione Urbana di
+  Edison Next, ci ha spiegato come si valorizzano le città attuando soluzioni efficienti
+  e innovative di rigenerazione urbana nel contesto dell’emergenza climatica in corso.
 season: 1
-episode: 1
+episode: 9
 audio:
   file: /podcasts/smartcitynow/marisa-martano/audio.mp3
+  size: 9262311
+  duration: 579
 keywords:
 - Smart City
 imageset:
@@ -14,7 +20,7 @@ imageset:
 - /podcasts/smartcitynow/marisa-martano/cover.2400x2400.jpeg
 ---
 
-Descrizione
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Marisa Martano](https://www.linkedin.com/in/martano-marisa-0679ba6a/?originalSubdomain=it), Project Director Rigenerazione Urbana di [Edison Next](https://www.edisonnext.it/it/), ci ha spiegato come si valorizzano le città attuando soluzioni efficienti e innovative di rigenerazione urbana nel contesto dell’emergenza climatica in corso.
 
 <br>
 

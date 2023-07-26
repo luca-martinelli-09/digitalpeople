@@ -1,6 +1,6 @@
 ---
 title: Francesco Mastrapasqua - L’hub d’innovazione Next Town del Gruppo Enercom
-date: 2023-06-20 20:10:00
+date: 2023-06-20 20:20:00
 image: /podcasts/smartcitynow/francesco-mastrapasqua/cover.jpg
 summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
@@ -10,7 +10,7 @@ summary: In questa puntata di Smart City Now, il podcast che analizza le soluzio
   servizi innovativi per i paesi o per le piccole città con meno competenze digitali
   rispetto alle grandi metropoli.
 season: 1
-episode: 14
+episode: 15
 audio:
   file: /podcasts/smartcitynow/francesco-mastrapasqua/audio.mp3
   size: 9758846

@@ -10,7 +10,7 @@ EPISODES_TO_GENERATE = {
         "filippo-troiani", "paolo-odorizzi", "marisa-martano",
         "luca-maistrelli", "lorenzo-ferrante", "antonio-puliafito",
         "mauro-manente", "michele-ieradi", "francesco-mastrapasqua",
-        "luigi-pagnozzi", "stefano-lorenzi"
+        "luigi-pagnozzi", "stefano-lorenzi", "fabio-ugolini"
     ]
 }
 

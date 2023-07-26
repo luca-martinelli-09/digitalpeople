@@ -1,6 +1,6 @@
 ---
 title: Antonio Puliafito - La scheda del CINI che simula il cervello umano
-date: 2023-06-20 19:40:00
+date: 2023-06-20 19:50:00
 image: /podcasts/smartcitynow/antonio-puliafito/cover.jpg
 summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
@@ -10,7 +10,7 @@ summary: In questa puntata di Smart City Now, il podcast che analizza le soluzio
   di un cervello umano grazie all’Edge Computing e delle sue possibili implementazioni
   all’interno di prodotti per le Smart City e l’Industria 4.0.
 season: 1
-episode: 11
+episode: 12
 audio:
   file: /podcasts/smartcitynow/antonio-puliafito/audio.mp3
   size: 9348410

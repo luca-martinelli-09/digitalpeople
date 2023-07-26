@@ -1,6 +1,6 @@
 ---
 title: Michele Ieradi - ArcGIS, il sistema informativo territoriale di Esri
-date: 2023-06-20 20:00:00
+date: 2023-06-20 20:10:00
 image: /podcasts/smartcitynow/michele-ieradi/cover.jpg
 summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
@@ -10,7 +10,7 @@ summary: In questa puntata di Smart City Now, il podcast che analizza le soluzio
   una gestione e una pianificazione del territorio efficace utilizzando strumenti
   statistici e di progettazione.
 season: 1
-episode: 13
+episode: 14
 audio:
   file: /podcasts/smartcitynow/michele-ieradi/audio.mp3
   size: 8096622

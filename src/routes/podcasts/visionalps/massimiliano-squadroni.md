@@ -1,6 +1,6 @@
 ---
 title: 
-date: 3023-11-03 18:00:00
+date: 2023-11-03 18:00:00
 image: /podcasts/visionalps/ospite/cover.jpg
 summary: In questa puntata
 season: 3

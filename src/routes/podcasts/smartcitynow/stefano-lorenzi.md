@@ -1,6 +1,6 @@
 ---
 title: Stefano Lorenzi - Gli impianti a fune nelle città realizzati da Leitner
-date: 2023-06-20 20:20:00
+date: 2023-06-20 20:40:00
 image: /podcasts/smartcitynow/stefano-lorenzi/cover.jpg
 summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
@@ -10,7 +10,7 @@ summary: In questa puntata di Smart City Now, il podcast che analizza le soluzio
   in grado di trasportare da una linea metropolitana all’altra fino a 70.000 persone
   al giorno.
 season: 1
-episode: 15
+episode: 17
 audio:
   file: /podcasts/smartcitynow/stefano-lorenzi/audio.mp3
   size: 6110480

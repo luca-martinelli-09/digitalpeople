@@ -39,10 +39,10 @@ PODCAST_ORDERS = {
         [
             "gianluigi-ferri", "fabio-germagnoli", "francesco-trimarchi",
             "alex-buzzetti", "andrea-sorri", "andrea-marella",
-            "filippo-troiani", "paolo-odorizzi", "--marisa-martano",
+            "filippo-troiani", "paolo-odorizzi", "marisa-martano",
             "luca-maistrelli", "lorenzo-ferrante", "antonio-puliafito",
             "mauro-manente", "michele-ieradi", "francesco-mastrapasqua",
-            "--luigi-pagnozzi", "stefano-lorenzi"
+            "fabio-ugolini", "stefano-lorenzi"
         ]
     ]
 }

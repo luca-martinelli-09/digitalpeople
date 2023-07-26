@@ -1,7 +1,7 @@
 ---
 title: Mauro Manente - L’algoritmo di Latitudo 40 per valutare il cambiamento climatico
   urbano
-date: 2023-06-20 19:50:00
+date: 2023-06-20 20:00:00
 image: /podcasts/smartcitynow/mauro-manente/cover.jpg
 summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
@@ -11,7 +11,7 @@ summary: In questa puntata di Smart City Now, il podcast che analizza le soluzio
   dell’ESA con l'obiettivo di valutare gli impatti del cambiamento climatico in ambito
   urbano.
 season: 1
-episode: 12
+episode: 13
 audio:
   file: /podcasts/smartcitynow/mauro-manente/audio.mp3
   size: 9569093

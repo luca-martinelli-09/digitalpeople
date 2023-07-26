@@ -1,7 +1,7 @@
 ---
 title: Luca Maistrelli - Monitorare l’illuminazione urbana con Android grazie a Newtron
   Technologies
-date: 2023-06-20 19:20:00
+date: 2023-06-20 19:30:00
 image: /podcasts/smartcitynow/luca-maistrelli/cover.jpg
 summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
@@ -11,7 +11,7 @@ summary: In questa puntata di Smart City Now, il podcast che analizza le soluzio
   raccogliere informazioni sullo stato e la qualità dell’illuminazione all’interno
   delle città.
 season: 1
-episode: 9
+episode: 10
 audio:
   file: /podcasts/smartcitynow/luca-maistrelli/audio.mp3
   size: 9321661
