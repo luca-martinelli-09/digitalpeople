@@ -13,7 +13,7 @@ season: 1
 episode: 12
 audio:
   file: /podcasts/smartcitynow/antonio-puliafito/audio.mp3
-  size: 9348410
+  size: 9350500
   duration: 584
 keywords:
 - Smart City

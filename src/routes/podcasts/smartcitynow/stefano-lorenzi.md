@@ -13,8 +13,8 @@ season: 1
 episode: 17
 audio:
   file: /podcasts/smartcitynow/stefano-lorenzi/audio.mp3
-  size: 6110480
-  duration: 382
+  size: 6105047
+  duration: 381
 keywords:
 - Smart City
 imageset:

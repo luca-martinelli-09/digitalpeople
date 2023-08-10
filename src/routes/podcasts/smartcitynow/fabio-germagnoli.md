@@ -13,7 +13,7 @@ season: 1
 episode: 2
 audio:
   file: /podcasts/smartcitynow/fabio-germagnoli/audio.mp3
-  size: 7768942
+  size: 7767689
   duration: 485
 keywords:
 - Smart City

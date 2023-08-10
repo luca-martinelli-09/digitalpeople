@@ -13,7 +13,7 @@ season: 1
 episode: 5
 audio:
   file: /podcasts/smartcitynow/andrea-sorri/audio.mp3
-  size: 7178366
+  size: 7176276
   duration: 448
 keywords:
 - Smart City

@@ -13,8 +13,8 @@ season: 1
 episode: 15
 audio:
   file: /podcasts/smartcitynow/francesco-mastrapasqua/audio.mp3
-  size: 9758846
-  duration: 610
+  size: 9755085
+  duration: 609
 keywords:
 - Smart City
 imageset:

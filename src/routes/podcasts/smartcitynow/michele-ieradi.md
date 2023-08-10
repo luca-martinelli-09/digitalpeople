@@ -13,7 +13,7 @@ season: 1
 episode: 14
 audio:
   file: /podcasts/smartcitynow/michele-ieradi/audio.mp3
-  size: 8096622
+  size: 8094951
   duration: 506
 keywords:
 - Smart City

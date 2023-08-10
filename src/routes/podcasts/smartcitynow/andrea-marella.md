@@ -14,7 +14,7 @@ season: 1
 episode: 6
 audio:
   file: /podcasts/smartcitynow/andrea-marella/audio.mp3
-  size: 9923104
+  size: 9924358
   duration: 620
 keywords:
 - Smart City

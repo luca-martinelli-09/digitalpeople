@@ -12,7 +12,7 @@ season: 1
 episode: 8
 audio:
   file: /podcasts/smartcitynow/paolo-odorizzi/audio.mp3
-  size: 7542409
+  size: 7543244
   duration: 471
 keywords:
 - Smart City

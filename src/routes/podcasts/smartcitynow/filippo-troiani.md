@@ -13,7 +13,7 @@ season: 1
 episode: 7
 audio:
   file: /podcasts/smartcitynow/filippo-troiani/audio.mp3
-  size: 13090817
+  size: 13087055
   duration: 818
 keywords:
 - Smart City

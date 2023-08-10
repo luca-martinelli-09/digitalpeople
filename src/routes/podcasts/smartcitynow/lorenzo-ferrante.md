@@ -12,7 +12,7 @@ season: 1
 episode: 11
 audio:
   file: /podcasts/smartcitynow/lorenzo-ferrante/audio.mp3
-  size: 8395881
+  size: 8392956
   duration: 524
 keywords:
 - Smart City

@@ -14,8 +14,8 @@ season: 1
 episode: 10
 audio:
   file: /podcasts/smartcitynow/luca-maistrelli/audio.mp3
-  size: 9321661
-  duration: 582
+  size: 9325005
+  duration: 583
 keywords:
 - Smart City
 imageset:

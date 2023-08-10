@@ -13,7 +13,7 @@ season: 1
 episode: 4
 audio:
   file: /podcasts/smartcitynow/alex-buzzetti/audio.mp3
-  size: 9001086
+  size: 9000668
   duration: 562
 keywords:
 - Smart City

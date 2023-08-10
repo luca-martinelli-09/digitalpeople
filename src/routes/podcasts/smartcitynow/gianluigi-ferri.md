@@ -12,8 +12,8 @@ season: 1
 episode: 1
 audio:
   file: /podcasts/smartcitynow/gianluigi-ferri/audio.mp3
-  size: 3086546
-  duration: 193
+  size: 3100338
+  duration: 194
 keywords:
 - Smart City
 imageset:
