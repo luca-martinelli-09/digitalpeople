@@ -121,7 +121,7 @@ const xml =
         </itunes:summary>
 
         <enclosure
-          url="${episode.audio?.file.startsWith("http") ? episode.audio?.file : uri + episode.audio?.file}"
+          url="${episode.audio?.file.startsWith("http") ? episode.audio?.file : uri + episode.audio?.file + "?t=" + (podcast.audioVersion || 0)}"
           type="${episode.audio?.type || "audio/mpeg"}"
           length="${episode.audio?.size || 0}"
         />
