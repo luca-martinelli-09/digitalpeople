@@ -24,4 +24,5 @@ imageset:
 ---
 
 La tecnologia è un settore che si evolve con una velocità incredibile. Ci sono però dei dispositivi che, nel corso degli anni con le loro novità, sono stati determinanti per arrivare a quelli che abbiamo oggi e meritano di non essere dimenticati. [Tech Rewind](https://w3id.org/digitalpeople/podcasts/techrewind) si occupa proprio di riportare alla luce dispositivi del passato raccontandone la storia e mettendone in luce le peculiarità che li hanno resi iconici.
+
 Tech Rewind è un podcast di [Digital People](https://w3id.org/digitalpeople), realizzato da Federico Toffolatti.
