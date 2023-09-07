@@ -10,7 +10,7 @@ image: /podcasts/techrewind/cover.jpg
 language: it
 categories:
 - Technology
-type: serial
+type: episodic
 visible: true
 scheme:
 - '#FBD7FC'
