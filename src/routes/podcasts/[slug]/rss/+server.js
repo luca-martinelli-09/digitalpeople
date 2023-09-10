@@ -111,12 +111,12 @@ const xml =
 
         <description>
           <![CDATA[
-            ${episode.description}
+            ${episode.description.replace('\n', '')}
           ]]>
         </description>
         <itunes:summary>
           <![CDATA[
-            ${episode.description}
+            ${episode.description.replace('\n', '')}
           ]]>
         </itunes:summary>
 
