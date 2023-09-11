@@ -86,6 +86,8 @@ const xml =
 
       let episodeImageUri = null;
 
+        console.log(episode.description.replace(/<br\s*[\/]?>/gi, ''));
+
       if (episode.image.startsWith("http")) episodeImageUri = episode.image
       else
         if (episode.imageset && episode.imageset.length >= 1) episodeImageUri = uri + episode.imageset[1]
@@ -111,12 +113,12 @@ const xml =
 
         <description>
           <![CDATA[
-            ${episode.description.replace('\n', '')}
+            ${episode.description.replace(/<br\s*[\/]?>/gi, '')}
           ]]>
         </description>
         <itunes:summary>
           <![CDATA[
-            ${episode.description.replace('\n', '')}
+            ${episode.description.replace(/<br\s*[\/]?>/gi, '')}
           ]]>
         </itunes:summary>
 
