@@ -21,6 +21,7 @@ platforms:
   spotify: https://open.spotify.com/show/7xZwUzY1earZU7llUjhi3r
   apple: https://podcasts.apple.com/it/podcast/tech-rewind/id1706365591
   amazon: https://music.amazon.it/podcasts/400bb6ac-eb50-4715-b1e4-953ad456fc7d/tech-rewind
+  google: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGlnaXRhbHBlb3BsZS50ZWNoL3BvZGNhc3RzL3RlY2hyZXdpbmQvcnNz
 imageset:
 - /podcasts/techrewind/cover.1000x1000.webp
 - /podcasts/techrewind/cover.2400x2400.jpeg
