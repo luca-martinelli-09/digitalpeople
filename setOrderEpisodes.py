@@ -2,10 +2,10 @@
 # pip install librosa
 
 import os
+from datetime import datetime, timedelta
 from io import BytesIO
 
 import frontmatter
-from datetime import datetime, timedelta
 
 FOLDER = './src/routes/podcasts'
 
@@ -32,7 +32,17 @@ PODCAST_ORDERS = {
             "mario-pasquino", "thomas-ferrero", "alberto-giolitti",
             "victor-miherea", "sergio-bonora", "stefano-carbone",
             "vittorio-cossarini", "francesco-comotti", "armando-portoraro",
-            "sandro-vettori", "--carlo-marzi", "--luca-fazzi"
+            "sandro-vettori", "--carlo-marzi", "--luca-fazzi",
+
+            "fausto-manzana", "paolo-grigolli", "tania-giovannini",
+            "lorenzo-ferrante", "maurizio-stucchi", "erik-svab",
+            "david-tacconi", "silvia-margoni", "luisa-pizzini",
+            "daniele-endrici",
+
+            "carlo-costa", "christian-caneppele", "andrea-gherardi",
+            "enrico-bramerini", "federica-vigano", "patrizia-balzama",
+            "giorgio-ramenghi", "alessandro-zorer", "marco-montali",
+            "thomas-aichner", "marco-dapra", "giuseppe-addamo"
         ]
     ],
     "smartcitynow": [
@@ -71,7 +81,7 @@ for podcast in PODCAST_ORDERS.keys():
 
                 episodeDate = episodeInfo["date"]
 
-                if lastDate is None or (episodeDate - lastDate).days >= 1:
+                if lastDate is None or ((episodeDate - lastDate) >= timedelta(hours=12) and lastDate < episodeDate):
                     lastDate = episodeDate
                 else:
                     lastDate = lastDate + timedelta(minutes=10)

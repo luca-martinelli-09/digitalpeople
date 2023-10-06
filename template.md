@@ -1,6 +1,6 @@
 ---
 title: Titolo
-date: 2023-06-20 18:00:00
+date: 3023-09-26 18:00:00
 image: /podcasts/{podcast}/{slug}/cover.jpg
 summary: Descrizione
 season: 1
@@ -8,7 +8,8 @@ episode: 1
 audio:
   file: /podcasts/{podcast}/{slug}/audio.mp3
 keywords:
-- Smart City
+- VisionAlps
+- Alpi
 ---
 
 Descrizione

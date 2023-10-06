@@ -25,7 +25,7 @@ export const fetchPodcasts = async (podcast = null) => {
   return allPodcasts.filter(p => p.visible !== false)
 }
 
-export const fetchEpisodes = async (podcast) => {
+export const fetchEpisodes = async (podcast, filter = true) => {
   const allEpisodesFiles = import.meta.glob('../../routes/podcasts/*/[a-z-0-9]+.md')
   const iterableEpisodesFiles = Object.entries(allEpisodesFiles)
 
@@ -50,10 +50,15 @@ export const fetchEpisodes = async (podcast) => {
     })
   )
 
-  return allEpisodes.sort((a, b) => {
+  const sortedEpisodes = allEpisodes.sort((a, b) => {
     if (a.season === b.season) return a.episode - b.episode;
     return a.season - b.season;
-  }).filter((e) => { return new Date() >= new Date(e.date) })
+  })
+
+  if (filter)
+    return sortedEpisodes.filter((e) => { return new Date() >= new Date(e.date) })
+
+  return sortedEpisodes.filter((e) => { return new Date() >= new Date(e.date) || new Date() <= new Date(e.date) })
 }
 
 export const secondsToText = (time, extended = false) => {

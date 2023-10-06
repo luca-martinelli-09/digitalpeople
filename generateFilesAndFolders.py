@@ -4,13 +4,14 @@ FOLDER = './src/routes/podcasts'
 STATIC_FOLDER = './static/podcasts'
 
 EPISODES_TO_GENERATE = {
-    "smartcitynow": [
-        "gianluigi-ferri", "fabio-germagnoli", "francesco-trimarchi",
-        "alex-buzzetti", "andrea-sorri", "andrea-marella",
-        "filippo-troiani", "paolo-odorizzi", "marisa-martano",
-        "luca-maistrelli", "lorenzo-ferrante", "antonio-puliafito",
-        "mauro-manente", "michele-ieradi", "francesco-mastrapasqua",
-        "luigi-pagnozzi", "stefano-lorenzi", "fabio-ugolini"
+    "visionalps": [
+        "fausto-manzana", "paolo-grigolli", "tania-giovannini",
+        "lorenzo-ferrante", "maurizio-stucchi", "erik-svab",
+        "david-tacconi", "silvia-margoni", "luisa-pizzini",
+        "daniele-endrici", "carlo-costa", "christian-caneppele",
+        "andrea-gherardi", "enrico-bramerini", "federica-vigano",
+        "patrizia-balzama", "giorgio-ramenghi", "alessandro-zorer",
+        "marco-montali", "thomas-aichner", "marco-dapra", "giuseppe-addamo"
     ]
 }
 
@@ -49,7 +50,7 @@ for podcast in EPISODES_TO_GENERATE.keys():
             with open(episodePath, "w+") as fp:
                 fp.write(processTemplate(
                     template, {"slug": episode, "podcast": podcast}))
-        
+
         if os.path.exists(staticEpisodeFolder):
             print(f"    🔍 La cartella statica è già esistente")
         else:
