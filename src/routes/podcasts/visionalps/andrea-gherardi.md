@@ -1,7 +1,7 @@
 ---
 title: Andrea Gherardi - Il software di Maps Group per la gestione delle comunità
   energetiche @Bolzano
-date: 3023-09-27 18:20:00
+date: 2023-09-27 18:20:00
 image: /podcasts/visionalps/andrea-gherardi/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Andrea Gherardi, Head

@@ -1,6 +1,6 @@
 ---
 title: Silvia Margoni - Ridurre il rischio negli investimenti con Links4Brain @Trento
-date: 3023-09-26 19:10:00
+date: 2023-09-26 19:10:00
 image: /podcasts/visionalps/silvia-margoni/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Silvia Margoni, Titolare

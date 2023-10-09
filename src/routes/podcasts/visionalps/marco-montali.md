@@ -1,6 +1,6 @@
 ---
 title: Marco Montali - Le applicazioni dell’IA nel territorio montano @Bolzano
-date: 3023-09-27 19:20:00
+date: 2023-09-27 19:20:00
 image: /podcasts/visionalps/marco-montali/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Marco Montali, Professore

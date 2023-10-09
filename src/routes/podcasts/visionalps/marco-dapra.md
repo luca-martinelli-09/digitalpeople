@@ -1,7 +1,7 @@
 ---
 title: Marco Daprà - Gli strumenti tecnologici di Microgate per il monitoraggio sportivo
   professionale @Bolzano
-date: 3023-09-27 19:40:00
+date: 2023-09-27 19:40:00
 image: /podcasts/visionalps/marco-dapra/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Marco Daprà, Direttore

@@ -1,6 +1,6 @@
 ---
 title: Patrizia Balzamà - Chi è l’Artigiano Digitale? Ce lo spiega CNA-SHV @Bolzano
-date: 3023-09-27 18:50:00
+date: 2023-09-27 18:50:00
 image: /podcasts/visionalps/patrizia-balzama/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Patrizia Balzamà, Presidente

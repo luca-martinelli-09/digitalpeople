@@ -1,7 +1,7 @@
 ---
 title: Thomas Aichner - Le soluzioni di Salewa per un abbigliamento professionale
   e di qualità @Bolzano
-date: 3023-09-27 19:30:00
+date: 2023-09-27 19:30:00
 image: /podcasts/visionalps/thomas-aichner/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Thomas Aichner, International

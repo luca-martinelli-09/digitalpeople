@@ -1,6 +1,6 @@
 ---
 title: Enrico Bramerini - Il sistema integrato delle Alpi secondo Cooperdolomiti @Bolzano
-date: 3023-09-27 18:30:00
+date: 2023-09-27 18:30:00
 image: /podcasts/visionalps/enrico-bramerini/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Enrico Bramerini, Presidente

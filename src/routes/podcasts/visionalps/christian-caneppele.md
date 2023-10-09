@@ -1,7 +1,7 @@
 ---
 title: Christian Caneppele - I benefici delle cooperative di comunità secondo Green
   Land @Bolzano
-date: 3023-09-27 18:10:00
+date: 2023-09-27 18:10:00
 image: /podcasts/visionalps/christian-caneppele/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Christian Caneppele, Operation
