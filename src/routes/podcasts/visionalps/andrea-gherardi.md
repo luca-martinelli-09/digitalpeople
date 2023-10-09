@@ -8,8 +8,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   of Business Unit di Maps Group, ha spiegato di cosa si occupa la sua azienda e di
   come il software che sviluppano favorisca l’accelerazione e l’automatizzazione dei
   processi di costituzione di una comunità energetica.
-season: 1
-episode: 59
+season: 2
+episode: 13
 audio:
   file: /podcasts/visionalps/andrea-gherardi/audio.mp3
   size: 6364182

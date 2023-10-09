@@ -8,8 +8,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   e di come sono stati affrontati i tre obiettivi principali incentrati sull’individuo
   e la qualità della vita, sulla transizione sostenibile e sul Trentino come società
   5.0.
-season: 1
-episode: 47
+season: 2
+episode: 1
 audio:
   file: /podcasts/visionalps/fausto-manzana/audio.mp3
   size: 10783264

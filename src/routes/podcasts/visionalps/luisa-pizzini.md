@@ -8,8 +8,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   Comunicazione di Fondazione Caritro, ha parlato dei principali settori d’intervento
   nei quali opera la Fondazione, come quello culturale e della ricerca, con l’obiettivo
   di favorire il progresso e l’innovazione del territorio del Trentino Alto Adige.
-season: 1
-episode: 55
+season: 2
+episode: 9
 audio:
   file: /podcasts/visionalps/luisa-pizzini/audio.mp3
   size: 5121171

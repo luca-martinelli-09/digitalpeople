@@ -8,8 +8,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   Ricerca e Sviluppo di Delta Informatica, ha parlato dei nuovi traguardi raggiunti
   nel settore dell’Intelligenza Artificiale e dei benefici che porterà in futuro questa
   tecnologia nei diversi settori economici e sociali.
-season: 1
-episode: 64
+season: 2
+episode: 18
 audio:
   file: /podcasts/visionalps/alessandro-zorer/audio.mp3
   size: 8555960

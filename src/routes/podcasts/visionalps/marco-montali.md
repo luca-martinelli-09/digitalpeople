@@ -8,8 +8,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   punti della presentazione sull’Intelligenza Artificiale portati all’evento e spiegato
   che cosa si intende per tecniche di Intelligenza Artificiale per lo sviluppo di
   processi aziendali legati al territorio montano.
-season: 1
-episode: 65
+season: 2
+episode: 19
 audio:
   file: /podcasts/visionalps/marco-montali/audio.mp3
   size: 8268822

@@ -9,8 +9,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   funzionamento della loro piattaforma che consente alle Pubbliche Amministrazioni
   di ottenere un quadro dello stato dell’area urbana di competenza attraverso i dati
   raccolti.
-season: 1
-episode: 50
+season: 2
+episode: 4
 audio:
   file: /podcasts/visionalps/lorenzo-ferrante/audio.mp3
   size: 6617047

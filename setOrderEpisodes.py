@@ -33,7 +33,8 @@ PODCAST_ORDERS = {
             "victor-miherea", "sergio-bonora", "stefano-carbone",
             "vittorio-cossarini", "francesco-comotti", "armando-portoraro",
             "sandro-vettori", "--carlo-marzi", "--luca-fazzi",
-
+        ],
+        [
             "fausto-manzana", "paolo-grigolli", "tania-giovannini",
             "lorenzo-ferrante", "maurizio-stucchi", "erik-svab",
             "david-tacconi", "silvia-margoni", "luisa-pizzini",

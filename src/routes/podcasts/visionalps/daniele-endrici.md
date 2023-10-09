@@ -7,8 +7,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   proprietari della Cantina Endrizzi, ci ha portato un breve accenno storico sullo
   sviluppo della viticoltura nel Trentino e alcune delle recenti innovazioni tecnologiche
   e agronomiche introdotte in questo settore.
-season: 1
-episode: 56
+season: 2
+episode: 10
 audio:
   file: /podcasts/visionalps/daniele-endrici/audio.mp3
   size: 8135075

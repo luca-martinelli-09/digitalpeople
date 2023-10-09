@@ -9,8 +9,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   che acquistano abbigliamento e attrezzatura tecnica nel corso degli anni e quali
   sono le differenze tra aziende specializzate come Salewa e le grandi multinazionali
   che hanno iniziato a vendere prodotti per la montagna.
-season: 1
-episode: 66
+season: 2
+episode: 20
 audio:
   file: /podcasts/visionalps/thomas-aichner/audio.mp3
   size: 6718193

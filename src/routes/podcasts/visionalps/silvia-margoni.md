@@ -8,8 +8,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   di marketing strategico e “neuroselling”, aiuta le aziende a ridurre i margini di
   rischio negli investimenti attraverso analisi scientifiche e rilevazioni basate
   sui dati.
-season: 1
-episode: 54
+season: 2
+episode: 8
 audio:
   file: /podcasts/visionalps/silvia-margoni/audio.mp3
   size: 9933135

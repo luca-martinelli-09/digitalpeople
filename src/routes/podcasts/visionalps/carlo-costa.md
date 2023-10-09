@@ -8,8 +8,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   sfide principali per compiere una transizione verso una mobilità sostenibile e dei
   traguardi raggiunti come la realizzazione del primo impianto in Italia a Bolzano
   per la produzione, lo stoccaggio e la distribuzione di idrogeno verde.
-season: 1
-episode: 57
+season: 2
+episode: 11
 audio:
   file: /podcasts/visionalps/carlo-costa/audio.mp3
   size: 7407826

@@ -9,8 +9,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   dei borghi attraverso la realizzazione di infrastrutture di telecomunicazione basate
   sulla fibra ottica e sul 5G e la promozione di progetti innovativi come Borgi connessi
   pensati per favorire lo sviluppo delle aree montane più remote.
-season: 1
-episode: 63
+season: 2
+episode: 17
 audio:
   file: /podcasts/visionalps/giorgio-ramenghi/audio.mp3
   size: 8879460

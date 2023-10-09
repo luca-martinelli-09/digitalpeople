@@ -6,8 +6,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   tematiche legate alla trasformazione digitale delle Alpi, Giuseppe Addamo, Founder
   di VAIA, ci ha parlato degli strumenti in legno che producono derivanti dagli abeti
   rossi e dai larici abbattuti durante la tempesta VAIA nel 2018.
-season: 1
-episode: 68
+season: 2
+episode: 22
 audio:
   file: /podcasts/visionalps/giuseppe-addamo/audio.mp3
   size: 7971235

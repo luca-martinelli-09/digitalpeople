@@ -9,8 +9,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   di ottenere ed elaborare i dati ottenuti da sensori medici per il movimento e la
   riabilitazione e degli strumenti di finanza agevolata per supportare la crescita
   delle aziende a livello internazionale.
-season: 1
-episode: 53
+season: 2
+episode: 7
 audio:
   file: /podcasts/visionalps/david-tacconi/audio.mp3
   size: 7225178

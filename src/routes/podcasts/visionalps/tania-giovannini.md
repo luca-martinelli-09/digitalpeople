@@ -7,8 +7,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   Comunicazione e Marketing di CBS Trento, ha presentato il progetto Ospitar che si
   occupa di rigenerazione urbana attraverso una miglior gestione dei flussi turistici
   e dello sviluppo di comunità basate sulle seconde case.
-season: 1
-episode: 49
+season: 2
+episode: 3
 audio:
   file: /podcasts/visionalps/tania-giovannini/audio.mp3
   size: 8851875

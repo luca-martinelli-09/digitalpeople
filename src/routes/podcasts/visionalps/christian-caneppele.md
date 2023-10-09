@@ -9,8 +9,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   il concetto di comunità energetica e delle nuove figure ibride come il “prosumer”
   che oltre ad autoconsumare l’energia prodotta dall’impianto fotovoltaico la immettono
   anche nella rete.
-season: 1
-episode: 58
+season: 2
+episode: 12
 audio:
   file: /podcasts/visionalps/christian-caneppele/audio.mp3
   size: 5275398

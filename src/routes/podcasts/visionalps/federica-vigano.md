@@ -9,8 +9,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   i risultati della ricerca realizzata insieme a Cooperdolomiti incentrata sull’adozione
   dello smart working durante il periodo della pandemia e delle nuove forme ibride
   che vengono impiegate al giorno d’oggi.
-season: 1
-episode: 61
+season: 2
+episode: 15
 audio:
   file: /podcasts/visionalps/federica-vigano/audio.mp3
   size: 9169942

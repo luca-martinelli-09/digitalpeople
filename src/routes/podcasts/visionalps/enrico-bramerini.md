@@ -7,8 +7,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   di Cooperdolomiti, ha spiegato perché è importante concepire le Alpi come un sistema
   integrato al di sopra delle divisioni amministrative nazionali per rispondere alle
   nuove esigenze dello sviluppo e dell’innovazione del territorio.
-season: 1
-episode: 60
+season: 2
+episode: 14
 audio:
   file: /podcasts/visionalps/enrico-bramerini/audio.mp3
   size: 6831878

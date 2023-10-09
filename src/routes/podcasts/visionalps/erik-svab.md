@@ -8,8 +8,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   risultati ottenuti, perché è fondamentale supportare aziende e soggetti pubblici
   nella gestione di fondi e contributi per favorire lo sviluppo e l’innovazione del
   territorio montano.
-season: 1
-episode: 52
+season: 2
+episode: 6
 audio:
   file: /podcasts/visionalps/erik-svab/audio.mp3
   size: 14724201

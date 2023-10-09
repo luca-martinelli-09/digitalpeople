@@ -8,8 +8,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   Commerciale di Microgate, ha spiegato quali sono i settori in cui opera la sua azienda
   come la produzione di strumenti per il cronometraggio professionale e per la valutazione
   del movimento performante a livello olimpionico.
-season: 1
-episode: 67
+season: 2
+episode: 21
 audio:
   file: /podcasts/visionalps/marco-dapra/audio.mp3
   size: 6923829

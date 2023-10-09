@@ -7,8 +7,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   Azienda per il Turismo della Val di Fassa, ha spiegato come la sua cooperativa promuove
   il turismo del territorio attraverso la fornitura di servizi studiati ad hoc per
   valorizzare ulteriormente la vacanza in Trentino.
-season: 1
-episode: 48
+season: 2
+episode: 2
 audio:
   file: /podcasts/visionalps/paolo-grigolli/audio.mp3
   size: 6780887

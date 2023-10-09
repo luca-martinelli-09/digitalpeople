@@ -7,8 +7,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   degli Artigiani Digitali in CNA-SHV, ha spiegato di cosa si occupa la sua confederazione
   e cosa si intende per Artigiano Digitale, una nuova figura nata dalle nuove esigenze
   legate alla transizione digitale delle aziende e delle diverse figure imprenditoriali.
-season: 1
-episode: 62
+season: 2
+episode: 16
 audio:
   file: /podcasts/visionalps/patrizia-balzama/audio.mp3
   size: 9325840

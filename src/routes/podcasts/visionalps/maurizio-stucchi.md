@@ -7,8 +7,8 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   di BCPOD, ha presentato la sua start up che mira ad incentivare la mobilità sostenibile
   mettendo a disposizione una rete di box per biciclette sicuri e facilmente gestibili
   tramite app.
-season: 1
-episode: 51
+season: 2
+episode: 5
 audio:
   file: /podcasts/visionalps/maurizio-stucchi/audio.mp3
   size: 8838918
