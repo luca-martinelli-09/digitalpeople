@@ -1,6 +1,6 @@
 ---
 title: Maurizio Stucchi - Un parcheggio sicuro per la tua bici grazie a BCPOD @Trento
-date: 3023-09-26 18:40:00
+date: 2023-09-26 18:40:00
 image: /podcasts/visionalps/maurizio-stucchi/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Maurizio Stucchi, CFO
@@ -16,6 +16,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/maurizio-stucchi/cover.1000x1000.webp
+- /podcasts/visionalps/maurizio-stucchi/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **Maurizio Stucchi**, CFO di **[BCPOD](https://bicipod.it/)**, ha presentato la sua start up che mira ad incentivare la mobilità sostenibile mettendo a disposizione una rete di box per biciclette sicuri e facilmente gestibili tramite app.

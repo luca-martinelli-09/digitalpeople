@@ -1,7 +1,7 @@
 ---
 title: Christian Caneppele - I benefici delle cooperative di comunità secondo Green
   Land @Bolzano
-date: 3023-09-27 18:10:00
+date: 2023-09-27 18:10:00
 image: /podcasts/visionalps/christian-caneppele/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Christian Caneppele, Operation
@@ -18,6 +18,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/christian-caneppele/cover.1000x1000.webp
+- /podcasts/visionalps/christian-caneppele/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **[Christian Caneppele](https://www.linkedin.com/in/christian-caneppele-740a2886/)**, Operation Manager di Maps Group e Presidente di Cooperativa di Comunità **[Green Land](https://mapsgroup.it/green-land-comunita-energetica-in-trentino-si-avvarra-della-soluzione-rose/)**, ha definito il concetto di comunità energetica e delle nuove figure ibride come il “prosumer” che oltre ad autoconsumare l’energia prodotta dall’impianto fotovoltaico la immettono anche nella rete.

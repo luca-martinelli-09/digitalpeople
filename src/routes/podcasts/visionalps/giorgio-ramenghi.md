@@ -1,7 +1,7 @@
 ---
 title: Giorgio Ramenghi - La strategia di WindTre per diffondere la connettività e
   i servizi in montagna @Bolzano
-date: 3023-09-27 19:00:00
+date: 2023-09-27 19:00:00
 image: /podcasts/visionalps/giorgio-ramenghi/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Giorgio Ramenghi, Innovation
@@ -18,6 +18,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/giorgio-ramenghi/cover.1000x1000.webp
+- /podcasts/visionalps/giorgio-ramenghi/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **[Giorgio Ramenghi](https://www.linkedin.com/in/giorgioramenghi/)**, Innovation Manager di **[WindTre](https://www.windtre.it/)**, ha spiegato come è possibile evitare fenomeni come lo spopolamento dei borghi attraverso la realizzazione di infrastrutture di telecomunicazione basate sulla fibra ottica e sul 5G e la promozione di progetti innovativi come Borgi connessi pensati per favorire lo sviluppo delle aree montane più remote.

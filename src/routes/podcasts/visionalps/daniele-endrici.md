@@ -1,6 +1,6 @@
 ---
 title: Daniele Endrici - Le innovazioni nella viticoltura della Cantina Endrizzi @Trento
-date: 3023-09-26 19:30:00
+date: 2023-09-26 19:30:00
 image: /podcasts/visionalps/daniele-endrici/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Daniele Endrici, uno dei
@@ -16,6 +16,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/daniele-endrici/cover.1000x1000.webp
+- /podcasts/visionalps/daniele-endrici/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **Daniele Endrici**, uno dei proprietari della **[Cantina Endrizzi](https://www.endrizzi.it/it/)**, ci ha portato un breve accenno storico sullo sviluppo della viticoltura nel Trentino e alcune delle recenti innovazioni tecnologiche e agronomiche introdotte in questo settore.

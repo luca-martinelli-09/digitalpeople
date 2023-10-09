@@ -1,6 +1,6 @@
 ---
 title: Erik Švab - Gestire i fondi e i finanziamenti con Euroservis @Trento
-date: 3023-09-26 18:50:00
+date: 2023-09-26 18:50:00
 image: /podcasts/visionalps/erik-svab/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Erik Švab, Presidente
@@ -17,6 +17,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/erik-svab/cover.1000x1000.webp
+- /podcasts/visionalps/erik-svab/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **[Erik Švab](https://it.linkedin.com/in/erik-švab-13913254)**, Presidente e CEO di **[Euroservis](https://euroservis.eu/)**, ha presentato la sua azienda e ci ha spiegato, attraverso i risultati ottenuti, perché è fondamentale supportare aziende e soggetti pubblici nella gestione di fondi e contributi per favorire lo sviluppo e l’innovazione del territorio montano.

@@ -1,6 +1,6 @@
 ---
 title: Titolo
-date: 3023-09-26 18:00:00
+date: 2023-09-26 18:00:00
 image: /podcasts/{podcast}/{slug}/cover.jpg
 summary: Descrizione
 season: 1

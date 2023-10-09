@@ -1,7 +1,7 @@
 ---
 title: Alessandro Zorer - I benefici dell’Intelligenza Artificiale per la società
   del futuro @Bolzano
-date: 3023-09-27 19:10:00
+date: 2023-09-27 19:10:00
 image: /podcasts/visionalps/alessandro-zorer/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Alessandro Zorer, Direttore
@@ -17,6 +17,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/alessandro-zorer/cover.1000x1000.webp
+- /podcasts/visionalps/alessandro-zorer/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **[Alessandro Zorer](https://www.linkedin.com/in/zorer/)**, Direttore Ricerca e Sviluppo di **[Delta Informatica](https://www.deltainformatica.eu/)**, ha parlato dei nuovi traguardi raggiunti nel settore dell’Intelligenza Artificiale e dei benefici che porterà in futuro questa tecnologia nei diversi settori economici e sociali.

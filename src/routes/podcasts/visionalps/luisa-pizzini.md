@@ -1,7 +1,7 @@
 ---
 title: Luisa Pizzini - Il supporto alla cultura e alla ricerca della Fondazione Caritro
   @Trento
-date: 3023-09-26 19:20:00
+date: 2023-09-26 19:20:00
 image: /podcasts/visionalps/luisa-pizzini/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Luisa Pizzini, Ufficio
@@ -17,6 +17,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/luisa-pizzini/cover.1000x1000.webp
+- /podcasts/visionalps/luisa-pizzini/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **[Luisa Pizzini](https://it.linkedin.com/in/luisa-pizzini-52772843)**, Ufficio Comunicazione di **[Fondazione Caritro](https://www.fondazionecaritro.it/)**, ha parlato dei principali settori d’intervento nei quali opera la Fondazione, come quello culturale e della ricerca, con l’obiettivo di favorire il progresso e l’innovazione del territorio del Trentino Alto Adige.

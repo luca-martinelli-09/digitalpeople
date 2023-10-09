@@ -1,6 +1,6 @@
 ---
 title: Silvia Margoni - Ridurre il rischio negli investimenti con Links4Brain @Trento
-date: 3023-09-26 19:10:00
+date: 2023-09-26 19:10:00
 image: /podcasts/visionalps/silvia-margoni/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Silvia Margoni, Titolare
@@ -17,6 +17,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/silvia-margoni/cover.1000x1000.webp
+- /podcasts/visionalps/silvia-margoni/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **[Silvia Margoni](https://it.linkedin.com/in/silviamargoni/it)**, Titolare e Fondatrice di **[Links4Brain](https://links4brain.com/)**, ha presentato la sua azienda che, utilizzando tecniche di marketing strategico e “neuroselling”, aiuta le aziende a ridurre i margini di rischio negli investimenti attraverso analisi scientifiche e rilevazioni basate sui dati.

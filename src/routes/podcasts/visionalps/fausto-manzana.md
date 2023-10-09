@@ -1,6 +1,6 @@
 ---
 title: Fausto Manzana - Il progetto Duemilatrentino di Confindustria Trento @Trento
-date: 3023-09-26 18:00:00
+date: 2023-09-26 18:00:00
 image: /podcasts/visionalps/fausto-manzana/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Fausto Manzana, Presidente
@@ -17,6 +17,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/fausto-manzana/cover.1000x1000.webp
+- /podcasts/visionalps/fausto-manzana/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, Fausto Manzana, Presidente di [**Confindustria Trento**](https://www.confindustria.tn.it/it), ha spiegato di cosa si è occupato il progetto Duemilatrentino, e di come sono stati affrontati i tre obiettivi principali incentrati sull’individuo e la qualità della vita, sulla transizione sostenibile e sul Trentino come società 5.0.

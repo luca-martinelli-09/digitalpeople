@@ -1,6 +1,6 @@
 ---
 title: Tania Giovannini - Il nuovo approccio al turismo del progetto Ospitar @Trento
-date: 3023-09-26 18:20:00
+date: 2023-09-26 18:20:00
 image: /podcasts/visionalps/tania-giovannini/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Tania Giovannini, Responsabile
@@ -16,6 +16,9 @@ audio:
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/tania-giovannini/cover.1000x1000.webp
+- /podcasts/visionalps/tania-giovannini/cover.2400x2400.jpeg
 ---
 
 In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **[Tania Giovannini](https://it.linkedin.com/in/taniagiovannini)**, Responsabile Comunicazione e Marketing di **[CBS Trento](https://www.cbs.tn.it/)**, ha presentato il progetto Ospitar che si occupa di rigenerazione urbana attraverso una miglior gestione dei flussi turistici e dello sviluppo di comunità basate sulle seconde case.
