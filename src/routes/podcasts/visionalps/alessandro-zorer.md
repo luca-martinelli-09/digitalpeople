@@ -1,7 +1,7 @@
 ---
 title: Alessandro Zorer - I benefici dell’Intelligenza Artificiale per la società
   del futuro @Bolzano
-date: 2023-09-27 19:10:00
+date: 3023-09-27 19:10:00
 image: /podcasts/visionalps/alessandro-zorer/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Alessandro Zorer, Direttore

@@ -1,7 +1,7 @@
 ---
 title: Giorgio Ramenghi - La strategia di WindTre per diffondere la connettività e
   i servizi in montagna @Bolzano
-date: 2023-09-27 19:00:00
+date: 3023-09-27 19:00:00
 image: /podcasts/visionalps/giorgio-ramenghi/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Giorgio Ramenghi, Innovation

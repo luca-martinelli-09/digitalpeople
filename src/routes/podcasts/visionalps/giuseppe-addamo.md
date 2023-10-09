@@ -1,6 +1,6 @@
 ---
 title: Giuseppe Addamo - La nuova vita del legno di recupero grazie a VAIA @Bolzano
-date: 2023-09-27 19:50:00
+date: 3023-09-27 19:50:00
 image: /podcasts/visionalps/giuseppe-addamo/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Giuseppe Addamo, Founder

@@ -1,7 +1,7 @@
 ---
 title: Federica Viganò - Le conclusioni di UniBz sull’adozione dello smart working
   @Bolzano
-date: 2023-09-27 18:40:00
+date: 3023-09-27 18:40:00
 image: /podcasts/visionalps/federica-vigano/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Federica Viganò, Docente

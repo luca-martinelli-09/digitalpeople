@@ -1,6 +1,6 @@
 ---
 title: Tania Giovannini - Il nuovo approccio al turismo del progetto Ospitar @Trento
-date: 2023-09-26 18:20:00
+date: 3023-09-26 18:20:00
 image: /podcasts/visionalps/tania-giovannini/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Tania Giovannini, Responsabile

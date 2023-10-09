@@ -1,7 +1,7 @@
 ---
 title: Lorenzo Ferrante - La piattaforma di Rekeep per una gestione del territorio
   ottimizzata @Trento
-date: 2023-09-26 18:30:00
+date: 3023-09-26 18:30:00
 image: /podcasts/visionalps/lorenzo-ferrante/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Lorenzo Ferrante, Responsabile

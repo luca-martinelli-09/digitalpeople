@@ -1,6 +1,6 @@
 ---
 title: Carlo Costa - La mobilità sostenibile secondo Autostrada del Brennero @Bolzano
-date: 2023-09-27 18:00:00
+date: 3023-09-27 18:00:00
 image: /podcasts/visionalps/carlo-costa/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Carlo Costa, Direttore

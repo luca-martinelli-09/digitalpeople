@@ -1,6 +1,6 @@
 ---
 title: Paolo Grigolli - La centralità del turismo nella Val di Fassa @Trento
-date: 2023-09-26 18:10:00
+date: 3023-09-26 18:10:00
 image: /podcasts/visionalps/paolo-grigolli/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Paolo Grigolli, Direttore
