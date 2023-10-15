@@ -129,7 +129,7 @@ const xml =
         />
         <itunes:duration>${episode.audio?.duration || 0}</itunes:duration>
         
-        ${episodeImageUri ? '<itunes:image href="' + episodeImageUri + '" />' : ''}
+        ${episodeImageUri ? '<itunes:image href="' + episodeImageUri + '?t=1" />' : ''}
 
         <itunes:explicit>${episode.explicit || "no"}</itunes:explicit>
         <itunes:block>${episode.block || "no"}</itunes:block>
