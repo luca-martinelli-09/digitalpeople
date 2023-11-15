@@ -43,7 +43,11 @@ PODCAST_ORDERS = {
             "carlo-costa", "christian-caneppele", "andrea-gherardi",
             "enrico-bramerini", "federica-vigano", "patrizia-balzama",
             "giorgio-ramenghi", "alessandro-zorer", "marco-montali",
-            "thomas-aichner", "marco-dapra", "giuseppe-addamo"
+            "thomas-aichner", "marco-dapra", "giuseppe-addamo",
+
+            "michele-diasio-2", "michele-soavi", "massimiliano-margarone",
+            "paolo-messina", "pasquale-scopelliti-2", "tito-stefanelli",
+            "thomas-valentini"
         ]
     ],
     "smartcitynow": [

@@ -5,13 +5,9 @@ STATIC_FOLDER = './static/podcasts'
 
 EPISODES_TO_GENERATE = {
     "visionalps": [
-        "fausto-manzana", "paolo-grigolli", "tania-giovannini",
-        "lorenzo-ferrante", "maurizio-stucchi", "erik-svab",
-        "david-tacconi", "silvia-margoni", "luisa-pizzini",
-        "daniele-endrici", "carlo-costa", "christian-caneppele",
-        "andrea-gherardi", "enrico-bramerini", "federica-vigano",
-        "patrizia-balzama", "giorgio-ramenghi", "alessandro-zorer",
-        "marco-montali", "thomas-aichner", "marco-dapra", "giuseppe-addamo"
+        "michele-diasio-2", "michele-soavi", "massimiliano-margarone",
+        "paolo-messina", "pasquale-scopelliti-2", "tito-stefanelli",
+        "thomas-valentini"
     ]
 }
 
