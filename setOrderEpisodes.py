@@ -56,8 +56,8 @@ PODCAST_ORDERS = {
             "fulvio-ananasso", "roberto-siagri", "gianluca-caffaratti",
             "luca-profico", "eda-fetahu",
             
-            "alberto-mandrile-2", "maurizio-ionico", "nicola-bosticco",
-            "matteo-jarre", "marta-serrano"
+            "alberto-mandrile-2", "maurizio-ionico", "marta-serrano",
+            "matteo-jarre", "nicola-bosticco"
         ]
     ],
     "smartcitynow": [

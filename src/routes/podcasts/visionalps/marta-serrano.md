@@ -1,6 +1,6 @@
 ---
 title: Marta Serrano - Lo sport come chiave per l’innovazione @Bardonecchia
-date: 2023-11-14 18:40:00
+date: 2023-11-14 18:20:00
 image: /podcasts/visionalps/marta-serrano/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Marta Serrano, Presidente
@@ -8,7 +8,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   la promozione del territorio alpino e di come è possibile innovare l’ecosistema
   sportivo in generale.
 season: 2
-episode: 46
+episode: 44
 audio:
   file: /podcasts/visionalps/marta-serrano/audio.mp3
   size: 12208505

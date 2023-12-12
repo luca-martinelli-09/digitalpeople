@@ -1,13 +1,13 @@
 ---
 title: Nicola Bosticco - Sviluppare le stazioni sciistiche in modo sostenibile @Bardonecchia
-date: 2023-11-14 18:20:00
+date: 2023-11-14 18:40:00
 image: /podcasts/visionalps/nicola-bosticco/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Nicola Bosticco, CEO di
   Colomion S.p.A., ci ha parlato di come le località alpine e le stazioni sciistiche
   possono crescere in modo sostenibile e in armonia con l’ambiente circostante.
 season: 2
-episode: 44
+episode: 46
 audio:
   file: /podcasts/visionalps/nicola-bosticco/audio.mp3
   size: 12843385
