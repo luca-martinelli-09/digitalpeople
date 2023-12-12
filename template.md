@@ -1,6 +1,6 @@
 ---
 title: Titolo
-date: 2023-10-24 18:00:00
+date: 2023-10-04 18:00:00
 image: /podcasts/{podcast}/{slug}/cover.jpg
 summary: Descrizione
 season: 2

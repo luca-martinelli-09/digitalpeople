@@ -9,7 +9,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   di pagamento, i sistemi di notifica e le soluzioni per la connettività nel Comune
   di Sondrio.
 season: 2
-episode: 23
+episode: 30
 audio:
   file: /podcasts/visionalps/michele-diasio-2/audio.mp3
   size: 8948841

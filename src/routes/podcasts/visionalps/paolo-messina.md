@@ -10,7 +10,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   del paese Albosaggia e della loro modalità di divulgazione basata sull’uso della
   realtà virtuale.
 season: 2
-episode: 26
+episode: 33
 audio:
   file: /podcasts/visionalps/paolo-messina/audio.mp3
   size: 8973919

@@ -9,7 +9,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   si occupa la sua azienda nel settore della mobilità e del sistema di trasporto pubblico
   a chiamata che hanno pensato per coprire le aree meno coperte dai servizi tradizionali.
 season: 2
-episode: 29
+episode: 36
 audio:
   file: /podcasts/visionalps/thomas-valentini/audio.mp3
   size: 8708097

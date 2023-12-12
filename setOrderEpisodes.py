@@ -45,9 +45,19 @@ PODCAST_ORDERS = {
             "giorgio-ramenghi", "alessandro-zorer", "marco-montali",
             "thomas-aichner", "marco-dapra", "giuseppe-addamo",
 
+            "gherardo-manaigo", "manuel-manzoni", "marco-da-rin-zanco",
+            "stefano-savaris", "ellen-broccolo", "chiara-costa",
+            "ludovica-beatrice-rubbini",
+            
             "michele-diasio-2", "michele-soavi", "massimiliano-margarone",
             "paolo-messina", "pasquale-scopelliti-2", "tito-stefanelli",
-            "thomas-valentini"
+            "thomas-valentini",
+            
+            "fulvio-ananasso", "roberto-siagri", "gianluca-caffaratti",
+            "luca-profico", "eda-fetahu",
+            
+            "alberto-mandrile-2", "maurizio-ionico", "nicola-bosticco",
+            "matteo-jarre", "marta-serrano"
         ]
     ],
     "smartcitynow": [

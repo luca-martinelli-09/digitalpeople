@@ -8,7 +8,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   in servizi come la sanità, il trasporto e il turismo per rendere più semplice ed
   immediato l’utilizzo delle diverse piattaforme per l’utente.
 season: 2
-episode: 24
+episode: 31
 audio:
   file: /podcasts/visionalps/michele-soavi/audio.mp3
   size: 9593334

@@ -8,7 +8,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   online dei servizi sciistici e delle nuove collaborazioni di SNOWIT con le amministrazioni
   pubbliche e società come Trenord.
 season: 2
-episode: 27
+episode: 34
 audio:
   file: /podcasts/visionalps/pasquale-scopelliti-2/audio.mp3
   size: 10275862
