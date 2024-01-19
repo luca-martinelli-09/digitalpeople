@@ -1,19 +1,27 @@
 ---
-title: Titolo
+title: Matteo Jarre - La mobilità sostenibile come motore per il turismo montano @Bardonecchia
 date: 2023-11-14 18:30:00
 image: /podcasts/visionalps/matteo-jarre/cover.jpg
-summary: Descrizione
+summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
+  tematiche legate alla trasformazione digitale delle Alpi, Matteo Jarre, Direttore
+  di Decisio Italia, ci ha spiegato di cosa si occupa la sua azienda e il ruolo della
+  mobilità sostenibile nel favorire il turismo montano, sia dal punto di vista della
+  qualità che della quantità.
 season: 2
 episode: 45
-show: false
 audio:
   file: /podcasts/visionalps/matteo-jarre/audio.mp3
+  size: 9346738
+  duration: 584
 keywords:
 - VisionAlps
 - Alpi
+imageset:
+- /podcasts/visionalps/matteo-jarre/cover.1000x1000.webp
+- /podcasts/visionalps/matteo-jarre/cover.2400x2400.jpeg
 ---
 
-Descrizione
+In questa puntata di **[VisionAlps](https://www.visionalps.com/)**, il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **[Matteo Jarre](https://it.linkedin.com/in/matteojarre)**, Direttore di **[Decisio Italia](https://decisio.nl/it/)**, ci ha spiegato di cosa si occupa la sua azienda e il ruolo della mobilità sostenibile nel favorire il turismo montano, sia dal punto di vista della qualità che della quantità.
 
 <br>
 

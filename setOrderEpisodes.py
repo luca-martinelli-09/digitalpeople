@@ -45,7 +45,7 @@ PODCAST_ORDERS = {
             "giorgio-ramenghi", "alessandro-zorer", "marco-montali",
             "thomas-aichner", "marco-dapra", "giuseppe-addamo",
 
-            "gherardo-manaigo", "manuel-manzoni", "marco-da-rin-zanco",
+            "gherardo-manaigo", "ginevra-mutti", "marco-da-rin-zanco",
             "stefano-savaris", "ellen-broccolo", "chiara-costa",
             "ludovica-beatrice-rubbini",
             
