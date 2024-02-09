@@ -48,14 +48,14 @@ PODCAST_ORDERS = {
             "gherardo-manaigo", "ginevra-mutti", "marco-da-rin-zanco",
             "stefano-savaris", "ellen-broccolo", "chiara-costa",
             "ludovica-beatrice-rubbini",
-            
+
             "michele-diasio-2", "michele-soavi", "massimiliano-margarone",
             "paolo-messina", "pasquale-scopelliti-2", "tito-stefanelli",
             "thomas-valentini",
-            
+
             "fulvio-ananasso", "roberto-siagri", "gianluca-caffaratti",
             "luca-profico", "eda-fetahu",
-            
+
             "alberto-mandrile-2", "maurizio-ionico", "marta-serrano",
             "matteo-jarre", "nicola-bosticco"
         ]
@@ -69,6 +69,10 @@ PODCAST_ORDERS = {
             "mauro-manente", "michele-ieradi", "francesco-mastrapasqua",
             "fabio-ugolini", "stefano-lorenzi"
         ]
+    ],
+    "smr": [
+        ["vincenzo-quintani", "stefano-rotini",
+            "giovanni-d-alberton", "domenico-santoro"]
     ]
 }
 
