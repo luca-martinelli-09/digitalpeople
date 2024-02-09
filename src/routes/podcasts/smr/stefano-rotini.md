@@ -1,6 +1,6 @@
 ---
 title: I benefici del protocollo Chain 2 per monitorare i consumi energetici
-date: 2024-02-23 09:00:00
+date: 2023-02-23 09:00:00
 image: /podcasts/smr/stefano-rotini/cover.jpg
 summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
   del sistema di misura delle utenze Smart Meter, Stefano Rotini, Direttore Tecnico
@@ -9,7 +9,6 @@ summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all
   generazione.
 season: 1
 episode: 2
-show: false
 audio:
   file: /podcasts/smr/stefano-rotini/audio.mp3
   size: 18250523

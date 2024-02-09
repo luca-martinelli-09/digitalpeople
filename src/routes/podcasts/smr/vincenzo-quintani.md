@@ -1,6 +1,6 @@
 ---
 title: Il ruolo degli smart meter nello sviluppo delle città intelligenti
-date: 2024-02-16 09:00:00
+date: 2023-02-16 09:00:00
 image: /podcasts/smr/vincenzo-quintani/cover.jpg
 summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
   del sistema di misura delle utenze Smart Meter, Vincenzo Quintani, fondatore di
@@ -9,7 +9,6 @@ summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all
   smart city.
 season: 1
 episode: 1
-show: false
 audio:
   file: /podcasts/smr/vincenzo-quintani/audio.mp3
   size: 17708430
