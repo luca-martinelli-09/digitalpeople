@@ -19,6 +19,8 @@ scheme:
 imageset:
 - /podcasts/smr/cover.1000x1000.webp
 - /podcasts/smr/cover.2400x2400.jpeg
+- /podcasts/smr/cover.3000x3000.jpeg
+- /podcasts/smr/cover.1400x1400.jpeg
 ---
 
 [Smart Metering Revolution](https://www.innovabilitycircle.com/suom-2023/) è il podcast dedicato all'approfondimento del sistema di misura elettronico [Smart Meter](https://smg-anie.it/) che sfrutta l'innovazione tecnologica per gestire in maniera smart, centralizzata ed automatizzata le principali utenze di abitazioni e industrie.
