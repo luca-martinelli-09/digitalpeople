@@ -9,7 +9,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   nel favorire il benessere digitale sia dal punto di vista dell’utilità sia da quello
   estetico.
 season: 2
-episode: 42
+episode: 36
 audio:
   file: /podcasts/visionalps/alberto-mandrile-2/audio.mp3
   size: 12933246

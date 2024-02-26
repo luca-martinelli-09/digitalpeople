@@ -10,7 +10,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   che offrono i servizi di mobilità nell’agevolare i lavoratori che vivono nei territori
   meno urbanizzati come quelli montani.
 season: 2
-episode: 39
+episode: 35
 audio:
   file: /podcasts/visionalps/gianluca-caffaratti/audio.mp3
   size: 9102650

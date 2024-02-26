@@ -9,7 +9,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   fisici di promuovere i loro prodotti online interagendo direttamente con i consumatori
   attraverso strumenti come chat e videochiamate.
 season: 2
-episode: 32
+episode: 28
 audio:
   file: /podcasts/visionalps/massimiliano-margarone/audio.mp3
   size: 10591839

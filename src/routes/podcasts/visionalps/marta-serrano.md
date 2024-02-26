@@ -8,7 +8,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   la promozione del territorio alpino e di come è possibile innovare l’ecosistema
   sportivo in generale.
 season: 2
-episode: 44
+episode: 38
 audio:
   file: /podcasts/visionalps/marta-serrano/audio.mp3
   size: 12208505

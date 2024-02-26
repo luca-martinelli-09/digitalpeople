@@ -8,7 +8,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   trasporto pubblico più flessibile grazie ai servizi a chiamata e di come raccogliere
   e analizzare i dati si può migliorare il servizio di trasporto pubblico locale.
 season: 2
-episode: 24
+episode: 23
 audio:
   file: /podcasts/visionalps/ginevra-mutti/audio.mp3
   size: 10499470

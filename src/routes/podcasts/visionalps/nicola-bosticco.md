@@ -7,7 +7,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   Colomion S.p.A., ci ha parlato di come le località alpine e le stazioni sciistiche
   possono crescere in modo sostenibile e in armonia con l’ambiente circostante.
 season: 2
-episode: 46
+episode: 40
 audio:
   file: /podcasts/visionalps/nicola-bosticco/audio.mp3
   size: 12843385

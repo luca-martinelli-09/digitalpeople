@@ -10,7 +10,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   di frontiera come il Digital Twin nel promuovere le competenze digitali e lo sviluppo
   sostenibile del territorio montano.
 season: 2
-episode: 37
+episode: 33
 audio:
   file: /podcasts/visionalps/fulvio-ananasso/audio.mp3
   size: 10089452

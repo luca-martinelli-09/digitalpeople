@@ -10,7 +10,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   e di mobilità nel rendere più attrattivi, anche dal punto di vista economico, i
   territori montani più periferici.
 season: 2
-episode: 38
+episode: 34
 audio:
   file: /podcasts/visionalps/roberto-siagri/audio.mp3
   size: 11565266

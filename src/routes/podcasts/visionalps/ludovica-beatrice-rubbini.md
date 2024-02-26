@@ -1,7 +1,7 @@
 ---
 title: Ludovica Beatrice Rubbini - L’importanza della visione per le aziende in crescita
   @Cortina
-date: 2023-10-04 19:00:00
+date: 2023-10-04 18:30:00
 image: /podcasts/visionalps/ludovica-beatrice-rubbini/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Ludovica Beatrice Rubbini,
@@ -9,7 +9,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   del concetto della visione per migliorare e portare a termine i progetti più innovativi,
   portando come esempio il percorso dell’Azienda Agricola SanBrite.
 season: 2
-episode: 29
+episode: 25
 audio:
   file: /podcasts/visionalps/ludovica-beatrice-rubbini/audio.mp3
   size: 9203796

@@ -9,7 +9,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   europee di regolazione degli accessi per le auto e delle nuove soluzioni di smart
   parking che mirano ottimizzare gli spazi occupati dai mezzi in sosta.
 season: 2
-episode: 35
+episode: 31
 audio:
   file: /podcasts/visionalps/tito-stefanelli/audio.mp3
   size: 8695976

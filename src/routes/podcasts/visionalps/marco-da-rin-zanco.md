@@ -9,7 +9,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   parlato del modello organizzativo fully-remote come opportunità per le aziende,
   in particolare montane, di attrarre nuovi talenti.
 season: 2
-episode: 25
+episode: 24
 audio:
   file: /podcasts/visionalps/marco-da-rin-zanco/audio.mp3
   size: 13823499

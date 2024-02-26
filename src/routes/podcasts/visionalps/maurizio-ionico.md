@@ -9,7 +9,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   servizi flessibili di mobilità che rispettino il diritto delle persone a muoversi
   e ne garantiscano l’accessibilità.
 season: 2
-episode: 43
+episode: 37
 audio:
   file: /podcasts/visionalps/maurizio-ionico/audio.mp3
   size: 11358794

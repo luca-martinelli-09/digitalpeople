@@ -45,8 +45,8 @@ PODCAST_ORDERS = {
             "giorgio-ramenghi", "alessandro-zorer", "marco-montali",
             "thomas-aichner", "marco-dapra", "giuseppe-addamo",
 
-            "gherardo-manaigo", "ginevra-mutti", "marco-da-rin-zanco",
-            "stefano-savaris", "ellen-broccolo", "chiara-costa",
+            "--gherardo-manaigo", "ginevra-mutti", "marco-da-rin-zanco",
+            "--stefano-savaris", "--ellen-broccolo", "--chiara-costa",
             "ludovica-beatrice-rubbini",
 
             "michele-diasio-2", "michele-soavi", "massimiliano-margarone",
@@ -54,7 +54,7 @@ PODCAST_ORDERS = {
             "thomas-valentini",
 
             "fulvio-ananasso", "roberto-siagri", "gianluca-caffaratti",
-            "luca-profico", "eda-fetahu",
+            "--luca-profico", "--eda-fetahu",
 
             "alberto-mandrile-2", "maurizio-ionico", "marta-serrano",
             "matteo-jarre", "nicola-bosticco"

@@ -8,7 +8,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   mobilità sostenibile nel favorire il turismo montano, sia dal punto di vista della
   qualità che della quantità.
 season: 2
-episode: 45
+episode: 39
 audio:
   file: /podcasts/visionalps/matteo-jarre/audio.mp3
   size: 9346738
