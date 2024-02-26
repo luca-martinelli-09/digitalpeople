@@ -2,11 +2,7 @@
 title: Il ruolo degli smart meter nello sviluppo delle città intelligenti
 date: 2023-02-16 09:00:00
 image: /podcasts/smr/vincenzo-quintani/cover.jpg
-summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
-  del sistema di misura delle utenze Smart Meter, Vincenzo Quintani, fondatore di
-  Clevenergy, ha introdotto il tema dello smart metering e del ruolo centrale che
-  avranno gli smart meter nel favorire la transazione ecologica e lo sviluppo delle
-  smart city.
+summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento del sistema di misura delle utenze Smart Meter, Vincenzo Quintani, Coordinatore dello Smart Metering Group, ha introdotto il tema dello smart metering e del ruolo centrale che avranno i misuratori intelligenti nel favorire la transazione ecologica e lo sviluppo delle smart city.
 season: 1
 episode: 1
 audio:
@@ -21,7 +17,7 @@ imageset:
 - /podcasts/smr/vincenzo-quintani/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Metering Revolution](https://www.innovabilitycircle.com/suom-2023/), il podcast dedicato all'approfondimento del sistema di misura delle utenze [Smart Meter](https://smg-anie.it/), [Vincenzo Quintani](https://www.linkedin.com/in/vincenzo-quintani-457990b9), fondatore di [Clevenergy](https://www.clevenergy.it/), ha introdotto il tema dello smart metering e del ruolo centrale che avranno gli smart meter nel favorire la transazione ecologica e lo sviluppo delle smart city.
+In questa puntata di [Smart Metering Revolution](https://www.innovabilitycircle.com/suom-2023/), il podcast dedicato all'approfondimento del sistema di misura delle utenze [Smart Meter](https://smg-anie.it/), [Vincenzo Quintani](https://www.linkedin.com/in/vincenzo-quintani-457990b9), Coordinatore dello Smart Metering Group, ha introdotto il tema dello smart metering e del ruolo centrale che avranno i misuratori intelligenti nel favorire la transazione ecologica e lo sviluppo delle smart city.
 
 <br>
 
