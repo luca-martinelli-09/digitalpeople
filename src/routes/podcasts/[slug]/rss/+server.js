@@ -54,9 +54,9 @@ const xml =
       </itunes:owner>
       <copyright>${podcast.copyright || "Creative Commons Attribuzione - Non opere derivate 4.0 Internazionale"}</copyright>
       
-      <itunes:image href="${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[2]}?t=2" />
+      <itunes:image href="${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[2]}?t=3" />
       <image>
-        <url>${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[2]}?t=2</url>
+        <url>${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[2]}?t=3</url>
         <title>
           <![CDATA[
             ${podcast.title}

@@ -59,6 +59,7 @@ for file in filesToProcess:
             if 'only' not in option.keys() or episode['title'] in option['only']:
                 saveName = imageSrc.with_suffix(
                     f".{option['suffix']}.{option['format']}")
+                print(f"[🖇 MEDIA] {saveName}")
 
                 image = Image.open(imageSrc)
                 image = image.resize(option['size'], resample=Resampling.BICUBIC)
