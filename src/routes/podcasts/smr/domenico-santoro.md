@@ -3,7 +3,7 @@ title: Gli investimenti per valorizzare il settore della distribuzione dell’ac
 date: 2023-03-08 09:00:00
 image: /podcasts/smr/domenico-santoro/cover.jpg
 summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
-  del sistema di misura delle utenze Smart Meter, Domenico Santoro, Coordinatore Sezione
+  delle tecnologie di smart metering, Domenico Santoro, Coordinatore Sezione
   Acqua dello Smart Metering Group, ha parlato delle principali criticità legate alla
   rete idrica italiana e del ruolo della tecnologia in generale per ottimizzare e
   ridurre gli sprechi nel settore della distribuzione dell’acqua.
@@ -21,7 +21,7 @@ imageset:
 - /podcasts/smr/domenico-santoro/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Metering Revolution](https://www.innovabilitycircle.com/suom-2023/), il podcast dedicato all'approfondimento del sistema di misura delle utenze [Smart Meter](https://smg-anie.it/), [Domenico Santoro](https://www.linkedin.com/in/domenico-santoro-445696a9/?originalSubdomain=it), Coordinatore Sezione Acqua dello Smart Metering Group, ha parlato delle principali criticità legate alla rete idrica italiana e del ruolo della tecnologia in generale per ottimizzare e ridurre gli sprechi nel settore della distribuzione dell’acqua.
+In questa puntata di [Smart Metering Revolution](https://www.innovabilitycircle.com/suom-2023/), il podcast dedicato all'approfondimento delle tecnologie di [smart metering](https://smg-anie.it/), [Domenico Santoro](https://www.linkedin.com/in/domenico-santoro-445696a9/?originalSubdomain=it), Coordinatore Sezione Acqua dello Smart Metering Group, ha parlato delle principali criticità legate alla rete idrica italiana e del ruolo della tecnologia in generale per ottimizzare e ridurre gli sprechi nel settore della distribuzione dell’acqua.
 
 <br>
 

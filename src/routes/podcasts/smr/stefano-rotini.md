@@ -3,7 +3,7 @@ title: I benefici del protocollo Chain 2 per monitorare i consumi elettrici
 date: 2023-02-23 09:00:00
 image: /podcasts/smr/stefano-rotini/cover.jpg
 summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
-  del sistema di misura delle utenze Smart Meter, Stefano Rotini, Coordinatore del
+  delle tecnologie di smart metering, Stefano Rotini, Coordinatore del
   GdL Chain2, ha parlato dei servizi e dei benefici a cui cittadini e imprese possono
   accedere grazie al protocollo Chain 2, integrato nei misuratori elettrici di ultima
   generazione.
@@ -21,7 +21,7 @@ imageset:
 - /podcasts/smr/stefano-rotini/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Metering Revolution](https://www.innovabilitycircle.com/suom-2023/), il podcast dedicato all'approfondimento del sistema di misura delle utenze [Smart Meter](https://smg-anie.it/), [Stefano Rotini](https://www.linkedin.com/in/stefanorotini), Coordinatore del GdL Chain2, ha parlato dei servizi e dei benefici a cui cittadini e imprese possono accedere grazie al protocollo Chain 2, integrato nei misuratori elettrici di ultima generazione.
+In questa puntata di [Smart Metering Revolution](https://www.innovabilitycircle.com/suom-2023/), il podcast dedicato all'approfondimento delle tecnologie di [smart metering](https://smg-anie.it/), [Stefano Rotini](https://www.linkedin.com/in/stefanorotini), Coordinatore del GdL Chain2, ha parlato dei servizi e dei benefici a cui cittadini e imprese possono accedere grazie al protocollo Chain 2, integrato nei misuratori elettrici di ultima generazione.
 
 <br>
 

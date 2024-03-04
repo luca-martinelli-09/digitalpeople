@@ -1,9 +1,9 @@
 ---
-title: La transizione tecnologica dei metodi di misurazione del gas
+title: La digitalizzazione e le funzionalità aggiuntive nella misura del gas
 date: 2023-03-01 09:00:00
 image: /podcasts/smr/giovanni-d-alberton/cover.jpg
 summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
-  del sistema di misura delle utenze Smart Meter, Giovanni D’Alberton, Coordinatore
+  delle tecnologie di smart metering, Giovanni D’Alberton, Coordinatore
   Sezione Gas Static Smart Meter dello Smart Metering Group, ha parlato del graduale
   passaggio ai nuovi contatori elettronici del gas e delle iniziative proposte da
   alcune aziende per migliorarne le funzionalità e l’efficienza finale.
@@ -21,7 +21,7 @@ imageset:
 - /podcasts/smr/giovanni-d-alberton/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Metering Revolution](https://www.innovabilitycircle.com/suom-2023/), il podcast dedicato all'approfondimento del sistema di misura delle utenze [Smart Meter](https://smg-anie.it/), [Giovanni D’Alberton](https://www.linkedin.com/in/giovannidalberton/?originalSubdomain=it), Coordinatore Sezione Gas Static Smart Meter dello Smart Metering Group, ha parlato del graduale passaggio ai nuovi contatori elettronici del gas e delle iniziative proposte da alcune aziende per migliorarne le funzionalità e l’efficienza finale.
+In questa puntata di [Smart Metering Revolution](https://www.innovabilitycircle.com/suom-2023/), il podcast dedicato all'approfondimento delle tecnologie di [smart metering](https://smg-anie.it/), [Giovanni D’Alberton](https://www.linkedin.com/in/giovannidalberton/?originalSubdomain=it), Coordinatore Sezione Gas Static Smart Meter dello Smart Metering Group, ha parlato del graduale passaggio ai nuovi contatori elettronici del gas e delle iniziative proposte da alcune aziende per migliorarne le funzionalità e l’efficienza finale.
 
 <br>
 
