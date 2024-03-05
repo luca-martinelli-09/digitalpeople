@@ -16,6 +16,9 @@ scheme:
 - '#aed8e6'
 - '#001A41'
 - '#001A41'
+platforms:
+  spotify: https://open.spotify.com/show/53JQzgYWT1KPIpHfYeVkF4
+  apple: https://podcasts.apple.com/it/podcast/smart-metering-revolution/id1734409224
 imageset:
 - /podcasts/smr/cover.1000x1000.webp
 - /podcasts/smr/cover.2400x2400.jpeg
