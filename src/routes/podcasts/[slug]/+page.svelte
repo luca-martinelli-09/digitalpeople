@@ -1,5 +1,6 @@
 <script>
   import Episode from "$lib/components/Episode.svelte";
+  import { realBaseURI } from "$lib/info";
   import AvailableLinks from "../../../lib/components/AvailableLinks.svelte";
 
   export let data;
@@ -7,6 +8,17 @@
   const podcast = data.podcast;
   const episodes = data.episodes;
 </script>
+
+<svelte:head>
+  <title>{podcast.title} - Digital People</title>
+
+  <meta property="og:title" content={podcast.title} />
+  <meta property="og:description" content={podcast.summary} />
+  <meta property="og:type" content="music.playlist" />
+  <meta property="og:site_name" content="Digital People" />
+  <meta property="og:image" content={podcast.image.startsWith("http") ? podcast.image : realBaseURI + podcast.imageset[1]} />
+  <meta property="og:locale" content="it_IT" />
+</svelte:head>
 
 <article class="flex flex-col-reverse md:flex-row gap-10 rounded-3xl p-10" style="background-color: {podcast.scheme?.[0]};">
   <div class="flex flex-col gap-5">

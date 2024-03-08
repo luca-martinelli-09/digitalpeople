@@ -6,10 +6,6 @@
   import Footer from '$lib/components/Footer.svelte'
 </script>
 
-<svelte:head>
-	<title>Digital People</title>
-</svelte:head>
-
 <Header />
 
 <main class="mt-10 mb-16 px-3">
