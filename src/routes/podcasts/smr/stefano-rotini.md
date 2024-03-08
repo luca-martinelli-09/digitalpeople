@@ -1,6 +1,6 @@
 ---
 title: I benefici del protocollo Chain 2 per monitorare i consumi elettrici
-date: 2023-02-23 09:00:00
+date: 2024-03-15 07:00:00
 image: /podcasts/smr/stefano-rotini/cover.jpg
 summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
   delle tecnologie di smart metering, Stefano Rotini, Coordinatore del

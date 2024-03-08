@@ -10,7 +10,7 @@ language: it
 categories:
 - Technology
 type: serial
-visible: false
+visible: true
 scheme:
 - '#c7f2ff'
 - '#aed8e6'

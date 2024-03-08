@@ -1,6 +1,6 @@
 ---
 title: La digitalizzazione e le funzionalità aggiuntive nella misura del gas
-date: 2023-03-01 09:00:00
+date: 2024-03-22 07:00:00
 image: /podcasts/smr/giovanni-d-alberton/cover.jpg
 summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
   delle tecnologie di smart metering, Giovanni D’Alberton, Coordinatore
