@@ -1,6 +1,7 @@
 <script>
   import PlayButton from "$lib/components/PlayButton.svelte";
   import PodcastCard from "$lib/components/PodcastCard.svelte";
+  import AvailableLinks from "../../../../lib/components/AvailableLinks.svelte";
 
   export let data;
 
@@ -18,9 +19,10 @@
     <div class="flex flex-1 items-end">
       <PlayButton {podcast} {episodes} {episode} />
     </div>
+    <AvailableLinks {podcast} {episode} />
   </div>
   <div class="flex sm:hidden lg:flex items-start">
-    <img class="w-full sm:w-80 sm:h-80 max-w-none rounded-2xl" src={(episode.imageset?.[0] || episode.image)} alt={episode.title} />
+    <img class="w-full sm:w-80 sm:h-80 max-w-none rounded-2xl" src={episode.imageset?.[0] || episode.image} alt={episode.title} />
   </div>
 </article>
 
