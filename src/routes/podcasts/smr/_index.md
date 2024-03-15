@@ -19,6 +19,7 @@ scheme:
 platforms:
   spotify: https://open.spotify.com/show/53JQzgYWT1KPIpHfYeVkF4
   apple: https://podcasts.apple.com/it/podcast/smart-metering-revolution/id1734409224
+  google: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGlnaXRhbHBlb3BsZS50ZWNoL3BvZGNhc3RzL3Ntci9yc3M_ZGlyZWN0PTE
   amazon: https://music.amazon.com/podcasts/cb487940-f27c-46fd-a5f8-4172c9a7dbb1/smart-metering-revolution
 imageset:
 - /podcasts/smr/cover.1000x1000.webp
