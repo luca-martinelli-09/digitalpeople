@@ -20,6 +20,7 @@ platforms:
   spotify: https://open.spotify.com/show/3LEMmQFIHDPbQGCnsvYMnT
   google: https://podcasts.google.com/feed/aHR0cHM6Ly93M2lkLm9yZy9kaWdpdGFscGVvcGxlL3BvZGNhc3RzL3Zpc2lvbmFscHMvcnNz
   apple: https://podcasts.apple.com/it/podcast/visionalps/id1662361856
+  amazon: https://music.amazon.it/podcasts/85cc133d-543b-4691-9278-bf454cf054c8/visionalps?ref=dm_sh_PK1gLklEVRpaIB0Omj6h7X6f1
 imageset:
 - /podcasts/visionalps/cover.1000x1000.webp
 - /podcasts/visionalps/cover.2400x2400.jpeg
