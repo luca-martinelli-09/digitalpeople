@@ -17,6 +17,7 @@ platforms:
   spotify: https://open.spotify.com/episode/1989hZQ5m3grYb4LmCMu7o
   apple: https://podcasts.apple.com/it/podcast/i-benefici-del-protocollo-chain-2-per-monitorare-i/id1734409224?i=1000649286809
   amazon: https://music.amazon.com/podcasts/cb487940-f27c-46fd-a5f8-4172c9a7dbb1/episodes/7cbcbc23-4b9d-4dd3-8830-e13ad3bd361b/smart-metering-revolution-i-benefici-del-protocollo-chain-2-per-monitorare-i-consumi-elettrici
+  google: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGlnaXRhbHBlb3BsZS50ZWNoL3BvZGNhc3RzL3Ntci9yc3M_ZGlyZWN0PTE/episode/aHR0cHM6Ly93M2lkLm9yZy9kaWdpdGFscGVvcGxlL3BvZGNhc3RzL3Ntci9zdGVmYW5vLXJvdGluaQ?sa=X&ved=0CAUQkfYCahcKEwiAnsuax4eFAxUAAAAAHQAAAAAQAQ
 keywords:
 - Smart Metering
 - Contatori
