@@ -13,6 +13,11 @@ audio:
   file: /podcasts/smr/vincenzo-quintani/audio.mp3
   size: 17738941
   duration: 1108
+platforms:
+  spotify: https://open.spotify.com/episode/4gmeW6CLjTXewIqUTNX6zd
+  apple: https://podcasts.apple.com/it/podcast/il-ruolo-degli-smart-meter-nello-sviluppo-delle/id1734409224?i=1000648065060
+  amazon: https://music.amazon.com/podcasts/cb487940-f27c-46fd-a5f8-4172c9a7dbb1/episodes/35ef22ed-9660-4e3f-be71-fbf32c07e677/smart-metering-revolution-il-ruolo-degli-smart-meter-nello-sviluppo-delle-citt%C3%A0-intelligenti
+  google: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGlnaXRhbHBlb3BsZS50ZWNoL3BvZGNhc3RzL3Ntci9yc3M_ZGlyZWN0PTE/episode/aHR0cHM6Ly93M2lkLm9yZy9kaWdpdGFscGVvcGxlL3BvZGNhc3RzL3Ntci9naW92YW5uaS1kLWFsYmVydG9u?sa=X&ved=0CAUQkfYCahcKEwiQyvSFzJaFAxUAAAAAHQAAAAAQAQ
 keywords:
 - Smart Metering
 - Contatori

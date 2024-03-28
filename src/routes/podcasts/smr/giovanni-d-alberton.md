@@ -20,6 +20,7 @@ platforms:
   spotify: https://open.spotify.com/episode/70x8H1PXswfuTmH5CMXwmT?si=ov-exugOT7-9LbFws98EZw
   apple: https://podcasts.apple.com/it/podcast/smart-metering-revolution/id1734409224?i=1000650091041
   amazon: https://music.amazon.it/podcasts/cb487940-f27c-46fd-a5f8-4172c9a7dbb1/episodes/a0118d8c-60b3-4513-a3e0-cf2024dd3a9d/smart-metering-revolution-la-digitalizzazione-e-le-funzionalit%C3%A0-aggiuntive-nella-misura-del-gas?ref=dm_sh_QAKwoGyUJixsjt9stZ2DkJa3q
+  google: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGlnaXRhbHBlb3BsZS50ZWNoL3BvZGNhc3RzL3Ntci9yc3M_ZGlyZWN0PTE/episode/aHR0cHM6Ly93M2lkLm9yZy9kaWdpdGFscGVvcGxlL3BvZGNhc3RzL3Ntci9naW92YW5uaS1kLWFsYmVydG9u?sa=X&ved=0CAUQkfYCahcKEwiQyvSFzJaFAxUAAAAAHQAAAAAQAQ
 imageset:
 - /podcasts/smr/giovanni-d-alberton/cover.1000x1000.webp
 - /podcasts/smr/giovanni-d-alberton/cover.2400x2400.jpeg

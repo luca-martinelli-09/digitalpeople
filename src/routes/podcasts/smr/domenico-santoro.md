@@ -1,6 +1,6 @@
 ---
 title: Gli investimenti per valorizzare il settore della distribuzione dell’acqua
-date: 2024-03-29 07:00:00
+date: 2024-04-05 07:00:00
 image: /podcasts/smr/domenico-santoro/cover.jpg
 summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
   delle tecnologie di smart metering, Domenico Santoro, Coordinatore Sezione
