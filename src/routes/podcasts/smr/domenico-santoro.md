@@ -16,6 +16,10 @@ audio:
 keywords:
 - Smart Metering
 - Contatori
+platforms:
+  spotify: https://open.spotify.com/episode/2M1lIhuCseWO0fbdzfSzLp
+  apple: https://podcasts.apple.com/it/podcast/gli-investimenti-per-valorizzare-il-settore-della/id1734409224?i=1000651514910
+  amazon: https://music.amazon.com/podcasts/cb487940-f27c-46fd-a5f8-4172c9a7dbb1/episodes/3d94601c-450f-4f14-ab52-2b87166926f8/smart-metering-revolution-gli-investimenti-per-valorizzare-il-settore-della-distribuzione-dell%E2%80%99acqua
 imageset:
 - /podcasts/smr/domenico-santoro/cover.1000x1000.webp
 - /podcasts/smr/domenico-santoro/cover.2400x2400.jpeg
