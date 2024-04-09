@@ -5,7 +5,7 @@ STATIC_FOLDER = './static/podcasts'
 
 EPISODES_TO_GENERATE = {
     "smr": [
-        "domenico-santoro", "giovanni-d-alberton", "stefano-rotini", "vincenzo-quintani"
+        "domenico-santoro", "giovanni-d-alberton", "stefano-rotini", "vincenzo-quintani", "massimiliano-magri"
     ]
 }
 

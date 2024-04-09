@@ -72,7 +72,7 @@ PODCAST_ORDERS = {
     ],
     "smr": [
         ["vincenzo-quintani", "stefano-rotini",
-            "giovanni-d-alberton", "domenico-santoro"]
+            "giovanni-d-alberton", "domenico-santoro", "massimiliano-magri"]
     ]
 }
 

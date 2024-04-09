@@ -3,10 +3,10 @@ title: La digitalizzazione e le funzionalità aggiuntive nella misura del gas
 date: 2024-03-22 07:00:00
 image: /podcasts/smr/giovanni-d-alberton/cover.jpg
 summary: In questa puntata di Smart Metering Revolution, il podcast dedicato all'approfondimento
-  delle tecnologie di smart metering, Giovanni D’Alberton, Coordinatore
-  Sezione Gas Static Smart Meter dello Smart Metering Group, ha parlato del graduale
-  passaggio ai nuovi contatori elettronici del gas e delle iniziative proposte da
-  alcune aziende per migliorarne le funzionalità e l’efficienza finale.
+  delle tecnologie di smart metering, Giovanni D’Alberton, Coordinatore Sezione Gas
+  Static Smart Meter dello Smart Metering Group, ha parlato del graduale passaggio
+  ai nuovi contatori elettronici del gas e delle iniziative proposte da alcune aziende
+  per migliorarne le funzionalità e l’efficienza finale.
 season: 1
 episode: 3
 audio:
