@@ -1,10 +1,9 @@
 ---
 id: smartcitynow
-title: Smart City Now
-summary: Smart City Now è il podcast dell'omonimo evento annuale tenutosi al Milano
-  Innovation District che analizza le soluzioni e le applicazioni tecnologiche volte
-  a migliorare la qualità della vita e dei servizi nel contesto urbano e territoriale
-  lombardo.
+title: Smart Land Now
+summary: Smart Land Now è il podcast dell'omonimo evento annuale, presso il MIND,
+  che analizza le soluzioni e le applicazioni tecnologiche volte a migliorare la qualità
+  della vita e dei servizi nel contesto urbano e territoriale lombardo.
 image: /podcasts/smartcitynow/cover.jpg
 language: it
 audioVersion: 1
@@ -29,6 +28,6 @@ imageset:
 - /podcasts/smartcitynow/cover.1400x1400.jpeg
 ---
 
-[Smart City Now](https://www.smartcitynow.it/) è il podcast dell'omonimo evento annuale tenutosi al Milano Innovation District che analizza le soluzioni e le applicazioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto urbano e territoriale lombardo.
+[Smart Land Now](https://www.smartcitynow.it/) è il podcast dell'omonimo evento annuale, presso il MIND, che analizza le soluzioni e le applicazioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto urbano e territoriale lombardo.
 
-Smart City Now è un podcast di [Digital People](https://w3id.org/digitalpeople), realizzato da Davide Fasoli, Matteo Gallo e Luca Martinelli.
+Smart Land Now è un podcast di [Digital People](https://w3id.org/digitalpeople), realizzato da Davide Fasoli, Matteo Gallo e Luca Martinelli.

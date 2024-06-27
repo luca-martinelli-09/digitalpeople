@@ -4,12 +4,14 @@ FOLDER = './src/routes/podcasts'
 STATIC_FOLDER = './static/podcasts'
 
 EPISODES_TO_GENERATE = {
-    "smr": [
-        "domenico-santoro", "giovanni-d-alberton", "stefano-rotini", "vincenzo-quintani", "massimiliano-magri"
+    "smartcitynow": [
+        "massimo-di-domenico", "andrea-orlandi", "laura-morgagni", "roberto-redaelli", "dalia-zecchi",
+        "alberto-mandrile", "gloria-chindamo", "francesco-mastrapasqua-guido-fabbri", "francesco-maffini",
+        "simone-sartoni", "giovanni-palombini", "filippo-troiani-2"
     ]
 }
 
-template = open("./template-smr.md", "r").read()
+template = open("./template-visionalps.md", "r").read()
 
 
 def processTemplate(templ, dict):

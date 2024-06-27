@@ -30,14 +30,14 @@ OPTIONS = [
         'size': [3000, 3000],
         'quality': 18,
         'format': 'jpeg',
-        'only': ['VisionAlps', 'Smart City Now', 'Tech Rewind', 'Smart Metering Revolution']
+        'only': ['VisionAlps', 'Smart Land Now', 'Tech Rewind', 'Smart Metering Revolution']
     },
     {
         'suffix': '1400x1400',
         'size': [1400, 1400],
         'quality': 80,
         'format': 'jpeg',
-        'only': ['VisionAlps', 'Smart City Now', 'Tech Rewind', 'Smart Metering Revolution']
+        'only': ['VisionAlps', 'Smart Land Now', 'Tech Rewind', 'Smart Metering Revolution']
     }
 ]
 

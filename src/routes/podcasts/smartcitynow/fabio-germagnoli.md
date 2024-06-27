@@ -2,7 +2,7 @@
 title: Fabio Germagnoli - Che cos'è una Smart City?
 date: 2023-06-20 18:10:00
 image: /podcasts/smartcitynow/fabio-germagnoli/cover.jpg
-summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Fabio Germagnoli, presidente di Cluster Smart Cities & Communities
   Lombardia, ci ha parlato della sua associazione che riunisce diverse aziende legate
@@ -22,7 +22,7 @@ imageset:
 - /podcasts/smartcitynow/fabio-germagnoli/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, Fabio Germagnoli, presidente di [Cluster Smart Cities & Communities Lombardia](https://clusterscclombardia.it/), ci ha parlato della sua associazione che riunisce diverse aziende legate al mondo dell’innovazione tecnologica e del concetto di Smart City, secondo il loro punto di vista, attraverso alcuni esempi di servizi innovativi da implementare all’interno delle città e nel territorio.
+In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, Fabio Germagnoli, presidente di [Cluster Smart Cities & Communities Lombardia](https://clusterscclombardia.it/), ci ha parlato della sua associazione che riunisce diverse aziende legate al mondo dell’innovazione tecnologica e del concetto di Smart City, secondo il loro punto di vista, attraverso alcuni esempi di servizi innovativi da implementare all’interno delle città e nel territorio.
 
 <br>
 

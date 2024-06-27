@@ -3,7 +3,7 @@ title: Andrea Marella - Raccolta dati e Machine Learning, migliorare la viabilit
   urbana con Trafficlab
 date: 2023-06-20 18:50:00
 image: /podcasts/smartcitynow/andrea-marella/cover.jpg
-summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Andrea Marella, Fondatore e Ingegnere di Mobilità Smart di
   Trafficlab, ci ha spiegato come funziona la la piattaforma WeTraffic studiata per
@@ -23,7 +23,7 @@ imageset:
 - /podcasts/smartcitynow/andrea-marella/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Andrea Marella](https://www.linkedin.com/in/andreamarella/), Fondatore e Ingegnere di Mobilità Smart di [Trafficlab](https://trafficlab.eu/), ci ha spiegato come funziona la la piattaforma WeTraffic studiata per ottimizzare il traffico e la viabilità urbana attraverso la raccolta di dati provenienti da sensori e telecamere pubbliche o prevedendo determinati scenari grazie a modelli di Machine Learning.
+In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Andrea Marella](https://www.linkedin.com/in/andreamarella/), Fondatore e Ingegnere di Mobilità Smart di [Trafficlab](https://trafficlab.eu/), ci ha spiegato come funziona la la piattaforma WeTraffic studiata per ottimizzare il traffico e la viabilità urbana attraverso la raccolta di dati provenienti da sensori e telecamere pubbliche o prevedendo determinati scenari grazie a modelli di Machine Learning.
 
 <br>
 

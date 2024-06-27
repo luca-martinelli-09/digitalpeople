@@ -7,73 +7,155 @@ from io import BytesIO
 
 import frontmatter
 
-FOLDER = './src/routes/podcasts'
+FOLDER = "./src/routes/podcasts"
 
 PODCAST_ORDERS = {
     "visionalps": [
         [
-            "gianluigi-ferri", "fabrizio-capobianco", "roberta-russo",
-            "chiara-guidarelli", "edoardo-colombo", "tiziano-maffezzini",
-            "roberto-rubini", "federico-bianchi", "andrea-riva",
-            "stefano-angelinis", "michele-diasio", "--loretta-credaro",
-
-            "pasquale-scopelliti", "luca-sala", "daniele-fortin",
-            "marco-massarotto", "alessio-conte", "claudio-canova",
+            "gianluigi-ferri",
+            "fabrizio-capobianco",
+            "roberta-russo",
+            "chiara-guidarelli",
+            "edoardo-colombo",
+            "tiziano-maffezzini",
+            "roberto-rubini",
+            "federico-bianchi",
+            "andrea-riva",
+            "stefano-angelinis",
+            "michele-diasio",
+            "--loretta-credaro",
+            "pasquale-scopelliti",
+            "luca-sala",
+            "daniele-fortin",
+            "marco-massarotto",
+            "alessio-conte",
+            "claudio-canova",
             "ana-davis",
-
-            "veronica-brizzi", "alberto-mandrile", "alessandro-sosi",
-            "alberto-dianin", "stefano-lorenzi", "marcello-favalli",
-            "francesco-piazza", "luca-piras", "nicola-mezzetti",
-            "thomas-schatzer", "francesco-gabbi", "--massimiliano-squadroni",
-
+            "veronica-brizzi",
+            "alberto-mandrile",
+            "alessandro-sosi",
+            "alberto-dianin",
+            "stefano-lorenzi",
+            "marcello-favalli",
+            "francesco-piazza",
+            "luca-piras",
+            "nicola-mezzetti",
+            "thomas-schatzer",
+            "francesco-gabbi",
+            "--massimiliano-squadroni",
             "daniele-cattaneo",
-            "elisa-bacchetti", "alfonso-mantero", "carlotta-manzoni",
-            "antonio-longo", "andrea-lazzaro", "giuseppe-ciniero",
-            "mario-pasquino", "thomas-ferrero", "alberto-giolitti",
-            "victor-miherea", "sergio-bonora", "stefano-carbone",
-            "vittorio-cossarini", "francesco-comotti", "armando-portoraro",
-            "sandro-vettori", "--carlo-marzi", "--luca-fazzi",
+            "elisa-bacchetti",
+            "alfonso-mantero",
+            "carlotta-manzoni",
+            "antonio-longo",
+            "andrea-lazzaro",
+            "giuseppe-ciniero",
+            "mario-pasquino",
+            "thomas-ferrero",
+            "alberto-giolitti",
+            "victor-miherea",
+            "sergio-bonora",
+            "stefano-carbone",
+            "vittorio-cossarini",
+            "francesco-comotti",
+            "armando-portoraro",
+            "sandro-vettori",
+            "--carlo-marzi",
+            "--luca-fazzi",
         ],
         [
-            "fausto-manzana", "paolo-grigolli", "tania-giovannini",
-            "lorenzo-ferrante", "maurizio-stucchi", "erik-svab",
-            "david-tacconi", "silvia-margoni", "luisa-pizzini",
+            "fausto-manzana",
+            "paolo-grigolli",
+            "tania-giovannini",
+            "lorenzo-ferrante",
+            "maurizio-stucchi",
+            "erik-svab",
+            "david-tacconi",
+            "silvia-margoni",
+            "luisa-pizzini",
             "daniele-endrici",
-
-            "carlo-costa", "christian-caneppele", "andrea-gherardi",
-            "enrico-bramerini", "federica-vigano", "patrizia-balzama",
-            "giorgio-ramenghi", "alessandro-zorer", "marco-montali",
-            "thomas-aichner", "marco-dapra", "giuseppe-addamo",
-
-            "--gherardo-manaigo", "ginevra-mutti", "marco-da-rin-zanco",
-            "--stefano-savaris", "--ellen-broccolo", "--chiara-costa",
+            "carlo-costa",
+            "christian-caneppele",
+            "andrea-gherardi",
+            "enrico-bramerini",
+            "federica-vigano",
+            "patrizia-balzama",
+            "giorgio-ramenghi",
+            "alessandro-zorer",
+            "marco-montali",
+            "thomas-aichner",
+            "marco-dapra",
+            "giuseppe-addamo",
+            "--gherardo-manaigo",
+            "ginevra-mutti",
+            "marco-da-rin-zanco",
+            "--stefano-savaris",
+            "--ellen-broccolo",
+            "--chiara-costa",
             "ludovica-beatrice-rubbini",
-
-            "michele-diasio-2", "michele-soavi", "massimiliano-margarone",
-            "paolo-messina", "pasquale-scopelliti-2", "tito-stefanelli",
+            "michele-diasio-2",
+            "michele-soavi",
+            "massimiliano-margarone",
+            "paolo-messina",
+            "pasquale-scopelliti-2",
+            "tito-stefanelli",
             "thomas-valentini",
-
-            "fulvio-ananasso", "roberto-siagri", "gianluca-caffaratti",
-            "--luca-profico", "--eda-fetahu",
-
-            "alberto-mandrile-2", "maurizio-ionico", "marta-serrano",
-            "matteo-jarre", "nicola-bosticco"
-        ]
+            "fulvio-ananasso",
+            "roberto-siagri",
+            "gianluca-caffaratti",
+            "--luca-profico",
+            "--eda-fetahu",
+            "alberto-mandrile-2",
+            "maurizio-ionico",
+            "marta-serrano",
+            "matteo-jarre",
+            "nicola-bosticco",
+        ],
     ],
     "smartcitynow": [
         [
-            "gianluigi-ferri", "fabio-germagnoli", "francesco-trimarchi",
-            "alex-buzzetti", "andrea-sorri", "andrea-marella",
-            "filippo-troiani", "paolo-odorizzi", "marisa-martano",
-            "luca-maistrelli", "lorenzo-ferrante", "antonio-puliafito",
-            "mauro-manente", "michele-ieradi", "francesco-mastrapasqua",
-            "fabio-ugolini", "stefano-lorenzi"
+            "gianluigi-ferri",
+            "fabio-germagnoli",
+            "francesco-trimarchi",
+            "alex-buzzetti",
+            "andrea-sorri",
+            "andrea-marella",
+            "filippo-troiani",
+            "paolo-odorizzi",
+            "marisa-martano",
+            "luca-maistrelli",
+            "lorenzo-ferrante",
+            "antonio-puliafito",
+            "mauro-manente",
+            "michele-ieradi",
+            "francesco-mastrapasqua",
+            "fabio-ugolini",
+            "stefano-lorenzi",
+        ],
+        [
+            "massimo-di-domenico",
+            "andrea-orlandi",
+            "laura-morgagni",
+            "roberto-redaelli",
+            "dalia-zecchi",
+            "alberto-mandrile",
+            "gloria-chindamo",
+            "francesco-mastrapasqua-guido-fabbri",
+            "francesco-maffini",
+            "simone-sartoni",
+            "giovanni-palombini",
+            "filippo-troiani-2",
         ]
     ],
     "smr": [
-        ["vincenzo-quintani", "stefano-rotini",
-            "giovanni-d-alberton", "domenico-santoro", "massimiliano-magri"]
-    ]
+        [
+            "vincenzo-quintani",
+            "stefano-rotini",
+            "giovanni-d-alberton",
+            "domenico-santoro",
+            "massimiliano-magri",
+        ]
+    ],
 }
 
 filesToProcess = []
@@ -100,18 +182,20 @@ for podcast in PODCAST_ORDERS.keys():
 
                 episodeDate = episodeInfo["date"]
 
-                if lastDate is None or ((episodeDate - lastDate) >= timedelta(hours=12) and lastDate < episodeDate):
+                if lastDate is None or (
+                    (episodeDate - lastDate) >= timedelta(hours=12)
+                    and lastDate < episodeDate
+                ):
                     lastDate = episodeDate
                 else:
                     lastDate = lastDate + timedelta(minutes=10)
-                    episodeInfo["date"] = lastDate.strftime(
-                        "%Y-%m-%d %H:%M:%S")
+                    episodeInfo["date"] = lastDate.strftime("%Y-%m-%d %H:%M:%S")
 
                 # Save
                 f = BytesIO()
                 frontmatter.dump(episodeInfo, f, sort_keys=False)
 
-                with open(file, 'wb') as fp:
+                with open(file, "wb") as fp:
                     fp.write(f.getbuffer())
 
                 episode += 1

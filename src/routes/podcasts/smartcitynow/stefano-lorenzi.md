@@ -2,7 +2,7 @@
 title: Stefano Lorenzi - Gli impianti a fune nelle città realizzati da Leitner
 date: 2023-06-20 20:40:00
 image: /podcasts/smartcitynow/stefano-lorenzi/cover.jpg
-summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Stefano Lorenzi, Sales & Project Manager Italia di Leitner,
   ci ha parlato di cosa si occupa la sua azienda e in particolare dell’implementazione
@@ -22,7 +22,7 @@ imageset:
 - /podcasts/smartcitynow/stefano-lorenzi/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Stefano Lorenzi](https://www.linkedin.com/in/stefano-lorenzi-659980272/?originalSubdomain=it), Sales & Project Manager Italia di [Leitner](https://www.leitner.com/it/), ci ha parlato di cosa si occupa la sua azienda e in particolare dell’implementazione degli impianti a fune nell’ambito urbano come quello realizzato a città del Messico, in grado di trasportare da una linea metropolitana all’altra fino a 70.000 persone al giorno.
+In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Stefano Lorenzi](https://www.linkedin.com/in/stefano-lorenzi-659980272/?originalSubdomain=it), Sales & Project Manager Italia di [Leitner](https://www.leitner.com/it/), ci ha parlato di cosa si occupa la sua azienda e in particolare dell’implementazione degli impianti a fune nell’ambito urbano come quello realizzato a città del Messico, in grado di trasportare da una linea metropolitana all’altra fino a 70.000 persone al giorno.
 
 <br>
 

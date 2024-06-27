@@ -3,7 +3,7 @@ title: Alex Buzzetti - Sensori e IA, come Blimp raccoglie dati anonimi sul traff
   urbano
 date: 2023-06-20 18:30:00
 image: /podcasts/smartcitynow/alex-buzzetti/cover.jpg
-summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Alex Buzzetti, General Manager & co-founder di Blimp, ci
   ha spiegato come è possibile raccogliere ed elaborare dati anonimi del traffico
@@ -22,7 +22,7 @@ imageset:
 - /podcasts/smartcitynow/alex-buzzetti/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Alex Buzzetti](https://www.linkedin.com/in/alex-buzzetti-02646867/), General Manager & co-founder di [Blimp](https://blimp.ai/), ci ha spiegato come è possibile raccogliere ed elaborare dati anonimi del traffico veicolare e pedonale attraverso l’utilizzo di sensori basati sull’Intelligenza Artificiale posizionati in punti strategici all’interno delle città.
+In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Alex Buzzetti](https://www.linkedin.com/in/alex-buzzetti-02646867/), General Manager & co-founder di [Blimp](https://blimp.ai/), ci ha spiegato come è possibile raccogliere ed elaborare dati anonimi del traffico veicolare e pedonale attraverso l’utilizzo di sensori basati sull’Intelligenza Artificiale posizionati in punti strategici all’interno delle città.
 
 <br>
 
