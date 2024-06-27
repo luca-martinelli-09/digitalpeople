@@ -3,7 +3,7 @@ title: Andrea Sorri - L’Edge Computing in una telecamera, ottimizzare i flussi
   grazie ad Axis
 date: 2023-06-20 18:40:00
 image: /podcasts/smartcitynow/andrea-sorri/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Andrea Sorri, di Axis, ci ha spiegato come funziona la loro
   telecamera innovativa basata sull’Edge Computing che consente di elaborare automaticamente
@@ -22,7 +22,7 @@ imageset:
 - /podcasts/smartcitynow/andrea-sorri/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Andrea Sorri](https://www.linkedin.com/in/andreasorri/), di [Axis](https://www.axis.com/it-it), ci ha spiegato come funziona la loro telecamera innovativa basata sull’Edge Computing che consente di elaborare automaticamente i dati raccolti nelle città in modo tale da ottimizzare la comunicazione tra dispositivi e ridurre i costi di gestione.
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Andrea Sorri](https://www.linkedin.com/in/andreasorri/), di [Axis](https://www.axis.com/it-it), ci ha spiegato come funziona la loro telecamera innovativa basata sull’Edge Computing che consente di elaborare automaticamente i dati raccolti nelle città in modo tale da ottimizzare la comunicazione tra dispositivi e ridurre i costi di gestione.
 
 <br>
 

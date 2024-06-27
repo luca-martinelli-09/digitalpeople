@@ -2,7 +2,7 @@
 title: Antonio Puliafito - La scheda del CINI che simula il cervello umano
 date: 2023-06-20 19:50:00
 image: /podcasts/smartcitynow/antonio-puliafito/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Antonio Puliafito, direttore del laboratorio Smart Cities
   del CINI, ci ha spiegato che cos'è una Smart City secondo il punto di vista del
@@ -22,7 +22,7 @@ imageset:
 - /podcasts/smartcitynow/antonio-puliafito/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Antonio Puliafito](https://www.linkedin.com/in/antoniopuliafito/), direttore del laboratorio Smart Cities del [CINI](https://www.consorzio-cini.it/index.php/it/), ci ha spiegato che cos'è una Smart City secondo il punto di vista del consorzio e del progetto di una scheda informatica in grado di simulare il funzionamento di un cervello umano grazie all’Edge Computing e delle sue possibili implementazioni all’interno di prodotti per le Smart City e l’Industria 4.0.
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Antonio Puliafito](https://www.linkedin.com/in/antoniopuliafito/), direttore del laboratorio Smart Cities del [CINI](https://www.consorzio-cini.it/index.php/it/), ci ha spiegato che cos'è una Smart City secondo il punto di vista del consorzio e del progetto di una scheda informatica in grado di simulare il funzionamento di un cervello umano grazie all’Edge Computing e delle sue possibili implementazioni all’interno di prodotti per le Smart City e l’Industria 4.0.
 
 <br>
 

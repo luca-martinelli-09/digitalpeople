@@ -2,7 +2,7 @@
 title: Paolo Odorizzi - Il Digital Twin nelle applicazioni informatiche di Harpaceas
 date: 2023-06-20 19:10:00
 image: /podcasts/smartcitynow/paolo-odorizzi/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Paolo Odorizzi, direttore della sezione Innovazione di Harpaceas,
   ci ha spiegato di cosa si occupa la sua azienda, come funzionano le loro soluzioni
@@ -21,7 +21,7 @@ imageset:
 - /podcasts/smartcitynow/paolo-odorizzi/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Paolo Odorizzi](https://www.linkedin.com/in/paolo-odorizzi-029b1336/?originalSubdomain=it), direttore della sezione Innovazione di [Harpaceas](https://www.harpaceas.it/), ci ha spiegato di cosa si occupa la sua azienda, come funzionano le loro soluzioni informatiche basate sulla tecnologia del Digital Twin e a chi si rivolgono all’interno dell’ambito urbano.
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Paolo Odorizzi](https://www.linkedin.com/in/paolo-odorizzi-029b1336/?originalSubdomain=it), direttore della sezione Innovazione di [Harpaceas](https://www.harpaceas.it/), ci ha spiegato di cosa si occupa la sua azienda, come funzionano le loro soluzioni informatiche basate sulla tecnologia del Digital Twin e a chi si rivolgono all’interno dell’ambito urbano.
 
 <br>
 

@@ -2,7 +2,7 @@
 title: Francesco Mastrapasqua - L’hub d’innovazione Next Town del Gruppo Enercom
 date: 2023-06-20 20:20:00
 image: /podcasts/smartcitynow/francesco-mastrapasqua/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Francesco Mastrapasqua, Digital Innovation Support presso
   il Gruppo Enercom, ci ha spiegato di cosa si occupa all’interno del Gruppo e del
@@ -22,7 +22,7 @@ imageset:
 - /podcasts/smartcitynow/francesco-mastrapasqua/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Francesco Mastrapasqua](https://www.linkedin.com/in/francesco-mastrapasqua-b6b1b42/?originalSubdomain=it), Digital Innovation Support presso il [Gruppo Enercom](http://www.gruppoenercom.it/), ci ha spiegato di cosa si occupa all’interno del Gruppo e del progetto Next Town, che si pone come obiettivo quello di creare un ecosistema di servizi innovativi per i paesi o per le piccole città con meno competenze digitali rispetto alle grandi metropoli.
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Francesco Mastrapasqua](https://www.linkedin.com/in/francesco-mastrapasqua-b6b1b42/?originalSubdomain=it), Digital Innovation Support presso il [Gruppo Enercom](http://www.gruppoenercom.it/), ci ha spiegato di cosa si occupa all’interno del Gruppo e del progetto Next Town, che si pone come obiettivo quello di creare un ecosistema di servizi innovativi per i paesi o per le piccole città con meno competenze digitali rispetto alle grandi metropoli.
 
 <br>
 

@@ -1,11 +1,11 @@
 ---
-title: Gianluigi Ferri - Che cos’é Smart Land Now?
+title: Gianluigi Ferri - Che cos’é Smart City Now?
 date: 2023-06-20 18:00:00
 image: /podcasts/smartcitynow/gianluigi-ferri/cover.jpg
-summary: In questa prima puntata di Smart Land Now, il podcast che analizza le soluzioni
+summary: In questa prima puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Gianluigi Ferri, Founder di Innovability, ha presentato l’iniziativa
-  Smart Land Now, spiegando a chi si rivolge e quali sono gli ambiti principali sui
+  Smart City Now, spiegando a chi si rivolge e quali sono gli ambiti principali sui
   quali dovranno concentrarsi gli enti privati e le pubbliche amministrazioni per
   lo sviluppo delle Smart City nei prossimi anni.
 season: 1
@@ -21,7 +21,7 @@ imageset:
 - /podcasts/smartcitynow/gianluigi-ferri/cover.2400x2400.jpeg
 ---
 
-In questa prima puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Gianluigi Ferri](https://www.linkedin.com/in/gianluigiferri/), Founder di [Innovability](https://www.innovability.eu/), ha presentato l’iniziativa Smart City Now, spiegando a chi si rivolge e quali sono gli ambiti principali sui quali dovranno concentrarsi gli enti privati e le pubbliche amministrazioni per lo sviluppo delle Smart City nei prossimi anni.
+In questa prima puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Gianluigi Ferri](https://www.linkedin.com/in/gianluigiferri/), Founder di [Innovability](https://www.innovability.eu/), ha presentato l’iniziativa Smart City Now, spiegando a chi si rivolge e quali sono gli ambiti principali sui quali dovranno concentrarsi gli enti privati e le pubbliche amministrazioni per lo sviluppo delle Smart City nei prossimi anni.
 
 <br>
 

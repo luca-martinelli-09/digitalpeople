@@ -2,7 +2,7 @@
 title: Fabio Ugolini - Le affissioni pubbliche digitali di Enel X
 date: 2023-06-20 20:30:00
 image: /podcasts/smartcitynow/fabio-ugolini/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Fabio Ugolini, Head of Urban Asset Valorization di Enel X,
   ci ha parlato della nuova sezione Urban Valorization di Enel X e dei vantaggi legati
@@ -21,7 +21,7 @@ imageset:
 - /podcasts/smartcitynow/fabio-ugolini/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Fabio Ugolini](https://www.linkedin.com/in/fabio-ugolini-ab2784a/), Head of Urban Asset Valorization di [Enel X](https://www.enelx.com/it/it/istituzioni/urban-asset-valorization?ecid=Display-Smartcitynow-IT_eCity_072023_IT-podcast-UrbanAssetValorization), ci ha parlato della nuova sezione Urban Valorization di Enel X e dei vantaggi legati all’installazione di affissioni digitali per migliorare la comunicazione all’interno delle città.
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Fabio Ugolini](https://www.linkedin.com/in/fabio-ugolini-ab2784a/), Head of Urban Asset Valorization di [Enel X](https://www.enelx.com/it/it/istituzioni/urban-asset-valorization?ecid=Display-Smartcitynow-IT_eCity_072023_IT-podcast-UrbanAssetValorization), ci ha parlato della nuova sezione Urban Valorization di Enel X e dei vantaggi legati all’installazione di affissioni digitali per migliorare la comunicazione all’interno delle città.
 
 <br>
 

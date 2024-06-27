@@ -3,7 +3,7 @@ title: Luca Maistrelli - Monitorare l’illuminazione urbana con Android grazie 
   Technologies
 date: 2023-06-20 19:30:00
 image: /podcasts/smartcitynow/luca-maistrelli/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Luca Maistrelli, CEO di Newtron Technologies, ci ha parlato
   del loro sistema innovativo che si basa sull’installazione di dispositivi Android
@@ -23,7 +23,7 @@ imageset:
 - /podcasts/smartcitynow/luca-maistrelli/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Luca Maistrelli](https://www.linkedin.com/in/lmaistrelli/), CEO di [Newtron Technologies](https://www.linkedin.com/company/newtron-technologies-srl/), ci ha parlato del loro sistema innovativo che si basa sull’installazione di dispositivi Android modificati, come gli smartphone, all’interno dei mezzi urbani con l’obiettivo di raccogliere informazioni sullo stato e la qualità dell’illuminazione all’interno delle città.
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Luca Maistrelli](https://www.linkedin.com/in/lmaistrelli/), CEO di [Newtron Technologies](https://www.linkedin.com/company/newtron-technologies-srl/), ci ha parlato del loro sistema innovativo che si basa sull’installazione di dispositivi Android modificati, come gli smartphone, all’interno dei mezzi urbani con l’obiettivo di raccogliere informazioni sullo stato e la qualità dell’illuminazione all’interno delle città.
 
 <br>
 

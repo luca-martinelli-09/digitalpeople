@@ -2,7 +2,7 @@
 title: Michele Ieradi - ArcGIS, il sistema informativo territoriale di Esri
 date: 2023-06-20 20:10:00
 image: /podcasts/smartcitynow/michele-ieradi/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Michele Ieradi, CTO di Esri Italia, ci ha spiegato qual è
   l'origine dei sistemi informativi territoriali come la loro piattaforma ArcGIS,
@@ -22,7 +22,7 @@ imageset:
 - /podcasts/smartcitynow/michele-ieradi/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Michele Ieradi](https://www.linkedin.com/in/michele-ieradi-a7a79519/), CTO di [Esri Italia](https://www.esriitalia.it/), ci ha spiegato qual è l'origine dei sistemi informativi territoriali come la loro piattaforma ArcGIS, che consente di utilizzare dati geografici pubblici con l’obiettivo di effettuare una gestione e una pianificazione del territorio efficace utilizzando strumenti statistici e di progettazione.
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Michele Ieradi](https://www.linkedin.com/in/michele-ieradi-a7a79519/), CTO di [Esri Italia](https://www.esriitalia.it/), ci ha spiegato qual è l'origine dei sistemi informativi territoriali come la loro piattaforma ArcGIS, che consente di utilizzare dati geografici pubblici con l’obiettivo di effettuare una gestione e una pianificazione del territorio efficace utilizzando strumenti statistici e di progettazione.
 
 <br>
 

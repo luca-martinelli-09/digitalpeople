@@ -2,7 +2,7 @@
 title: Lorenzo Ferrante - Pianificare la manutenzione urbana con Rekeep
 date: 2023-06-20 19:40:00
 image: /podcasts/smartcitynow/lorenzo-ferrante/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+summary: In questa puntata di Smart City Now, il podcast che analizza le soluzioni
   tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
   territoriale lombardo, Lorenzo Ferrante, responsabile dello sviluppo e implementazione
   Smart City di Rekeep, ci ha parlato della sua definizione di Smart City e Smart
@@ -21,7 +21,7 @@ imageset:
 - /podcasts/smartcitynow/lorenzo-ferrante/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, Lorenzo Ferrante, responsabile dello sviluppo e implementazione Smart City di [Rekeep](https://www.rekeep.com/), ci ha parlato della sua definizione di Smart City e Smart Land e del ruolo della piattaforma Rekeep nel supportare le Pubbliche Amministrazioni nella pianificazione di interventi in ambito urbano.
+In questa puntata di [Smart City Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, Lorenzo Ferrante, responsabile dello sviluppo e implementazione Smart City di [Rekeep](https://www.rekeep.com/), ci ha parlato della sua definizione di Smart City e Smart Land e del ruolo della piattaforma Rekeep nel supportare le Pubbliche Amministrazioni nella pianificazione di interventi in ambito urbano.
 
 <br>
 
