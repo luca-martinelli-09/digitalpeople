@@ -6,7 +6,7 @@ summary: Smart Land Now è il podcast dell'omonimo evento annuale, presso il MIN
   della vita e dei servizi nel contesto urbano e territoriale lombardo.
 image: /podcasts/smartcitynow/cover.jpg
 language: it
-audioVersion: 1
+audioVersion: 2
 categories:
 - Technology
 type: serial
