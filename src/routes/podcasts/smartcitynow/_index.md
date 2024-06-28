@@ -9,7 +9,7 @@ language: it
 audioVersion: 2
 categories:
 - Technology
-type: serial
+type: episodic
 visible: true
 scheme:
 - '#F5E8E4'
