@@ -54,9 +54,9 @@ const xml =
       </itunes:owner>
       <copyright>${podcast.copyright || "Creative Commons Attribuzione - Non opere derivate 4.0 Internazionale"}</copyright>
       
-      <itunes:image href="${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[1]}?t=7" />
+      <itunes:image href="${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[1]}?t=8" />
       <image>
-        <url>${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[1]}?t=7</url>
+        <url>${podcast.image.startsWith("http") ? podcast.image : uri + podcast.imageset[1]}?t=8</url>
         <title>
           <![CDATA[
             ${podcast.title}
@@ -129,7 +129,7 @@ const xml =
         />
         <itunes:duration>${episode.audio?.duration || 0}</itunes:duration>
         
-        ${episodeImageUri ? '<itunes:image href="' + episodeImageUri + '?t=7" />' : ''}
+        ${episodeImageUri ? '<itunes:image href="' + episodeImageUri + '?t=8" />' : ''}
 
         <itunes:explicit>${episode.explicit || "no"}</itunes:explicit>
         <itunes:block>${episode.block || "no"}</itunes:block>
