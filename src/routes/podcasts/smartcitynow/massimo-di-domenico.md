@@ -2,12 +2,12 @@
 title: Massimo Di Domenico - Che cos’è una Smart Land?
 date: 2024-06-12 18:00:00
 image: /podcasts/smartcitynow/massimo-di-domenico/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza
-  le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi
-  nel contesto territoriale lombardo, Massimo Di Domenico, Cluster Manager del Cluster
-  Smart Cities and Communities, ha introdotto il concetto di Smart Land e parlato
-  delle ragioni che hanno portato ad ampliare la definizione di Smart City rispetto
-  all’evento dello scorso anno.
+summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+  tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
+  territoriale lombardo, Massimo Di Domenico, Cluster Manager del Cluster Smart Cities
+  and Communities, ha introdotto il concetto di Smart Land e parlato delle ragioni
+  che hanno portato ad ampliare la definizione di Smart City rispetto all’evento dello
+  scorso anno.
 season: 2
 episode: 1
 audio:

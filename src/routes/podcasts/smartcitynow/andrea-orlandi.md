@@ -2,11 +2,11 @@
 title: Andrea Orlandi - La centralità di Rho nello sviluppo delle Smart City
 date: 2024-06-12 18:10:00
 image: /podcasts/smartcitynow/andrea-orlandi/cover.jpg
-summary: In questa puntata di Smart Land Now, il podcast che analizza
-  le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi
-  nel contesto territoriale lombardo, Andrea Orlandi, Sindaco del Comune di Rho, ha
-  introdotto l’evento e analizzato la centralità del Comune di Rho nel favorire il
-  progresso tecnologico delle Smart City.
+summary: In questa puntata di Smart Land Now, il podcast che analizza le soluzioni
+  tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto
+  territoriale lombardo, Andrea Orlandi, Sindaco del Comune di Rho, ha introdotto
+  l’evento e analizzato la centralità del Comune di Rho nel favorire il progresso
+  tecnologico delle Smart City.
 season: 2
 episode: 2
 audio:
