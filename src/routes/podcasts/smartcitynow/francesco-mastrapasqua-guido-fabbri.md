@@ -21,7 +21,7 @@ imageset:
 - /podcasts/smartcitynow/francesco-mastrapasqua-guido-fabbri/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Francesco Mastrapasqua](https://www.linkedin.com/in/francesco-mastrapasqua-b6b1b42/)**,** Responsabile NexTown per il [Gruppo Enercom](https://www.gruppoenercom.it/), e ****[Guido Fabbri](https://www.linkedin.com/in/guidofabbri/)**,** Responsabile NexTown [GEOSmartcampus](https://www.geosmartcampus.it/it/), hanno presentato i risultati del progetto Nextown Challenge che punta a favorire la digitalizzazione nei comuni di medie e piccole dimensioni.
+In questa puntata di [Smart Land Now](https://www.smartcitynow.it/), il podcast che analizza le soluzioni tecnologiche volte a migliorare la qualità della vita e dei servizi nel contesto territoriale lombardo, [Francesco Mastrapasqua](https://www.linkedin.com/in/francesco-mastrapasqua-b6b1b42/), Responsabile NexTown per il [Gruppo Enercom](https://www.gruppoenercom.it/), e [Guido Fabbri](https://www.linkedin.com/in/guidofabbri/), Responsabile NexTown [GEOSmartcampus](https://www.geosmartcampus.it/it/), hanno presentato i risultati del progetto Nextown Challenge che punta a favorire la digitalizzazione nei comuni di medie e piccole dimensioni.
 
 <br>
 
