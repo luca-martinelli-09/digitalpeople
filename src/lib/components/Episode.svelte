@@ -29,7 +29,7 @@
   </div>
   <div class="flex flex-col gap-3">
     <span class="text-sm font-bold mt-3" style="color: {podcast.scheme?.[3]}">Stagione {episode.season}, Episodio {episode.episode}</span>
-    <h3 class="font-bold text-xl sm:text-2xl">{episode.title}</h3>
+    <h3 class="font-bold text-xl">{episode.title}</h3>
     <div class="text-justify text-sm">{@html episode.summary}</div>
     <div class="flex mt-2">
       <span class="button" on:click={playEpisode}>Ascolta ora</span>

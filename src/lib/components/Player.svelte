@@ -1,9 +1,9 @@
 <script>
-  import { onMount } from "svelte";
-  import { playingStatus as pS } from "$lib/stores.js";
-  import Icon from "@iconify/svelte";
+  import { defaultStatus, playingStatus as pS } from "$lib/stores.js";
   import { secondsToText } from "$lib/utils";
   import Slider from "@bulatdashiev/svelte-slider";
+  import Icon from "@iconify/svelte";
+  import { onMount } from "svelte";
 
   let podcast;
   let episode;
@@ -37,6 +37,8 @@
       } else if (playingStatus.isPlaying && !val.isPlaying) {
         player.pause();
       }
+    } else {
+      player?.pause();
     }
 
     playingStatus = val;
@@ -130,10 +132,16 @@
 {#if episode}
   <div class="episode md:rounded-2xl md:rounded-bl-none p-3 flex gap-5 md:gap-3 shadow-y-2 md:shadow-md items-center" style="background-color: {podcast.scheme?.[0]}">
     <div class="relative">
-      <img class="h-20 w-20 md:h-16 md:w-16 max-w-none aspect-square rounded-xl" src={(episode.imageset?.[0] || episode.image)} alt={episode.title} />
+      <img class="h-20 w-20 md:h-16 md:w-16 max-w-none aspect-square rounded-xl" src={episode.imageset?.[0] || episode.image} alt={episode.title} />
     </div>
     <div class="flex flex-1 flex-col gap-3">
-      <h4 class="text-base md:text-sm font-semibold">{episode.title}</h4>
+      <div class="flex justify-between gap-3 items-start">
+        <h4 class="text-base md:text-sm font-semibold">{episode.title}</h4>
+        <button on:click={() => pS.set({ ...playingStatus, ...defaultStatus })}>
+          <Icon icon="carbon:close" />
+          <span class="sr-only">Chiudi</span>
+        </button>
+      </div>
       <div class="flex gap-3 items-center text-slate-700">
         <!--<span class="cursor-pointer text-xl"><Icon icon="carbon:skip-back-filled" /></span>-->
         <span class="cursor-pointer text-3xl" on:click={togglePlay}>

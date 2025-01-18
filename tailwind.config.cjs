@@ -21,5 +21,7 @@ module.exports = {
   },
   plugins: [
     require('@tailwindcss/typography'),
+    require("tailwindcss-fluid-type"),
+    require('@tailwindcss/forms')
   ],
 }

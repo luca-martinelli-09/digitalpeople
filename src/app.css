@@ -10,8 +10,12 @@
   --thumb-bg: transparent;
 }
 
+html {
+  @apply scroll-smooth;
+}
+
 body {
-  @apply bg-white dark:bg-background-dark dark:text-white font-body transition-colors duration-500;
+  @apply bg-blue-50 dark:bg-background-dark dark:text-white font-body transition-colors duration-500 scroll-smooth;
 }
 
 .description a {
@@ -19,9 +23,17 @@ body {
 }
 
 .button {
-  @apply text-center cursor-pointer rounded-md border-2 border-slate-900 px-5 py-2 font-semibold text-sm transition-colors duration-300 hover:bg-slate-900 hover:text-white active:bg-slate-700;
+  @apply text-center cursor-pointer rounded-xl border-2 border-slate-900 px-5 py-2 font-semibold text-base transition-colors duration-300 hover:bg-slate-900 hover:text-white active:bg-slate-700;
+}
+
+.button.btn-primary {
+  @apply bg-[#1e71b8] text-white border-[#1e71b8];
 }
 
 .button.button-sm {
   @apply py-1 px-3 text-xs;
+}
+
+.bp-img > img {
+  @apply object-cover object-center;
 }

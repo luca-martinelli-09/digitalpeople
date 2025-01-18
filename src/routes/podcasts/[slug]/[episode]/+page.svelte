@@ -34,7 +34,7 @@
 
 <article class="flex flex-col-reverse md:flex-row gap-10 rounded-3xl p-10" style="background-color: {podcast.scheme?.[1]};">
   <div class="flex flex-col gap-5">
-    <h1 class="font-bold text-3xl sm:text-4xl">{episode.title}</h1>
+    <h1 class="font-bold text-3xl">{episode.title}</h1>
     <div class="text-justify description">
       <svelte:component this={episode.description} />
     </div>

@@ -13,9 +13,9 @@
 </script>
 
 <div class="flex flex-col gap-3">
-  <h3 class="font-bold text-xl">Disponibile su</h3>
+  <h3 class="font-bold text-lg">Disponibile su</h3>
   <div>
-    <div class="inline-flex gap-4 rounded-full bg-white p-2 px-3 text-3xl">
+    <div class="inline-flex gap-4 rounded-full bg-white p-2 px-3 text-xl">
       {#if links.spotify}
         <a href={links.spotify} target="_blank" rel="noopener noreferrer">
           <Icon icon="logos:spotify-icon" />
