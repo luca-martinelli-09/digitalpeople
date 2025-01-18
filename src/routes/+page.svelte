@@ -30,7 +30,7 @@
     >
     e il <strong>rapporto uomo-macchina</strong>.
   </p>
-  <div>
+  <div class="flex flex-col md:flex-row gap-2 justify-center">
     <a class="button btn-primary" href="#contatti">Contattaci</a>
     <a class="button" href="#podcast">I nostri podcast</a>
   </div>

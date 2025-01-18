@@ -31,14 +31,13 @@
         <a href="/"><img class="h-9" src="/favicon.png" alt="Digital People" /></a>
         <span class="sr-only">Digital People</span>
       </h1>
-      <nav>
+      <nav class="hidden md:block">
         <ul class="flex gap-5">
           <li><a href="#chi-siamo">Chi siamo</a></li>
           <li><a href="#podcast">Podcast</a></li>
           <li><a href="#contatti">Contatti</a></li>
         </ul>
       </nav>
-      <span class="flex-1" />
     </header>
   </div>
 </div>
