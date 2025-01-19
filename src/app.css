@@ -37,3 +37,11 @@ body {
 .bp-img > img {
   @apply object-cover object-center;
 }
+
+.gradient-fade {
+  mask-image: linear-gradient(to top, transparent 0%, black 25%, black 75%, transparent 100%);
+}
+
+.gradient-fade > svg {
+  @apply min-w-full min-h-full;
+}
