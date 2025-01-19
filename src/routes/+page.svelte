@@ -1,15 +1,10 @@
 <script>
-  import { gsap } from "gsap";
   import { onMount } from "svelte";
   import Card from "../lib/components/Card.svelte";
   import ContactForm from "../lib/components/ContactForm.svelte";
   import GallerySlider from "../lib/components/GallerySlider.svelte";
   import PodcastCard from "../lib/components/PodcastCard.svelte";
   import Section from "../lib/components/Section.svelte";
-
-  import { ScrollTrigger } from "gsap/ScrollTrigger";
-
-  gsap.registerPlugin(ScrollTrigger);
 
   export let data;
 
