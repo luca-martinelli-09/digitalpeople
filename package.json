@@ -44,6 +44,7 @@
 	"dependencies": {
 		"@tailwindcss/forms": "^0.5.10",
 		"bigger-picture": "^1.1.19",
+		"gsap": "^3.12.7",
 		"keen-slider": "^6.8.6"
 	}
 }

@@ -1,10 +1,15 @@
 <script>
-  import PodcastCard from "$lib/components/PodcastCard.svelte";
+  import { gsap } from "gsap";
   import { onMount } from "svelte";
   import Card from "../lib/components/Card.svelte";
-  import GallerySlider from "../lib/components/GallerySlider.svelte";
-  import Section from "../lib/components/Section.svelte";
   import ContactForm from "../lib/components/ContactForm.svelte";
+  import GallerySlider from "../lib/components/GallerySlider.svelte";
+  import PodcastCard from "../lib/components/PodcastCard.svelte";
+  import Section from "../lib/components/Section.svelte";
+
+  import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+  gsap.registerPlugin(ScrollTrigger);
 
   export let data;
 
@@ -39,19 +44,40 @@
   <img slot="title" class="h-24" src="/logo.svg" alt="Digital People" />
 
   <p class="text-center">
-    <strong>Digital People</strong> è un progetto nato a <strong>fine 2019</strong> con l’obiettivo iniziale di <strong>produrre</strong> e <strong>distribuire</strong> il podcast
+    <strong>Digital People</strong> è un progetto <strong>editoriale</strong> nato a fine 2019 con l’obiettivo iniziale di <strong>produrre</strong> e <strong>distribuire</strong> il podcast
     <a class="text-blue-600 font-bold hover:underline" href="https://www.dentrolatecnologia.it" target="_blank" rel="noopener noreferrer">INSiDER - Dentro la Tecnologia</a>, che, attraverso la voce di
     <strong>Davide Fasoli</strong>
-    e il supporto editoriale di <strong>Matteo Gallo</strong> e <strong>Luca Martinelli</strong>, tratta del mondo tecnologico in tutte le sue componenti, mettendo particolarmente in risalto l’<strong
-      >esperienza utente</strong
-    >
-    e il <strong>rapporto uomo-macchina</strong>.
+    e il <strong>contributo autoriale</strong> di <strong>Matteo Gallo</strong> e <strong>Luca Martinelli</strong>, tratta del mondo tecnologico in tutte le sue componenti, mettendo particolarmente in
+    risalto l'<strong>esperienza utente</strong> e il <strong>rapporto uomo-macchina</strong>.
   </p>
   <div class="flex flex-col md:flex-row gap-2 justify-center">
     <a class="button btn-primary" href="#contatti">Contattaci</a>
     <a class="button" href="#podcast">I nostri podcast</a>
   </div>
 </Section>
+
+<div>
+  <GallerySlider
+    settings={{
+      slides: {
+        origin: "auto",
+        perView: 1.25,
+        spacing: 10,
+      },
+      breakpoints: {
+        "(min-width: 1024px)": {
+          slides: {
+            origin: "auto",
+            perView: "auto",
+            spacing: 10,
+          },
+        },
+      },
+    }}
+    imageClassSize="md:min-w-[30rem] aspect-[5/4]"
+    images={["/images/10.png", "/images/11.png", "/images/13.png", "/images/14.png", "/images/1.jpg", "/images/2.png", "/images/3.png", "/images/16.png", "/images/12.png", "/images/6.jpg"]}
+  />
+</div>
 
 <Section title="Chi siamo" id="chi-siamo">
   <svg viewBox="0 0 700 700" slot="background">
@@ -74,17 +100,17 @@
     <div>
       <Card title="Produttore" icon="fluent:mic-32-regular">
         <p>Realizzando podcast in <strong>alta qualità</strong>, occupandoci della parte <strong>tecnica, organizzativa</strong> e della scelta dell’ospite da intervistare.</p>
-        <div slot="footer" class="mt-5">
+        <!-- <div slot="footer" class="mt-5">
           <GallerySlider images={["/images/10.png", "/images/11.png", "/images/13.png", "/images/14.png"]} />
-        </div>
+        </div> -->
       </Card>
     </div>
     <div>
       <Card title="Media partner" icon="fluent:megaphone-loud-32-regular">
         <p>Raccontando gli eventi attraverso <strong>podcast con episodi di 10 o 20 minuti</strong> per coinvolgere maggiormente gli ascoltatori.</p>
-        <div slot="footer" class="mt-5">
+        <!-- <div slot="footer" class="mt-5">
           <GallerySlider images={["/images/1.jpg", "/images/2.png", "/images/3.png", "/images/16.png", "/images/12.png", "/images/6.jpg"]} />
-        </div>
+        </div> -->
       </Card>
     </div>
     <div class="col-span-2">
@@ -108,7 +134,7 @@
   </div>
 </Section>
 
-<Section title="Perché il podcast?" id="perché">
+<Section title="Perché i podcast?" id="perché">
   <svg slot="background" viewBox="0 0 700 700">
     <defs>
       <radialGradient id="ffflux-gradient-3">
