@@ -70,7 +70,7 @@
       },
     }}
     imageClassSize="md:min-w-[30rem] aspect-[5/4]"
-    images={["/images/10.png", "/images/11.png", "/images/13.png", "/images/14.png", "/images/1.jpg", "/images/2.png", "/images/3.png", "/images/16.png", "/images/12.png", "/images/6.jpg"]}
+    images={["/images/1.jpg", "/images/2.png", "/images/3.png", "/images/16.png", "/images/12.png", "/images/6.jpg", "/images/10.png", "/images/11.png", "/images/13.png", "/images/14.png"]}
   />
 </div>
 
