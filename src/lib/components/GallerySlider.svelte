@@ -91,8 +91,8 @@
   <div class="mt-5">
     <div bind:this={sliderElement} class="keen-slider max-w-full">
       {#each images as image}
-        <a class="keen-slider__slide {imageClassSize}" href={image} data-img={image} data-width="2000" data-height="1600" on:click|preventDefault={openImage}>
-          <img loading="lazy" class="h-full w-full rounded-xl object-cover" src={image} alt="" />
+        <a class="keen-slider__slide {imageClassSize}" href={image} data-img={image.src} data-th data-thumb={image.thumb} data-width="2000" data-height="1600" on:click|preventDefault={openImage}>
+          <img loading="lazy" class="h-full w-full rounded-xl object-cover" src={image.src} srcset={image.srcset} alt="" />
         </a>
       {/each}
     </div>

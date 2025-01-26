@@ -9,6 +9,18 @@
   export let data;
 
   const podcasts = data.podcasts;
+  const persons = [
+    { title: "Amazon", image: "https://www.dentrolatecnologia.it/persone/amazon.jpg", link: "https://www.dentrolatecnologia.it/amazon.html" },
+    { title: "Commissione Europea", image: "https://www.dentrolatecnologia.it/persone/commissione.ue.jpg", link: "https://www.dentrolatecnologia.it/commissione.ue.html" },
+    { title: "McDonald's", image: "https://www.dentrolatecnologia.it/persone/mcdonalds.jpg", link: "https://www.dentrolatecnologia.it/mcdonalds.html" },
+    { title: "Leonardo", image: "https://www.dentrolatecnologia.it/persone/leonardo.jpg", link: "https://www.dentrolatecnologia.it/leonardo.html" },
+    { title: "Istat", image: "https://www.dentrolatecnologia.it/persone/istat.jpg", link: "https://www.dentrolatecnologia.it/istat.html" },
+    { title: "Boston Dynamics", image: "https://www.dentrolatecnologia.it/persone/boston.dynamics.jpg", link: "https://www.dentrolatecnologia.it/boston.dynamics.html" },
+    { title: "Agenzia Spaziale Europea", image: "https://www.dentrolatecnologia.it/persone/esa.jpg", link: "https://www.dentrolatecnologia.it/esa.html" },
+    { title: "Enel X", image: "https://www.dentrolatecnologia.it/persone/enelx.jpg", link: "https://www.dentrolatecnologia.it/enelx.html" },
+    { title: "Samsung", image: "https://www.dentrolatecnologia.it/persone/samsung.jpg", link: "https://www.dentrolatecnologia.it/samsung.html" },
+    { title: "CERN", image: "https://www.dentrolatecnologia.it/persone/cern.jpg", link: "https://www.dentrolatecnologia.it/cern.html" },
+  ];
 
   onMount(async () => {
     document.body.removeAttribute("style");
@@ -70,7 +82,58 @@
       },
     }}
     imageClassSize="md:min-w-[30rem] aspect-[5/4]"
-    images={["/images/1.jpg", "/images/2.png", "/images/3.png", "/images/16.png", "/images/12.png", "/images/6.jpg", "/images/10.png", "/images/11.png", "/images/13.png", "/images/14.png"]}
+    images={[
+      {
+        src: "/images/1.2400x2400.webp",
+        srcset: "/images/1.2400x2400.webp 2400w, /images/1.1000x1000.webp 1000w, /images/1.380x380.webp 400w",
+        thumb: "/images/1.380x380.webp",
+      },
+      {
+        src: "/images/2.2400x2400.webp",
+        srcset: "/images/2.2400x2400.webp 2400w, /images/2.1000x1000.webp 1000w, /images/2.380x380.webp 400w",
+        thumb: "/images/2.380x380.webp",
+      },
+      {
+        src: "/images/3.2400x2400.webp",
+        srcset: "/images/3.2400x2400.webp 2400w, /images/3.1000x1000.webp 1000w, /images/3.380x380.webp 400w",
+        thumb: "/images/3.380x380.webp",
+      },
+      {
+        src: "/images/16.2400x2400.webp",
+        srcset: "/images/16.2400x2400.webp 2400w, /images/16.1000x1000.webp 1000w, /images/16.380x380.webp 400w",
+        thumb: "/images/16.380x380.webp",
+      },
+      {
+        src: "/images/12.2400x2400.webp",
+        srcset: "/images/12.2400x2400.webp 2400w, /images/12.1000x1000.webp 1000w, /images/12.380x380.webp 400w",
+        thumb: "/images/12.380x380.webp",
+      },
+      {
+        src: "/images/6.2400x2400.webp",
+        srcset: "/images/6.2400x2400.webp 2400w, /images/6.1000x1000.webp 1000w, /images/6.380x380.webp 400w",
+        thumb: "/images/6.380x380.webp",
+      },
+      {
+        src: "/images/10.2400x2400.webp",
+        srcset: "/images/10.2400x2400.webp 2400w, /images/10.1000x1000.webp 1000w, /images/10.380x380.webp 400w",
+        thumb: "/images/10.380x380.webp",
+      },
+      {
+        src: "/images/11.2400x2400.webp",
+        srcset: "/images/11.2400x2400.webp 2400w, /images/11.1000x1000.webp 1000w, /images/11.380x380.webp 400w",
+        thumb: "/images/11.380x380.webp",
+      },
+      {
+        src: "/images/13.2400x2400.webp",
+        srcset: "/images/13.2400x2400.webp 2400w, /images/13.1000x1000.webp 1000w, /images/13.380x380.webp 400w",
+        thumb: "/images/13.380x380.webp",
+      },
+      {
+        src: "/images/14.2400x2400.webp",
+        srcset: "/images/14.2400x2400.webp 2400w, /images/14.1000x1000.webp 1000w, /images/14.380x380.webp 400w",
+        thumb: "/images/14.380x380.webp",
+      },
+    ]}
   />
 </div>
 
@@ -130,7 +193,7 @@
 </Section>
 
 <Section title="Perché i podcast?" id="perché">
-  <svg slot="background" viewBox="0 0 700 700">
+  <svg slot="background" class="opacity-60" viewBox="0 0 700 700">
     <defs>
       <radialGradient id="ffflux-gradient-3">
         <stop offset="0%" stop-color="hsl(263, 96%, 52%)"></stop>
@@ -164,8 +227,20 @@
   </div>
 </Section>
 
+<Section title="Hanno partecipato" id="partecipanti" highlight>
+  <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-5">
+    {#each persons as person}
+      <Card>
+        <a slot="image" href={person.link} target="_blank" rel="noopener noreferrer">
+          <img class="w-full h-full object-cover rounded-3xl" src={person.image} alt={person.title} />
+        </a>
+      </Card>
+    {/each}
+  </div>
+</Section>
+
 <Section title="Come produciamo un podcast" id="come">
-  <svg slot="background" viewBox="0 0 700 700">
+  <svg slot="background" class="opacity-60" viewBox="0 0 700 700">
     <defs>
       <radialGradient id="ffflux-gradient-4">
         <stop offset="0%" stop-color="hsl(0, 93%, 29%)"></stop>
