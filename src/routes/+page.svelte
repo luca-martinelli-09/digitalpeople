@@ -81,7 +81,7 @@
         },
       },
     }}
-    imageClassSize="md:min-w-[30rem] aspect-[5/4]"
+    imageClassSize="md:min-w-[30rem] h-full aspect-[5/4]"
     images={[
       {
         src: "/images/1.2400x2400.webp",
