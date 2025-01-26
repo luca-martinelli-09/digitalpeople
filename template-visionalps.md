@@ -1,9 +1,9 @@
 ---
 title: Titolo
-date: 2023-10-04 18:00:00
+date: 2024-09-24 18:00:00
 image: /podcasts/{podcast}/{slug}/cover.jpg
 summary: Descrizione
-season: 2
+season: 3
 episode: 1
 audio:
   file: /podcasts/{podcast}/{slug}/audio.mp3

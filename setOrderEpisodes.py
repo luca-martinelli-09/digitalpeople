@@ -111,6 +111,14 @@ PODCAST_ORDERS = {
             "matteo-jarre",
             "nicola-bosticco",
         ],
+        [
+            "diego-zarneri",
+            "mattia-pedroncelli",
+            "bryan-ferrari",
+            "davide-buscato",
+            "ugo-morenzetti",
+            "jacopo-pilat",
+        ],
     ],
     "smartcitynow": [
         [
@@ -145,7 +153,7 @@ PODCAST_ORDERS = {
             "simone-sartoni",
             "giovanni-palombini",
             "filippo-troiani-2",
-        ]
+        ],
     ],
     "smr": [
         [

@@ -4,10 +4,13 @@ FOLDER = './src/routes/podcasts'
 STATIC_FOLDER = './static/podcasts'
 
 EPISODES_TO_GENERATE = {
-    "smartcitynow": [
-        "massimo-di-domenico", "andrea-orlandi", "laura-morgagni", "roberto-redaelli", "dalia-zecchi",
-        "alberto-mandrile", "gloria-chindamo", "francesco-mastrapasqua-guido-fabbri", "francesco-maffini",
-        "simone-sartoni", "giovanni-palombini", "filippo-troiani-2"
+    "visionalps": [
+        "diego-zarneri",
+        "mattia-pedroncelli",
+        "bryan-ferrari",
+        "davide-buscato",
+        "ugo-morenzetti",
+        "jacopo-pilat",
     ]
 }
 
