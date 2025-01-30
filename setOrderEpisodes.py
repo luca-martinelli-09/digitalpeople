@@ -118,6 +118,8 @@ PODCAST_ORDERS = {
             "davide-buscato",
             "ugo-morenzetti",
             "jacopo-pilat",
+            "paolo-omero",
+            "marzia-istria",
         ],
     ],
     "smartcitynow": [

@@ -5,12 +5,8 @@ STATIC_FOLDER = './static/podcasts'
 
 EPISODES_TO_GENERATE = {
     "visionalps": [
-        "diego-zarneri",
-        "mattia-pedroncelli",
-        "bryan-ferrari",
-        "davide-buscato",
-        "ugo-morenzetti",
-        "jacopo-pilat",
+        "paolo-omero",
+        "marzia-istria"
     ]
 }
 
