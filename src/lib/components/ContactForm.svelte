@@ -2,7 +2,7 @@
   let subject = "";
   let message = "";
 
-  let mailLink = "mailto:digitalpeople@dentrolatecnologia.it?subject=" + subject + "&body=" + message;
+  let mailLink = "mailto:info@digitalpeople.tech?subject=" + subject + "&body=" + message;
 </script>
 
 <div>

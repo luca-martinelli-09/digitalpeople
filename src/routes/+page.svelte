@@ -292,7 +292,7 @@
 <Section title="Contattaci" id="contatti" highlight>
   <div class="grid md:grid-cols-2 gap-4">
     <div class="grid gap-2">
-      <Card title="Email"><a href="mailto:digitalpeople@dentrolatecnologia.it">digitalpeople@dentrolatecnologia.it</a></Card>
+      <Card title="Email"><a href="mailto:info@digitalpeople.tech">info@digitalpeople.tech</a></Card>
       <!-- <Card title="Instagram"><a href="http://instagram.com/dentrolatecnologia" target="_blank" rel="noopener noreferrer">@dentrolatecnologia</a></Card> -->
     </div>
     <div class="row-span-2">
