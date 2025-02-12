@@ -120,6 +120,7 @@ PODCAST_ORDERS = {
             "jacopo-pilat",
             "paolo-omero",
             "marzia-istria",
+            "paolo-dileno"
         ],
     ],
     "smartcitynow": [
@@ -199,7 +200,7 @@ for podcast in PODCAST_ORDERS.keys():
                     lastDate = episodeDate
                 else:
                     lastDate = lastDate + timedelta(minutes=10)
-                    episodeInfo["date"] = lastDate.strftime("%Y-%m-%d %H:%M:%S")
+                    episodeInfo["date"] = lastDate
 
                 # Save
                 f = BytesIO()

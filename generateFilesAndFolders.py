@@ -5,8 +5,7 @@ STATIC_FOLDER = './static/podcasts'
 
 EPISODES_TO_GENERATE = {
     "visionalps": [
-        "paolo-omero",
-        "marzia-istria"
+        "paolo-dileno"
     ]
 }
 
