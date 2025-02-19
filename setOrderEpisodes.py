@@ -120,7 +120,8 @@ PODCAST_ORDERS = {
             "jacopo-pilat",
             "paolo-omero",
             "marzia-istria",
-            "paolo-dileno"
+            "paolo-dileno",
+            "maria-vittoria-ceschi"
         ],
     ],
     "smartcitynow": [
