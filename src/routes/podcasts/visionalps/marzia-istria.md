@@ -1,13 +1,13 @@
 ---
 title: Marzia Istria - La comunità al centro nella mobilità del futuro @Valcamonica
-date: 2024-12-12 18:20:00
+date: 2024-12-12 18:30:00
 image: /podcasts/visionalps/marzia-istria/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Marzia Istria, Communication
   Sustainability & Mobility Manager di Gremobo, ci ha parlato della loro visione di
   mobilità del futuro, che mette al centro l’individuo e la comunità.
 season: 3
-episode: 8
+episode: 9
 audio:
   file: /podcasts/visionalps/marzia-istria/audio.mp3
   size: 9190840

@@ -91,7 +91,6 @@ PODCAST_ORDERS = {
             "marco-da-rin-zanco",
             "--stefano-savaris",
             "--ellen-broccolo",
-            "--chiara-costa",
             "ludovica-beatrice-rubbini",
             "michele-diasio-2",
             "michele-soavi",
@@ -119,6 +118,7 @@ PODCAST_ORDERS = {
             "ugo-morenzetti",
             "jacopo-pilat",
             "paolo-omero",
+            "chiara-costa",
             "marzia-istria",
             "paolo-dileno",
             "maria-vittoria-ceschi"

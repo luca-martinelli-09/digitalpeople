@@ -1,13 +1,13 @@
 ---
 title: Maria Vittoria Ceschi - NIVA, un ecosistema per scalatori e sciatori @Valcamonica
-date: 2024-12-12 18:40:00
+date: 2024-12-12 18:50:00
 image: /podcasts/visionalps/maria-vittoria-ceschi/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Maria Vittoria Ceschi,
   Co-Founder & CEO di NIVA, ci ha parlato di cos’è NIVA e delle esigenze a cui questo
   progetto risponde per connettere tra loro appassionati di arrampicata e sci.
 season: 3
-episode: 10
+episode: 11
 audio:
   file: /podcasts/visionalps/maria-vittoria-ceschi/audio.mp3
   size: 10362797

@@ -1,14 +1,14 @@
 ---
 title: Paolo Dileno - VirtuAlp, condividere e percorrere i sentieri montani con la
   realtà virtuale @Valcamonica
-date: 2024-12-12 18:30:00
+date: 2024-12-12 18:40:00
 image: /podcasts/visionalps/paolo-dileno/cover.jpg
 summary: In questa puntata di VisionAlps, il podcast che approfondisce le attuali
   tematiche legate alla trasformazione digitale delle Alpi, Paolo Dileno, fondatore
   di VirtuAlp, ci ha parlato di cos’è VirtuAlp e delle motivazioni dietro la creazione
   di questo progetto di Realtà Virtuale.
 season: 3
-episode: 9
+episode: 10
 audio:
   file: /podcasts/visionalps/paolo-dileno/audio.mp3
   size: 9714543
