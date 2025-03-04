@@ -4,12 +4,12 @@ FOLDER = './src/routes/podcasts'
 STATIC_FOLDER = './static/podcasts'
 
 EPISODES_TO_GENERATE = {
-    "visionalps": [
-        "chiara-costa-2"
+    "techrewind": [
+        "s1e7"
     ]
 }
 
-template = open("./template-visionalps.md", "r").read()
+template = open("./template-techrewind.md", "r").read()
 
 
 def processTemplate(templ, dict):
