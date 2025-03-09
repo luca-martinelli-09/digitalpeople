@@ -116,12 +116,13 @@ PODCAST_ORDERS = {
             "bryan-ferrari",
             "davide-buscato",
             "ugo-morenzetti",
+            "andrea-piol",
             "jacopo-pilat",
             "paolo-omero",
             "chiara-costa",
             "marzia-istria",
             "paolo-dileno",
-            "maria-vittoria-ceschi"
+            "maria-vittoria-ceschi",
         ],
     ],
     "smartcitynow": [

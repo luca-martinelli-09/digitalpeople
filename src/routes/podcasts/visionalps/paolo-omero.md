@@ -8,7 +8,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   pratici, di come l’IA generativa può trasformare e migliorare l’esperienza digitale
   e fisica dei turisti.
 season: 3
-episode: 7
+episode: 8
 audio:
   file: /podcasts/visionalps/paolo-omero/audio.mp3
   size: 14430794

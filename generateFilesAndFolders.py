@@ -1,15 +1,11 @@
 import os
 
-FOLDER = './src/routes/podcasts'
-STATIC_FOLDER = './static/podcasts'
+FOLDER = "./src/routes/podcasts"
+STATIC_FOLDER = "./static/podcasts"
 
-EPISODES_TO_GENERATE = {
-    "techrewind": [
-        "s1e7"
-    ]
-}
+EPISODES_TO_GENERATE = {"visionalps": ["andrea-piol"]}
 
-template = open("./template-techrewind.md", "r").read()
+template = open("./template-visionalps.md", "r").read()
 
 
 def processTemplate(templ, dict):
@@ -42,8 +38,9 @@ for podcast in EPISODES_TO_GENERATE.keys():
         else:
             print(f"    🔨 Creo il template")
             with open(episodePath, "w+") as fp:
-                fp.write(processTemplate(
-                    template, {"slug": episode, "podcast": podcast}))
+                fp.write(
+                    processTemplate(template, {"slug": episode, "podcast": podcast})
+                )
 
         if os.path.exists(staticEpisodeFolder):
             print(f"    🔍 La cartella statica è già esistente")

@@ -7,7 +7,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   Sustainability & Mobility Manager di Gremobo, ci ha parlato della loro visione di
   mobilità del futuro, che mette al centro l’individuo e la comunità.
 season: 3
-episode: 9
+episode: 10
 audio:
   file: /podcasts/visionalps/marzia-istria/audio.mp3
   size: 9190840
