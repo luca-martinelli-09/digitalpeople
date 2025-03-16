@@ -21,7 +21,7 @@ imageset:
 - /podcasts/visionalps/bryan-ferrari/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [**VisionAlps**](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, **[Bryan Ferrar**i](https://www.linkedin.com/in/bryan-ferrari-668a7ba4/?originalSubdomain=it), Socio [**Ferrari Ski Service](https://www.ferrariskiservice.com/)** ci ha parlato di come promuove la propria attività attraverso i social media come YouTube e Linkedin.
+In questa puntata di [**VisionAlps**](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [**Bryan Ferrari**](https://www.linkedin.com/in/bryan-ferrari-668a7ba4/), Socio **[Ferrari Ski Service](https://www.ferrariskiservice.com/)** ci ha parlato di come promuove la propria attività attraverso i social media come YouTube e Linkedin.
 
 <br>
 

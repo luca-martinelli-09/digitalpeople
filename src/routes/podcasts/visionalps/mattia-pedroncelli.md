@@ -22,7 +22,7 @@ imageset:
 - /podcasts/visionalps/mattia-pedroncelli/cover.2400x2400.jpeg
 ---
 
-In questa puntata di [**VisionAlps**](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [**Mattia Pedroncelli**](https://www.linkedin.com/in/mattia-pedroncelli/), CEO di [**Criptolario Srl](https://www.criptolario.com/) - Società Benefit**, ci ha parlato del progetto Meetland, ovvero una piattaforma basata sul metaverso pensata per garantire dei punti di incontro tra i ragazzi della generazione Z e il mondo del lavoro.
+In questa puntata di [**VisionAlps**](https://www.visionalps.com/), il podcast che approfondisce le attuali tematiche legate alla trasformazione digitale delle Alpi, [**Mattia Pedroncelli**](https://www.linkedin.com/in/mattia-pedroncelli/), CEO di **[Criptolario Srl](https://www.criptolario.com/) - Società Benefit**, ci ha parlato del progetto Meetland, ovvero una piattaforma basata sul metaverso pensata per garantire dei punti di incontro tra i ragazzi della generazione Z e il mondo del lavoro.
 
 <br>
 
