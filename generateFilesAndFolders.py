@@ -3,7 +3,7 @@ import os
 FOLDER = "./src/routes/podcasts"
 STATIC_FOLDER = "./static/podcasts"
 
-EPISODES_TO_GENERATE = {"visionalps": ["andrea-piol"]}
+EPISODES_TO_GENERATE = {"visionalps": ["sveva-ianese"]}
 
 template = open("./template-visionalps.md", "r").read()
 

@@ -7,7 +7,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   & CEO di Incredible Company, ci ha parlato di cosa si occupa la sua società e della
   digitalizzazione del settore delle vendite nell’ambito B2B.
 season: 3
-episode: 7
+episode: 8
 audio:
   file: /podcasts/visionalps/jacopo-pilat/audio.mp3
   size: 10415460

@@ -7,7 +7,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   Co-Founder & CEO di NIVA, ci ha parlato di cos’è NIVA e delle esigenze a cui questo
   progetto risponde per connettere tra loro appassionati di arrampicata e sci.
 season: 3
-episode: 12
+episode: 13
 audio:
   file: /podcasts/visionalps/maria-vittoria-ceschi/audio.mp3
   size: 10362797

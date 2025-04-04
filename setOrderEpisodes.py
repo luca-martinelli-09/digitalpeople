@@ -117,6 +117,7 @@ PODCAST_ORDERS = {
             "davide-buscato",
             "ugo-morenzetti",
             "andrea-piol",
+            "sveva-ianese",
             "jacopo-pilat",
             "paolo-omero",
             "chiara-costa",

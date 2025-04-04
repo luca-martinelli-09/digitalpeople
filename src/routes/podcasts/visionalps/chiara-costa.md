@@ -8,7 +8,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   Artificiale e delle differenze tra i concetti di “creazione” e “invenzione” legati
   a questa tecnologia.
 season: 3
-episode: 9
+episode: 10
 audio:
   file: /podcasts/visionalps/chiara-costa/audio.mp3
   size: 12897302

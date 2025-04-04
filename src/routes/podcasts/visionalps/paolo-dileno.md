@@ -8,7 +8,7 @@ summary: In questa puntata di VisionAlps, il podcast che approfondisce le attual
   di VirtuAlp, ci ha parlato di cos’è VirtuAlp e delle motivazioni dietro la creazione
   di questo progetto di Realtà Virtuale.
 season: 3
-episode: 11
+episode: 12
 audio:
   file: /podcasts/visionalps/paolo-dileno/audio.mp3
   size: 9714543
