@@ -32,7 +32,7 @@
     <rect width="700" height="700" fill="url(#ffflux-gradient-2)" filter="url(#ffflux-filter-2)"></rect>
   </svg>
 
-  <img slot="title" class="h-[500px] rounded-2xl" src="/podcasts/innovation-by-proximity/cover.1000x1000.webp" alt="Innovation by Proximity" />
+  <img slot="title" class="w-full max-w-[500px] rounded-2xl" src="/podcasts/innovation-by-proximity/cover.1000x1000.webp" alt="Innovation by Proximity" />
 
   <p class="text-center">
     <strong>Innovation by Proximity</strong> explores how cutting-edge innovation thrives when tech companies, universities, and research hubs <strong>collaborate within shared ecosystems</strong>.
