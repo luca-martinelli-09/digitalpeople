@@ -26,6 +26,7 @@ OPTIONS = [
             "Tech Rewind",
             "Smart Metering Revolution",
             "IoMOBILITY",
+            "Innovation by Proximity",
         ],
     },
     {
@@ -39,6 +40,7 @@ OPTIONS = [
             "Tech Rewind",
             "Smart Metering Revolution",
             "IoMOBILITY",
+            "Innovation by Proximity",
         ],
     },
 ]

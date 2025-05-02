@@ -1,7 +1,7 @@
 <script>
   import PlayButton from "$lib/components/PlayButton.svelte";
   import PodcastCard from "$lib/components/PodcastCard.svelte";
-  import AvailableLinks from "../../../../lib/components/AvailableLinks.svelte";
+  import AvailableLinks from "../../../../../lib/components/AvailableLinks.svelte";
   import { realBaseURI } from "$lib/info";
 
   export let data;

@@ -1,7 +1,7 @@
 <script>
   import Episode from "$lib/components/Episode.svelte";
   import { realBaseURI } from "$lib/info";
-  import AvailableLinks from "../../../lib/components/AvailableLinks.svelte";
+  import AvailableLinks from "../../../../lib/components/AvailableLinks.svelte";
 
   export let data;
 
