@@ -155,6 +155,7 @@
         <Slider bind:value={currentTime} on:input={setTimeSlider}>
           <span class="block w-3 h-3 rounded-full bg-slate-700 cursor-pointer" />
         </Slider>
+        <span class="text-slate-700">{secondsToText(playingStatus.currentTime)}</span>
         <span class="text-slate-700">{secondsToText(playingStatus.duration - playingStatus.currentTime)}</span>
       </div>
     </div>
